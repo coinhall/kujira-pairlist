@@ -473,8 +473,8 @@ packages:
   /@types/node/18.11.10:
     resolution: {integrity: sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==}
 
-  /@types/node/18.15.1:
-    resolution: {integrity: sha512-U2TWca8AeHSmbpi314QBESRk7oPjSZjDsR+c+H4ECC1l+kFgpZf8Ydhv3SJpPy51VyZHHqxlb6mTTqYNNRVAIw==}
+  /@types/node/18.15.2:
+    resolution: {integrity: sha512-sDPHm2wfx2QhrMDK0pOt2J4KLJMAcerqWNvnED0itPRJWvI+bK+uNHzcH1dFsBlf7G3u8tqXmRF3wkvL9yUwMw==}
     dev: false
 
   /@typescript-eslint/parser/4.33.0_jofidmxrjzhj7l6vknpw5ecvfe:
@@ -1656,7 +1656,7 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 18.15.1
+      '@types/node': 18.15.2
       long: 4.0.0
     dev: false
 
