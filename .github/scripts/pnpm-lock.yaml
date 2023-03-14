@@ -337,8 +337,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@injectivelabs/chain-api/1.9.16:
-    resolution: {integrity: sha512-mcB93gKJmQ7Hll2nHoulUJTkHZE4xvw39B/OG33eSDdOwDHqtELn9qo0XRVPCSEnz4WpBJflmV5666sjHRVAag==}
+  /@injectivelabs/chain-api/1.9.17:
+    resolution: {integrity: sha512-7cruWOjekUDJarry2qNdB8ynmq7GUc4xWRACawKBNgKfOrKNLQTbOpQZyLmHwcJsFM/YNCRWJ2+CPoZn1Rxb3g==}
     dependencies:
       '@injectivelabs/grpc-web': 0.0.1_google-protobuf@3.21.2
       google-protobuf: 3.21.2
@@ -2011,7 +2011,7 @@ packages:
       '@cosmjs/launchpad': 0.27.1
       '@cosmjs/stargate': 0.29.5
       '@ethersproject/bignumber': 5.7.0
-      '@injectivelabs/chain-api': 1.9.16
+      '@injectivelabs/chain-api': 1.9.17
       '@keplr-wallet/types': 0.11.46
       '@types/google-protobuf': 3.15.6
       cosmjs-types: 0.5.2
