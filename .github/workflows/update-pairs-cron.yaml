@@ -56,7 +56,7 @@ jobs:
         id: diff
         run: |
           cd ${{ github.workspace }}
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet fin-pairs.json || echo "changed=true" >> $GITHUB_OUTPUT
           
       - name: Commit and push changes
         if: steps.diff.outputs.changed == 'true'
