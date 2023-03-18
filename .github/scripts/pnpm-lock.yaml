@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/a2e7f9c10876f9181178c844e23e76266629a0c5_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/bbb238c39d103f002300cfbea77f5459c07c4ec2_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -45,7 +45,7 @@ packages:
   /@confio/ics23/0.6.8:
     resolution: {integrity: sha512-wB6uo+3A50m0sW/EWcU64xpV/8wShZ6bMTa7pF8eYsTrSkQA7oLUIJcs/wb8g4y2Oyq701BaGiO6n/ak5WXO1w==}
     dependencies:
-      '@noble/hashes': 1.2.0
+      '@noble/hashes': 1.3.0
       protobufjs: 6.11.3
     dev: false
 
@@ -108,7 +108,7 @@ packages:
       '@cosmjs/encoding': 0.29.5
       '@cosmjs/math': 0.29.5
       '@cosmjs/utils': 0.29.5
-      '@noble/hashes': 1.2.0
+      '@noble/hashes': 1.3.0
       bn.js: 5.2.1
       elliptic: 6.5.4
       libsodium-wrappers: 0.7.11
@@ -369,8 +369,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.14
     dev: false
 
-  /@keplr-wallet/types/0.11.47:
-    resolution: {integrity: sha512-BbD5XI36CAsqWJgYyFh7GtGdxlNLJ4FMHO6r500xvBZzBPZID8izqKTr+n4yYA8/LMG89dHgnduA2w9mkXgTow==}
+  /@keplr-wallet/types/0.11.48:
+    resolution: {integrity: sha512-eodb8xQl6lIKSaNuLj+4doWGkv+GYOHrYGHFej5vvqaIcPwlOzJxAWAGPYw+YzGUd/9CVlzzv4q63INbts6UNQ==}
     dependencies:
       axios: 0.27.2
       long: 4.0.0
@@ -378,8 +378,8 @@ packages:
       - debug
     dev: false
 
-  /@noble/hashes/1.2.0:
-    resolution: {integrity: sha512-FZfhjEDbT5GRswV3C6uvLPHMiVD6lQBmpoX5+eSiPaMTXte/IKqI5dykDxzZB/WBeK/CDuQRBWarPdi3FNY2zQ==}
+  /@noble/hashes/1.3.0:
+    resolution: {integrity: sha512-ilHEACi9DwqJB0pw7kv+Apvh50jiiSyR/cQ3y4W7lOR5mhvn/50FLUfsnfJz0BDZtl/RR16kXvptiv6q1msYZg==}
     dev: false
 
   /@nodelib/fs.scandir/2.1.5:
@@ -662,7 +662,7 @@ packages:
   /bip39/3.1.0:
     resolution: {integrity: sha512-c9kiwdk45Do5GL0vJMe7tS95VjCii65mYAH7DfWl3uW8AVzXKQVUm64i3hzVybBDMp9r7j9iNxR85+ul8MdN/A==}
     dependencies:
-      '@noble/hashes': 1.2.0
+      '@noble/hashes': 1.3.0
     dev: false
 
   /bn.js/4.12.0:
@@ -2001,9 +2001,9 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/a2e7f9c10876f9181178c844e23e76266629a0c5_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/a2e7f9c10876f9181178c844e23e76266629a0c5}
-    id: github.com/Team-Kujira/kujira.js/a2e7f9c10876f9181178c844e23e76266629a0c5
+  github.com/Team-Kujira/kujira.js/bbb238c39d103f002300cfbea77f5459c07c4ec2_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/bbb238c39d103f002300cfbea77f5459c07c4ec2}
+    id: github.com/Team-Kujira/kujira.js/bbb238c39d103f002300cfbea77f5459c07c4ec2
     name: kujira.js
     version: 0.5.0
     dependencies:
@@ -2012,7 +2012,7 @@ packages:
       '@cosmjs/stargate': 0.29.5
       '@ethersproject/bignumber': 5.7.0
       '@injectivelabs/chain-api': 1.9.17
-      '@keplr-wallet/types': 0.11.47
+      '@keplr-wallet/types': 0.11.48
       '@types/google-protobuf': 3.15.6
       cosmjs-types: 0.5.2
       long: 4.0.0
