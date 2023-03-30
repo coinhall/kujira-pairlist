@@ -2144,8 +2144,8 @@
       "multiswap": false,
       "pool": "kujira1chfsnjzfjvfv9tdjrxxlnagv4m6s8aenmcrmzvtd8pjcns4qnalqdazdxt"
     },
-    "kujira12g0jkp5hqlujw57akq2prkq4hq7hsy4qecmv93gdyzelggzpc4dsjtkvh2": {
-      "address": "kujira12g0jkp5hqlujw57akq2prkq4hq7hsy4qecmv93gdyzelggzpc4dsjtkvh2",
+    "kujira1zg4e37hz5hzlf8kmcaxjf85nyevk3qr2dp307lafdgst2928rghqed59ed": {
+      "address": "kujira1zg4e37hz5hzlf8kmcaxjf85nyevk3qr2dp307lafdgst2928rghqed59ed",
       "denoms": [
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
@@ -2157,13 +2157,9 @@
           "symbol": "axlUSDC"
         },
         {
-          "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
+          "reference": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
           "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "uusdt"
-          },
-          "symbol": "axlUSDT"
+          "symbol": "USDC"
         }
       ],
       "precision": {
