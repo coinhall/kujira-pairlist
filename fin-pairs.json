@@ -1314,31 +1314,6 @@
       "multiswap": true,
       "pool": "kujira1a5fcczk37kks0zkg9znzf8pef83evwm230rejc8zmefrc48per5qcfwg65"
     },
-    "kujira1ky9kv2m4dnykm90d0lj5089k4efttgfpx34zyvkklxnew48c522sggqjsg": {
-      "address": "kujira1ky9kv2m4dnykm90d0lj5089k4efttgfpx34zyvkklxnew48c522sggqjsg",
-      "denoms": [
-        {
-          "reference": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "wftm-wei"
-          },
-          "symbol": "wFTM"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 12,
-      "multiswap": false,
-      "pool": "kujira15l8396c5cnvlu7qyzva9yvj4gm8dzlnk999ss4qknm74ytm3v7dsawt3sx"
-    },
     "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse": {
       "address": "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse",
       "denoms": [
@@ -1421,7 +1396,7 @@
       },
       "decimalDelta": 12,
       "multiswap": false,
-      "pool": "kujira1kggddmdvjjxl43luez7dp9snt96jwyj05k5hyxzstvj886u6entsu2na4z"
+      "pool": "kujira15t6pjrwvsgszgp3g9jwcgkvq9zawur6d2ncz7rzn9pc4ns9kudssxhn9v7"
     },
     "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2": {
       "address": "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2",
@@ -2196,6 +2171,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1cchseys2su3h79tplt0vaqvd04kjqkf8zygrsg6fjekxkr3y500qk4w2ll"
+    },
+    "kujira1ky9kv2m4dnykm90d0lj5089k4efttgfpx34zyvkklxnew48c522sggqjsg": {
+      "address": "kujira1ky9kv2m4dnykm90d0lj5089k4efttgfpx34zyvkklxnew48c522sggqjsg",
+      "denoms": [
+        {
+          "reference": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wftm-wei"
+          },
+          "symbol": "wFTM"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 12,
+      "multiswap": false,
+      "pool": "kujira15l8396c5cnvlu7qyzva9yvj4gm8dzlnk999ss4qknm74ytm3v7dsawt3sx"
     }
   },
   "harpoon-4": {
