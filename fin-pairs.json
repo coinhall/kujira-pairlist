@@ -407,13 +407,13 @@
       "margin": {
         "address": "kujira1hjyjafrt09p4hwsnwch29nrrs40lprfgesqdy44wnp27td872hsse2rree",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
           "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
           "decimals": 10,
           "trace": {
@@ -422,20 +422,20 @@
           },
           "symbol": "DOT"
         },
-        "oracle_denom": "DOT",
-        "max_ratio": 0.6,
-        "mint_fee": 0.001,
-        "interest_rate": 0,
-        "orca_address": "kujira1p748kkq6qmhcml0ycm0g8n4vns7rnch2jtw7mzsrcyudjmpqzzvsy4clw6",
-        "max_debt": {
+        "oracleDenom": "DOT",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1p748kkq6qmhcml0ycm0g8n4vns7rnch2jtw7mzsrcyudjmpqzzvsy4clw6",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x746a528800"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x3b9aca00"
         },
-        "liquidation_ratio": 0.1
+        "liquidationRatio": 0.1
       }
     },
     "kujira1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q49aaud": {
@@ -568,13 +568,13 @@
       "margin": {
         "address": "kujira1m0z0kk0qqug74n9u9ul23e28x5fszr628h20xwt6jywjpp64xn4qkxmjq3",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
           "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
           "decimals": 6,
           "trace": {
@@ -583,20 +583,20 @@
           },
           "symbol": "ATOM"
         },
-        "oracle_denom": "ATOM",
-        "max_ratio": 0.6,
-        "mint_fee": 0.005,
-        "interest_rate": 0,
-        "orca_address": "kujira1q8y46xg993cqg3xjycyw2334tepey7dmnh5jk2psutrz3fc69teskctgfc",
-        "max_debt": {
+        "oracleDenom": "ATOM",
+        "maxRatio": 0.6,
+        "mintFee": 0.005,
+        "interestRate": 0,
+        "orcaAddress": "kujira1q8y46xg993cqg3xjycyw2334tepey7dmnh5jk2psutrz3fc69teskctgfc",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x2e90edd000"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x3b9aca00"
         },
-        "liquidation_ratio": 0.2
+        "liquidationRatio": 0.2
       }
     },
     "kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf": {
@@ -779,13 +779,13 @@
       "margin": {
         "address": "kujira1722g2rudg0rlw45nuuvjhg4a365xztfrdfjgyyfuzlmqmtu2plas34y6x3",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
           "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
           "decimals": 6,
           "trace": {
@@ -794,20 +794,20 @@
           },
           "symbol": "LUNA"
         },
-        "oracle_denom": "LUNA",
-        "max_ratio": 0.6,
-        "mint_fee": 0.001,
-        "interest_rate": 0,
-        "orca_address": "kujira1sdlp8eqp4md6waqv2x9vlvt9dtzyx9ztt0zvkfxaw9kxh3t5gdvqypxlwz",
-        "max_debt": {
+        "oracleDenom": "LUNA",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1sdlp8eqp4md6waqv2x9vlvt9dtzyx9ztt0zvkfxaw9kxh3t5gdvqypxlwz",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x174876e800"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x3b9aca00"
         },
-        "liquidation_ratio": 0.05
+        "liquidationRatio": 0.05
       }
     },
     "kujira1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqq5m32qy": {
@@ -1949,13 +1949,13 @@
       "margin": {
         "address": "kujira1m4ves3ymz5hyrj3war3t7uxu9ewt8rwpunja87960n0gre3a5pzspgry4g",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
           "trace": {
@@ -1964,20 +1964,20 @@
           },
           "symbol": "wETH"
         },
-        "oracle_denom": "ETH",
-        "max_ratio": 0.6,
-        "mint_fee": 0.001,
-        "interest_rate": 0,
-        "orca_address": "kujira1xc4mksfgs9cww7mlth3gqp6dfx9wh8znvdps5xt4yasxnkhd7kcq2nvxl4",
-        "max_debt": {
+        "oracleDenom": "ETH",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1xc4mksfgs9cww7mlth3gqp6dfx9wh8znvdps5xt4yasxnkhd7kcq2nvxl4",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x5d21dba000"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x3b9aca00"
         },
-        "liquidation_ratio": 0.1
+        "liquidationRatio": 0.1
       }
     },
     "kujira1apkgj87fgfsq84swvkyfaemrq7t4deuh60887lek0hkgdjh5fj0qaz7fhx": {
@@ -2038,13 +2038,13 @@
       "margin": {
         "address": "kujira1pep6vkkjexjlsw3y5h4tj27g7s58vkypy8zg7f9qdvlh2992pncqduz84n",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
           "reference": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
           "decimals": 18,
           "trace": {
@@ -2053,20 +2053,20 @@
           },
           "symbol": "wBNB"
         },
-        "oracle_denom": "BNB",
-        "max_ratio": 0.6,
-        "mint_fee": 0.001,
-        "interest_rate": 0,
-        "orca_address": "kujira12n6yghp8l2gwz9zxnle6e7gm9d0hz4uvnlyaadw5y05ch50c6qrqg4k7r3",
-        "max_debt": {
+        "oracleDenom": "BNB",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira12n6yghp8l2gwz9zxnle6e7gm9d0hz4uvnlyaadw5y05ch50c6qrqg4k7r3",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x174876e800"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x3b9aca00"
         },
-        "liquidation_ratio": 0.1
+        "liquidationRatio": 0.1
       }
     },
     "kujira1642dp8q7gzm5g5csdz2k676rc5zqfka4hfnas9ffydffp0saspts0e9zgp": {
@@ -2338,31 +2338,31 @@
       "margin": {
         "address": "kujira1vmnntr773a5p7s4k0t39v6vcgcq87kq2zaw94cy85850n79jx2kq56sqhs",
         "owner": "kujira1ltvwg69sw3c5z99c6rr08hal7v0kdzfxz07yj5",
-        "stable_denom": {
+        "stableDenom": {
           "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
           "decimals": 6,
           "symbol": "USK"
         },
-        "stable_denom_admin": "kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll",
-        "collateral_denom": {
+        "stableDenomAdmin": "kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll",
+        "collateralDenom": {
           "reference": "factory/kujira1ltvwg69sw3c5z99c6rr08hal7v0kdzfxz07yj5/demo",
           "decimals": 6,
           "symbol": "DEMO"
         },
-        "oracle_denom": "ATOM",
-        "max_ratio": 0.6,
-        "mint_fee": 0.0005,
-        "interest_rate": 0,
-        "orca_address": "kujira1exd7mzv8azf7tpqukm6fzxnvdt7a8kddyz2puwzk9lm7qmlx3vxq0thezm",
-        "max_debt": {
+        "oracleDenom": "ATOM",
+        "maxRatio": 0.6,
+        "mintFee": 0.0005,
+        "interestRate": 0,
+        "orcaAddress": "kujira1exd7mzv8azf7tpqukm6fzxnvdt7a8kddyz2puwzk9lm7qmlx3vxq0thezm",
+        "maxDebt": {
           "type": "BigNumber",
           "hex": "0x09184e72a000"
         },
-        "liquidation_threshold": {
+        "liquidationThreshold": {
           "type": "BigNumber",
           "hex": "0x012a05f200"
         },
-        "liquidation_ratio": 0.2
+        "liquidationRatio": 0.2
       }
     },
     "kujira1yyca08xqdgvjz0psg56z67ejh9xms6l436u8y58m82npdqqhmmtqdyphsd": {
