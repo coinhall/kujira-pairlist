@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/910c123bca49a5c805180e63df92cfad4a8b1896_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/016f7887376c3308dbeb2287adb7b512d787ec6d_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -369,8 +369,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.14
     dev: false
 
-  /@keplr-wallet/types/0.11.52:
-    resolution: {integrity: sha512-2LyOnaZpyjw5DiyJIG/L73PD/n284GrvhGjAkaTKantx70VGNgH/3x0DwjKpevRRxcuJ+2+A0LkHgkXIpD7YhQ==}
+  /@keplr-wallet/types/0.11.53:
+    resolution: {integrity: sha512-AA+eFbEUSrpHLL7yOoFZ68BV2IFGjXksv86qAPS1fzQosJ4rHGbJNMtkw388hyz6oRMWIWvo9sf/8b8l/qZcHA==}
     dependencies:
       axios: 0.27.2
       long: 4.0.0
@@ -2001,9 +2001,9 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/910c123bca49a5c805180e63df92cfad4a8b1896_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/910c123bca49a5c805180e63df92cfad4a8b1896}
-    id: github.com/Team-Kujira/kujira.js/910c123bca49a5c805180e63df92cfad4a8b1896
+  github.com/Team-Kujira/kujira.js/016f7887376c3308dbeb2287adb7b512d787ec6d_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/016f7887376c3308dbeb2287adb7b512d787ec6d}
+    id: github.com/Team-Kujira/kujira.js/016f7887376c3308dbeb2287adb7b512d787ec6d
     name: kujira.js
     version: 0.5.0
     dependencies:
@@ -2012,7 +2012,7 @@ packages:
       '@cosmjs/stargate': 0.29.5
       '@ethersproject/bignumber': 5.7.0
       '@injectivelabs/chain-api': 1.9.17
-      '@keplr-wallet/types': 0.11.52
+      '@keplr-wallet/types': 0.11.53
       '@types/google-protobuf': 3.15.6
       cosmjs-types: 0.5.2
       long: 4.0.0
