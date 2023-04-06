@@ -1839,6 +1839,60 @@
       "multiswap": true,
       "pool": "kujira1l03eupqny6r2y6pr6lcktc3q33erxykr56ms95llptxar4jaq0psvml87j"
     },
+    "kujira1vllmvr0ylegpgg34y727kmys4yy3kjjnwj8xt3j22mdc5u4z7egs5d0sg8": {
+      "address": "kujira1vllmvr0ylegpgg34y727kmys4yy3kjjnwj8xt3j22mdc5u4z7egs5d0sg8",
+      "denoms": [
+        {
+          "reference": "ibc/31ED168F5E93D988FCF223B1298113ACA818DB7BED8F7B73764C5C9FAC293609",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-36",
+            "base_denom": "cw20:terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+          },
+          "symbol": "ROAR"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 10
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1u986p79p6x2rudytvkt2k303y65dukcjn26clvejnw63ns2wenvqj63mhm"
+    },
+    "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl": {
+      "address": "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl",
+      "denoms": [
+        {
+          "reference": "ibc/C19813F6D22F91CC64D2EEDF8702904DD61E0D022972EDFE0039F70C8A6EAD24",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stinj"
+          },
+          "symbol": "stINJ"
+        },
+        {
+          "reference": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-54",
+            "base_denom": "inj"
+          },
+          "symbol": "INJ"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1u7ndnyf7umkk70309xkdyk4jjdhwhzj3el3xal72qmm6lwkelplq85zxfu"
+    },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
       "denoms": [
