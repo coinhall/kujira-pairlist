@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/c7ad9b792688eb8ab2aa6e233325b439771d14b2_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/96481b47a84dfb673b48005d28e0296b22544023_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -2001,9 +2001,9 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/c7ad9b792688eb8ab2aa6e233325b439771d14b2_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/c7ad9b792688eb8ab2aa6e233325b439771d14b2}
-    id: github.com/Team-Kujira/kujira.js/c7ad9b792688eb8ab2aa6e233325b439771d14b2
+  github.com/Team-Kujira/kujira.js/96481b47a84dfb673b48005d28e0296b22544023_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/96481b47a84dfb673b48005d28e0296b22544023}
+    id: github.com/Team-Kujira/kujira.js/96481b47a84dfb673b48005d28e0296b22544023
     name: kujira.js
     version: 0.5.0
     dependencies:
