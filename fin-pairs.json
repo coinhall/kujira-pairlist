@@ -1102,7 +1102,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1hfj06505jjk2ut5a0j6f5wx04pj2s05qk8nydng7kznkuzpe8w2se24jqx"
+      "pool": "kujira1hfj06505jjk2ut5a0j6f5wx04pj2s05qk8nydng7kznkuzpe8w2se24jqx",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf": {
       "address": "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf",
@@ -1862,7 +1863,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1u986p79p6x2rudytvkt2k303y65dukcjn26clvejnw63ns2wenvqj63mhm"
+      "pool": "kujira1u986p79p6x2rudytvkt2k303y65dukcjn26clvejnw63ns2wenvqj63mhm",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl": {
       "address": "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl",
@@ -1892,6 +1894,34 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1u7ndnyf7umkk70309xkdyk4jjdhwhzj3el3xal72qmm6lwkelplq85zxfu"
+    },
+    "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx": {
+      "address": "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx",
+      "denoms": [
+        {
+          "reference": "ibc/CA4AC8725BA74A291623BACAA8733DCC300D2A43059FB2EDB38657D794D8C7E2",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-63",
+            "base_denom": "uratom"
+          },
+          "symbol": "rATOM"
+        },
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
