@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/4195e550fe4aeb8573ba40d4b0149dba916c5638_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/de7096804cc8867525bec027c65b561b669d53c5_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -337,8 +337,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@injectivelabs/chain-api/1.9.17:
-    resolution: {integrity: sha512-7cruWOjekUDJarry2qNdB8ynmq7GUc4xWRACawKBNgKfOrKNLQTbOpQZyLmHwcJsFM/YNCRWJ2+CPoZn1Rxb3g==}
+  /@injectivelabs/chain-api/1.9.18:
+    resolution: {integrity: sha512-Tg3qSbBCbpONgJ2ZkirglHA4sVfvy6OQiFP2fx/XPZbtO0ACEebn10BmvxVfcaK94EsGASQ3YLm3E4xXYZverg==}
     dependencies:
       '@injectivelabs/grpc-web': 0.0.1_google-protobuf@3.21.2
       google-protobuf: 3.21.2
@@ -369,8 +369,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: false
 
-  /@keplr-wallet/types/0.11.56:
-    resolution: {integrity: sha512-NPqzuRLKQRXgCkA5pLi566wW54a/i1mqC23Dx9YQkBbY1EJW4rJlKzGXNnTqSwbJ4Gr1JDr6+rtkcyzoM5s2Uw==}
+  /@keplr-wallet/types/0.11.57:
+    resolution: {integrity: sha512-+TVw7DxJUeoPPzWsEjXyaIRRIK5pMBPcGg7IOmnjBkSYTL1jU7YoarCXOnpPYo7FRZcDb6KjTi6BOV8PCoeBdg==}
     dependencies:
       axios: 0.27.2
       long: 4.0.0
@@ -2001,18 +2001,18 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/4195e550fe4aeb8573ba40d4b0149dba916c5638_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/4195e550fe4aeb8573ba40d4b0149dba916c5638}
-    id: github.com/Team-Kujira/kujira.js/4195e550fe4aeb8573ba40d4b0149dba916c5638
+  github.com/Team-Kujira/kujira.js/de7096804cc8867525bec027c65b561b669d53c5_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/de7096804cc8867525bec027c65b561b669d53c5}
+    id: github.com/Team-Kujira/kujira.js/de7096804cc8867525bec027c65b561b669d53c5
     name: kujira.js
-    version: 0.8.8
+    version: 0.8.13
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.29.5
       '@cosmjs/launchpad': 0.27.1
       '@cosmjs/stargate': 0.29.5
       '@ethersproject/bignumber': 5.7.0
-      '@injectivelabs/chain-api': 1.9.17
-      '@keplr-wallet/types': 0.11.56
+      '@injectivelabs/chain-api': 1.9.18
+      '@keplr-wallet/types': 0.11.57
       '@types/google-protobuf': 3.15.6
       cosmjs-types: 0.5.2
       long: 4.0.0
