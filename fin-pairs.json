@@ -1526,32 +1526,6 @@
       "pool": "kujira17pfjnng0j8nzkn0kyt0xsfpwj2cfft4yqxv8dmkqzl2adsn9fh0sc4rddu",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
-    "kujira1x38mke7q0qut5lku4zrx7wgjrsj9jn3tffadegzzcsy9s5w5mdmqzzl0sn": {
-      "address": "kujira1x38mke7q0qut5lku4zrx7wgjrsj9jn3tffadegzzcsy9s5w5mdmqzzl0sn",
-      "denoms": [
-        {
-          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-58",
-            "base_denom": "uwhale"
-          },
-          "symbol": "WHALE"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1ldsj2f7t7tw0g52f0gmfpm3jjm92nut30829jjypt3p7cegurzfq9frmt4",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
     "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra": {
       "address": "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra",
       "denoms": [
@@ -1575,7 +1549,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
+      "pool": "kujira1t8r48s0d7g2unxa9x58c0mqdml63pyxrkhxm6flqae8y4q4xz37sj0ch4d"
     },
     "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06": {
       "address": "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06",
@@ -2350,6 +2324,32 @@
       "decimalDelta": 3,
       "multiswap": true,
       "pool": "kujira1qmuthgsuvwtgw3dpddrvxjz09lt36zzurl2v657kmr52juekxarsaepvrx",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1x38mke7q0qut5lku4zrx7wgjrsj9jn3tffadegzzcsy9s5w5mdmqzzl0sn": {
+      "address": "kujira1x38mke7q0qut5lku4zrx7wgjrsj9jn3tffadegzzcsy9s5w5mdmqzzl0sn",
+      "denoms": [
+        {
+          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "uwhale"
+          },
+          "symbol": "WHALE"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ldsj2f7t7tw0g52f0gmfpm3jjm92nut30829jjypt3p7cegurzfq9frmt4",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     }
   },

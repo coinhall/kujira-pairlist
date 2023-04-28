@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/3cdc9e4a06ff94e611f4d3da574a67ff218a52d1_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/b72286ec959c5ad5e89b08c23eeec479a9d5aea5_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -337,19 +337,19 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@injectivelabs/chain-api/1.9.18:
-    resolution: {integrity: sha512-Tg3qSbBCbpONgJ2ZkirglHA4sVfvy6OQiFP2fx/XPZbtO0ACEebn10BmvxVfcaK94EsGASQ3YLm3E4xXYZverg==}
+  /@improbable-eng/grpc-web/0.13.0_google-protobuf@3.21.2:
+    resolution: {integrity: sha512-vaxxT+Qwb7GPqDQrBV4vAAfH0HywgOLw6xGIKXd9Q8hcV63CQhmS3p4+pZ9/wVvt4Ph3ZDK9fdC983b9aGMUFg==}
+    peerDependencies:
+      google-protobuf: ^3.2.0
     dependencies:
-      '@injectivelabs/grpc-web': 0.0.1_google-protobuf@3.21.2
+      browser-headers: 0.4.1
       google-protobuf: 3.21.2
     dev: false
 
-  /@injectivelabs/grpc-web/0.0.1_google-protobuf@3.21.2:
-    resolution: {integrity: sha512-Pu5YgaZp+OvR5UWfqbrPdHer3+gDf+b5fQoY+t2VZx1IAVHX8bzbN9EreYTvTYtFeDpYRWM8P7app2u4EX5wTw==}
-    peerDependencies:
-      google-protobuf: ^3.14.0
+  /@injectivelabs/chain-api/1.9.9:
+    resolution: {integrity: sha512-hOsyBReyemJGMGUXgW1zmeI8YPpnkDliXnpOGA84X7FWxoM2htkycQHW01dB1FIWnMdx3IOVSMNxi34vxUPEdA==}
     dependencies:
-      browser-headers: 0.4.1
+      '@improbable-eng/grpc-web': 0.13.0_google-protobuf@3.21.2
       google-protobuf: 3.21.2
     dev: false
 
@@ -369,8 +369,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: false
 
-  /@keplr-wallet/types/0.11.58:
-    resolution: {integrity: sha512-dct9JVXuSlutgnUO8E9WoAxp4dmK+X2fDTWNA4mkgJhUQyN0VzCaKyC9whWLRuYRnAe9xFQ1g9Xo1OlCLPlH8w==}
+  /@keplr-wallet/types/0.11.59:
+    resolution: {integrity: sha512-/zuB3JgGZqbCSpK/RK2lhnTtdpBbMNuH1hLQ4eYKqrG3UX6bWD1l+SGDFLq6UulnoIGadfTe3Tbgbi9Jl1cgpw==}
     dependencies:
       axios: 0.27.2
       long: 4.0.0
@@ -473,8 +473,8 @@ packages:
   /@types/node/18.11.10:
     resolution: {integrity: sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==}
 
-  /@types/node/18.16.0:
-    resolution: {integrity: sha512-BsAaKhB+7X+H4GnSjGhJG9Qi8Tw+inU9nJDwmD5CgOmBLEI6ArdhikpLX7DjbjDRDTbqZzU2LSQNZg8WGPiSZQ==}
+  /@types/node/18.16.2:
+    resolution: {integrity: sha512-GQW/JL/5Fz/0I8RpeBG9lKp0+aNcXEaVL71c0D2Q0QHDTFvlYKT7an0onCUXj85anv7b4/WesqdfchLc0jtsCg==}
     dev: false
 
   /@typescript-eslint/parser/4.33.0_jofidmxrjzhj7l6vknpw5ecvfe:
@@ -1656,7 +1656,7 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 18.16.0
+      '@types/node': 18.16.2
       long: 4.0.0
     dev: false
 
@@ -2001,18 +2001,18 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/3cdc9e4a06ff94e611f4d3da574a67ff218a52d1_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/3cdc9e4a06ff94e611f4d3da574a67ff218a52d1}
-    id: github.com/Team-Kujira/kujira.js/3cdc9e4a06ff94e611f4d3da574a67ff218a52d1
+  github.com/Team-Kujira/kujira.js/b72286ec959c5ad5e89b08c23eeec479a9d5aea5_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/b72286ec959c5ad5e89b08c23eeec479a9d5aea5}
+    id: github.com/Team-Kujira/kujira.js/b72286ec959c5ad5e89b08c23eeec479a9d5aea5
     name: kujira.js
-    version: 0.8.24
+    version: 0.8.33
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
       '@cosmjs/stargate': 0.30.1
       '@ethersproject/bignumber': 5.7.0
-      '@injectivelabs/chain-api': 1.9.18
-      '@keplr-wallet/types': 0.11.58
+      '@injectivelabs/chain-api': 1.9.9
+      '@keplr-wallet/types': 0.11.59
       '@types/google-protobuf': 3.15.6
       cosmjs-types: 0.7.2
       long: 4.0.0
