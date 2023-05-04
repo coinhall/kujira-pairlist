@@ -113,34 +113,6 @@
       "decimalDelta": 0,
       "multiswap": true
     },
-    "kujira182nff4ttmvshn6yjlqj5czapfcav9434l2qzz8aahf5pxnyd33tsz30aw6": {
-      "address": "kujira182nff4ttmvshn6yjlqj5czapfcav9434l2qzz8aahf5pxnyd33tsz30aw6",
-      "denoms": [
-        {
-          "reference": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-23",
-            "base_denom": "aevmos"
-          },
-          "symbol": "EVMOS"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 12,
-      "multiswap": true
-    },
     "kujira1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3sl8nek6": {
       "address": "kujira1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3sl8nek6",
       "denoms": [
@@ -461,7 +433,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1nxfag552cng6lwf2q3duyepgvenr670ngj8uljpeydy0rvftgt9qkgd6sq"
+      "pool": "kujira1rpqhczdrgaa6w0h9fukdcppme3074zcay8ge8lazwefdawp03vwsnpc7ya"
     },
     "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0": {
       "address": "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0",
@@ -1371,7 +1343,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1kggddmdvjjxl43luez7dp9snt96jwyj05k5hyxzstvj886u6entsu2na4z"
+      "pool": "kujira15t6pjrwvsgszgp3g9jwcgkvq9zawur6d2ncz7rzn9pc4ns9kudssxhn9v7"
     },
     "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2": {
       "address": "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2",
@@ -1428,31 +1400,6 @@
       "multiswap": true,
       "pool": "kujira1snkjjse7z9m72pcegjhw8ggqgdswqwuguq07f2um4ypthle9h47qcz2jkq",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira12zjpumtfh88k6s2s8k4wks37ezr2c3zeha5xx6qpd65e5ehz50nq0afvrv": {
-      "address": "kujira12zjpumtfh88k6s2s8k4wks37ezr2c3zeha5xx6qpd65e5ehz50nq0afvrv",
-      "denoms": [
-        {
-          "reference": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "link-wei"
-          },
-          "symbol": "LINK"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 12,
-      "multiswap": true,
-      "pool": "kujira1qjw6s2l0j54esx8swmgnf2509ydxqur53wna72ajyqlu3hrdrxgsf4d6jx"
     },
     "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h": {
       "address": "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h",
@@ -2351,6 +2298,84 @@
       "multiswap": true,
       "pool": "kujira1ldsj2f7t7tw0g52f0gmfpm3jjm92nut30829jjypt3p7cegurzfq9frmt4",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira182nff4ttmvshn6yjlqj5czapfcav9434l2qzz8aahf5pxnyd33tsz30aw6": {
+      "address": "kujira182nff4ttmvshn6yjlqj5czapfcav9434l2qzz8aahf5pxnyd33tsz30aw6",
+      "denoms": [
+        {
+          "reference": "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-23",
+            "base_denom": "aevmos"
+          },
+          "symbol": "EVMOS"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 12,
+      "multiswap": true
+    },
+    "kujira10lzmqlvey89gwd4jz8aq3s4xdllk2k56yj45cex9s86v8g7nkpmq24djj4": {
+      "address": "kujira10lzmqlvey89gwd4jz8aq3s4xdllk2k56yj45cex9s86v8g7nkpmq24djj4",
+      "denoms": [
+        {
+          "reference": "ibc/119334C55720942481F458C9C462F5C0CD1F1E7EEAC4679D674AA67221916AEA",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-71",
+            "base_denom": "uluna"
+          },
+          "symbol": "LUNC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira16yld3l83w5fepqydryet62wjqnrvfy2npy4fvtm6dy445e7fx83s6hhu3t"
+    },
+    "kujira12zjpumtfh88k6s2s8k4wks37ezr2c3zeha5xx6qpd65e5ehz50nq0afvrv": {
+      "address": "kujira12zjpumtfh88k6s2s8k4wks37ezr2c3zeha5xx6qpd65e5ehz50nq0afvrv",
+      "denoms": [
+        {
+          "reference": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "link-wei"
+          },
+          "symbol": "LINK"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1qjw6s2l0j54esx8swmgnf2509ydxqur53wna72ajyqlu3hrdrxgsf4d6jx"
     }
   },
   "harpoon-4": {
