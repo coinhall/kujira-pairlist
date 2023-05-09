@@ -1969,6 +1969,26 @@
       "multiswap": true,
       "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu"
     },
+    "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y": {
+      "address": "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y",
+      "denoms": [
+        {
+          "reference": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
+          "decimals": 6,
+          "symbol": "Unknown"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
       "denoms": [
