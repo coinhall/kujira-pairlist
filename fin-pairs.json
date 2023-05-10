@@ -1975,7 +1975,7 @@
         {
           "reference": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
           "decimals": 6,
-          "symbol": "Unknown"
+          "symbol": "USTC"
         },
         {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
@@ -1987,7 +1987,8 @@
         "decimal_places": 4
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1uj7qv8kfgjjw2vv02vzfsjk2xmmzsp36eap59nf7nhy7xjhyjc0qmcfe89"
     },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
