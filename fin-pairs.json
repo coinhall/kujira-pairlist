@@ -1766,7 +1766,8 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1nxq9hkkuh7qkmklua2ejezqs296j2h202sfrz0w3ggvz6sj2g5vqlp3x6z"
+      "pool": "kujira1nxq9hkkuh7qkmklua2ejezqs296j2h202sfrz0w3ggvz6sj2g5vqlp3x6z",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj": {
       "address": "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj",
@@ -1916,7 +1917,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu"
+      "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y": {
       "address": "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y",
@@ -1959,6 +1961,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1ds75r7xartfsrgaq9wcdwdh382y2asvs68fplcamzyl0zl8rx52segzaee"
+    },
+    "kujira1ws9w7wl68prspv3rut3plv8249rm0ea0kk335swye3sl2slld4lqdmc0lv": {
+      "address": "kujira1ws9w7wl68prspv3rut3plv8249rm0ea0kk335swye3sl2slld4lqdmc0lv",
+      "denoms": [
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1w2tzxxsz44gnsf7m7q9xxe04panfrsnyhq33mgu26mddzcec3nvq6vh5c5"
     },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
@@ -2187,7 +2214,8 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1x5987rr6tn4k48rr45pcthr8jjershe984rj2vaxzxqsl650rl2q0a2cuk"
+      "pool": "kujira1x5987rr6tn4k48rr45pcthr8jjershe984rj2vaxzxqsl650rl2q0a2cuk",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1q7p9wldxxvnqda4hx8w6caplqj33tfxne5efjamsp6ruhuk3knwqwjuhrn": {
       "address": "kujira1q7p9wldxxvnqda4hx8w6caplqj33tfxne5efjamsp6ruhuk3knwqwjuhrn",
@@ -2332,7 +2360,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk"
+      "pool": "kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1vllmvr0ylegpgg34y727kmys4yy3kjjnwj8xt3j22mdc5u4z7egs5d0sg8": {
       "address": "kujira1vllmvr0ylegpgg34y727kmys4yy3kjjnwj8xt3j22mdc5u4z7egs5d0sg8",
