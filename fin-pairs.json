@@ -1987,6 +1987,27 @@
       "multiswap": true,
       "pool": "kujira1w2tzxxsz44gnsf7m7q9xxe04panfrsnyhq33mgu26mddzcec3nvq6vh5c5"
     },
+    "kujira1nkgq8xl4flsau7v3vphr3ayc7tprgazg6pzjmq8plkr76v385fhsx26qfa": {
+      "address": "kujira1nkgq8xl4flsau7v3vphr3ayc7tprgazg6pzjmq8plkr76v385fhsx26qfa",
+      "denoms": [
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1h75predtjdm2e7u8cuvqs3usc6xs2mxlkcr20zsshvw3qap25frsr4z949"
+    },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
       "denoms": [
