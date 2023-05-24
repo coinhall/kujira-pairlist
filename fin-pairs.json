@@ -2994,7 +2994,8 @@
         "decimal_places": 3
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira15jfkm638zw3qlfmv5ekc7e0flp2fqsr7xyjjl990cx5xwqczl2psc5xp8x"
     }
   },
   "localkujira": {}
