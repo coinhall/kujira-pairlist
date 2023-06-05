@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/73a95a4fb24e38883537654d7aba89caa03d8c6f_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/28570ea885f3db0ef95fcebb3b05a9d7c084811d_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -58,7 +58,7 @@ packages:
   /@confio/ics23/0.6.8:
     resolution: {integrity: sha512-wB6uo+3A50m0sW/EWcU64xpV/8wShZ6bMTa7pF8eYsTrSkQA7oLUIJcs/wb8g4y2Oyq701BaGiO6n/ak5WXO1w==}
     dependencies:
-      '@noble/hashes': 1.3.0
+      '@noble/hashes': 1.3.1
       protobufjs: 6.11.3
     dev: false
 
@@ -121,7 +121,7 @@ packages:
       '@cosmjs/encoding': 0.30.1
       '@cosmjs/math': 0.30.1
       '@cosmjs/utils': 0.30.1
-      '@noble/hashes': 1.3.0
+      '@noble/hashes': 1.3.1
       bn.js: 5.2.1
       elliptic: 6.5.4
       libsodium-wrappers: 0.7.11
@@ -409,8 +409,9 @@ packages:
       - debug
     dev: false
 
-  /@noble/hashes/1.3.0:
-    resolution: {integrity: sha512-ilHEACi9DwqJB0pw7kv+Apvh50jiiSyR/cQ3y4W7lOR5mhvn/50FLUfsnfJz0BDZtl/RR16kXvptiv6q1msYZg==}
+  /@noble/hashes/1.3.1:
+    resolution: {integrity: sha512-EbqwksQwz9xDRGfDST86whPBgM65E0OH/pCgqW0GBVzO22bNE+NuIbeTb714+IfSjU3aRk47EUvXIb5bTsenKA==}
+    engines: {node: '>= 16'}
     dev: false
 
   /@nodelib/fs.scandir/2.1.5:
@@ -693,7 +694,7 @@ packages:
   /bip39/3.1.0:
     resolution: {integrity: sha512-c9kiwdk45Do5GL0vJMe7tS95VjCii65mYAH7DfWl3uW8AVzXKQVUm64i3hzVybBDMp9r7j9iNxR85+ul8MdN/A==}
     dependencies:
-      '@noble/hashes': 1.3.0
+      '@noble/hashes': 1.3.1
     dev: false
 
   /bn.js/4.12.0:
@@ -1796,7 +1797,7 @@ packages:
   /rxjs/7.8.1:
     resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
     dependencies:
-      tslib: 2.5.2
+      tslib: 2.5.3
     dev: false
 
   /safe-buffer/5.2.1:
@@ -1969,8 +1970,8 @@ packages:
     resolution: {integrity: sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==}
     dev: true
 
-  /tslib/2.5.2:
-    resolution: {integrity: sha512-5svOrSA2w3iGFDs1HibEVBGbDrAY82bFQ3HZ3ixB+88nsbsWQoKqDRb5UBYAUPEzbBn6dAp5gRNXglySbx1MlA==}
+  /tslib/2.5.3:
+    resolution: {integrity: sha512-mSxlJJwl3BMEQCUNnxXBU9jP4JBktcEGhURcPR6VQVlnP0FdDEsIaz0C35dXNGLyRfrATNofF0F5p2KPxQgB+w==}
     dev: false
 
   /tsutils/3.21.0_typescript@4.9.5:
@@ -2082,11 +2083,11 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/73a95a4fb24e38883537654d7aba89caa03d8c6f_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/73a95a4fb24e38883537654d7aba89caa03d8c6f}
-    id: github.com/Team-Kujira/kujira.js/73a95a4fb24e38883537654d7aba89caa03d8c6f
+  github.com/Team-Kujira/kujira.js/28570ea885f3db0ef95fcebb3b05a9d7c084811d_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/28570ea885f3db0ef95fcebb3b05a9d7c084811d}
+    id: github.com/Team-Kujira/kujira.js/28570ea885f3db0ef95fcebb3b05a9d7c084811d
     name: kujira.js
-    version: 0.8.81
+    version: 0.8.82
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
