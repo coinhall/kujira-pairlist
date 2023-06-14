@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/09ec5bb3bedea2ea0f09759866ae70a22cbb6898_osscqd4e24dzbeujryu7def2au
+  kujira.js: github.com/Team-Kujira/kujira.js/4b14ac0c913d8702d6dc065d306ae2cbadebcb21_osscqd4e24dzbeujryu7def2au
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -2083,11 +2083,11 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  github.com/Team-Kujira/kujira.js/09ec5bb3bedea2ea0f09759866ae70a22cbb6898_osscqd4e24dzbeujryu7def2au:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/09ec5bb3bedea2ea0f09759866ae70a22cbb6898}
-    id: github.com/Team-Kujira/kujira.js/09ec5bb3bedea2ea0f09759866ae70a22cbb6898
+  github.com/Team-Kujira/kujira.js/4b14ac0c913d8702d6dc065d306ae2cbadebcb21_osscqd4e24dzbeujryu7def2au:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/4b14ac0c913d8702d6dc065d306ae2cbadebcb21}
+    id: github.com/Team-Kujira/kujira.js/4b14ac0c913d8702d6dc065d306ae2cbadebcb21
     name: kujira.js
-    version: 0.8.83
+    version: 0.8.85
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
