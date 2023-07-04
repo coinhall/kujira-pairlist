@@ -26,1925 +26,6 @@
       "pool": "kujira1sx99fxy4lqx0nv3ys86tkdrch82qygxyec5c8dxsk9raz4at5zpq72gypx",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
-    "kujira1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42skp0kur": {
-      "address": "kujira1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42skp0kur",
-      "denoms": [
-        {
-          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uluna",
-            "path": "transfer/channel-5"
-          },
-          "symbol": "LUNA"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1hs0fmdp9m0udkm7f63z9l92c5z6qa44hg7gcn3kwwrcn8nkdq7vsx79u97",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf": {
-      "address": "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf",
-      "denoms": [
-        {
-          "reference": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-10",
-            "base_denom": "uscrt"
-          },
-          "symbol": "SCRT"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1z7asfxkwv0t863rllul570eh5pf2zk07k3d86ag4vtghaue37l5s9epdvn": {
-      "address": "kujira1z7asfxkwv0t863rllul570eh5pf2zk07k3d86ag4vtghaue37l5s9epdvn",
-      "denoms": [
-        {
-          "reference": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-1",
-            "base_denom": "ujuno"
-          },
-          "symbol": "JUNO"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1xut80d09q0tgtch8p0z4k5f88d3uvt8cvtzm5h3tu3tsy4jk9xlscem692": {
-      "address": "kujira1xut80d09q0tgtch8p0z4k5f88d3uvt8cvtzm5h3tu3tsy4jk9xlscem692",
-      "denoms": [
-        {
-          "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "uusdt"
-          },
-          "symbol": "axlUSDT"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck": {
-      "address": "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck",
-      "denoms": [
-        {
-          "reference": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "ustars",
-            "path": "transfer/channel-7"
-          },
-          "symbol": "STARS"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1rpxf55u22q2tly9y8rgdrjgx9p52sus7jugaevj3hdt0z7sgvkcsyrhrv0": {
-      "address": "kujira1rpxf55u22q2tly9y8rgdrjgx9p52sus7jugaevj3hdt0z7sgvkcsyrhrv0",
-      "denoms": [
-        {
-          "reference": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-10",
-            "base_denom": "uscrt"
-          },
-          "symbol": "SCRT"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira10sx8wxzev270zrmpq6z3asgpurdjfh9f6rwtgt55mar9m6gtw40s9nfxcy",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz": {
-      "address": "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz",
-      "denoms": [
-        {
-          "reference": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-44",
-            "base_denom": "cw20:secret1qfql357amn448duf5gvp9gr48sxx9tsnhupu3d"
-          },
-          "symbol": "SHD"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira1r0sn3fcz2lda7hvs37rchnk4pq6jt5hjeqw7dcc765v39rhmv0tqj59760"
-    },
-    "kujira1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7s5lux8a": {
-      "address": "kujira1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7s5lux8a",
-      "denoms": [
-        {
-          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uosmo",
-            "path": "transfer/channel-3"
-          },
-          "symbol": "OSMO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1hrvxn66u46r47zxsd45jecvuyr3munl2d5xle9gnltpge3dqh7sqd64znl",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1z7quf5t6g7spjnu2qhcp2x2ksnz4zfut9k73uutpg2q95dd008fqsprtvl": {
-      "address": "kujira1z7quf5t6g7spjnu2qhcp2x2ksnz4zfut9k73uutpg2q95dd008fqsprtvl",
-      "denoms": [
-        {
-          "reference": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-1",
-            "base_denom": "ujuno"
-          },
-          "symbol": "JUNO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira14sar6zdyljp7t9u5zwcwcjrw98kcmqq8685sz7ezfknvauqg23sqrmr6kg",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1v8lkqws3gd6npr0rdk9ch54amh9guas86r4u62jq27hee88lryfsxwrvlk": {
-      "address": "kujira1v8lkqws3gd6npr0rdk9ch54amh9guas86r4u62jq27hee88lryfsxwrvlk",
-      "denoms": [
-        {
-          "reference": "ibc/53796B3762678CD80784A7DD426EB45B89C024BE3D45224CC83FDE3DED7DA0A1",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-31",
-            "base_denom": "cw20:juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz"
-          },
-          "symbol": "FURY"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1hgq0fgqnv0dk2r474pfax3va86wfh9ffgdhx6q6jls00g7nv8vmsx2jnjt"
-    },
-    "kujira1jlzw6xal0n2c580g3wxs09tjhlzdht9y8dgszq3tupf8fhl7xjus7ep7ap": {
-      "address": "kujira1jlzw6xal0n2c580g3wxs09tjhlzdht9y8dgszq3tupf8fhl7xjus7ep7ap",
-      "denoms": [
-        {
-          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 10,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "dot-planck"
-          },
-          "symbol": "DOT"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 4,
-      "multiswap": true,
-      "pool": "kujira1uchf9h2suq6a9a0ksyp5rh9536uqxydswm37sswa888kxxx2kqgqsx3n6h",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
-      "margin": {
-        "address": "kujira1hjyjafrt09p4hwsnwch29nrrs40lprfgesqdy44wnp27td872hsse2rree",
-        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stableDenom": {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        },
-        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateralDenom": {
-          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 10,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "dot-planck"
-          },
-          "symbol": "DOT"
-        },
-        "oracleDenom": "DOT",
-        "maxRatio": 0.6,
-        "mintFee": 0.001,
-        "interestRate": 0,
-        "orcaAddress": "kujira1p748kkq6qmhcml0ycm0g8n4vns7rnch2jtw7mzsrcyudjmpqzzvsy4clw6",
-        "maxDebt": {
-          "type": "BigNumber",
-          "hex": "0x746a528800"
-        },
-        "liquidationThreshold": {
-          "type": "BigNumber",
-          "hex": "0x3b9aca00"
-        },
-        "liquidationRatio": 0.1
-      }
-    },
-    "kujira1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q49aaud": {
-      "address": "kujira1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q49aaud",
-      "denoms": [
-        {
-          "reference": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "uaxl"
-          },
-          "symbol": "AXL"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1rpqhczdrgaa6w0h9fukdcppme3074zcay8ge8lazwefdawp03vwsnpc7ya"
-    },
-    "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0": {
-      "address": "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0",
-      "denoms": [
-        {
-          "reference": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-43",
-            "base_denom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
-          },
-          "symbol": "ASTRO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1kgpsdn4gh24fpe5n8k4tvs5wn5s8w6825ewexkk7j2hq4467hf5s7qc23l"
-    },
-    "kujira1uvqk5vj9vn4gjemrp0myz4ku49aaemulgaqw7pfe0nuvfwp3gukq64r3ws": {
-      "address": "kujira1uvqk5vj9vn4gjemrp0myz4ku49aaemulgaqw7pfe0nuvfwp3gukq64r3ws",
-      "denoms": [
-        {
-          "reference": "ibc/F33B313325B1C99B646B1B786F1EA621E3794D787B90C204C30FE1D4D45970AE",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-36",
-            "base_denom": "cw20:terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
-          },
-          "symbol": "ampLUNA"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira14qpyduhanevay6rhk3z308nwjxa83a8x37kmn5rct5x6kszj3gmqpuq7m6",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c": {
-      "address": "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uatom",
-            "path": "transfer/channel-0"
-          },
-          "symbol": "ATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nsra5j5u": {
-      "address": "kujira1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nsra5j5u",
-      "denoms": [
-        {
-          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uatom",
-            "path": "transfer/channel-0"
-          },
-          "symbol": "ATOM"
-        },
-        {
-          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uosmo",
-            "path": "transfer/channel-3"
-          },
-          "symbol": "OSMO"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1gl8js9zn7h9u2h37fx7qg8xy65jrk9t4zpa6s7j5hdlanud2uwxshqq67m": {
-      "address": "kujira1gl8js9zn7h9u2h37fx7qg8xy65jrk9t4zpa6s7j5hdlanud2uwxshqq67m",
-      "denoms": [
-        {
-          "reference": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
-          "underlying": [
-            {
-              "reference": "ukuji",
-              "decimals": 6,
-              "symbol": "KUJI"
-            },
-            {
-              "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-              "decimals": 6,
-              "trace": {
-                "base_denom": "uatom",
-                "path": "transfer/channel-0"
-              },
-              "symbol": "ATOM"
-            }
-          ],
-          "decimals": 6,
-          "symbol": "LP KUJI-ATOM"
-        },
-        {
-          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uatom",
-            "path": "transfer/channel-0"
-          },
-          "symbol": "ATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1hs95lgvuy0p6jn4v7js5x8plfdqw867lsuh5xv6d2ua20jprkgesw2pujt": {
-      "address": "kujira1hs95lgvuy0p6jn4v7js5x8plfdqw867lsuh5xv6d2ua20jprkgesw2pujt",
-      "denoms": [
-        {
-          "reference": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
-          "underlying": [
-            {
-              "reference": "ukuji",
-              "decimals": 6,
-              "symbol": "KUJI"
-            },
-            {
-              "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-              "decimals": 6,
-              "trace": {
-                "base_denom": "uatom",
-                "path": "transfer/channel-0"
-              },
-              "symbol": "ATOM"
-            }
-          ],
-          "decimals": 6,
-          "symbol": "LP KUJI-ATOM"
-        },
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1zz74gvmq6ss3pg5vgahvx47ugpfzr80qu75l97lf2ggdgxq04ddqxkdzey": {
-      "address": "kujira1zz74gvmq6ss3pg5vgahvx47ugpfzr80qu75l97lf2ggdgxq04ddqxkdzey",
-      "denoms": [
-        {
-          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uluna",
-            "path": "transfer/channel-5"
-          },
-          "symbol": "LUNA"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1y0v5znl0ucc6nsdalr9xeg0r3zyw44yn0uyd8tsgc8gl4j8stjcs9vmmr7",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
-      "margin": {
-        "address": "kujira1722g2rudg0rlw45nuuvjhg4a365xztfrdfjgyyfuzlmqmtu2plas34y6x3",
-        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
-        "stableDenom": {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        },
-        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
-        "collateralDenom": {
-          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uluna",
-            "path": "transfer/channel-5"
-          },
-          "symbol": "LUNA"
-        },
-        "oracleDenom": "LUNA",
-        "maxRatio": 0.6,
-        "mintFee": 0.001,
-        "interestRate": 0,
-        "orcaAddress": "kujira1sdlp8eqp4md6waqv2x9vlvt9dtzyx9ztt0zvkfxaw9kxh3t5gdvqypxlwz",
-        "maxDebt": {
-          "type": "BigNumber",
-          "hex": "0x174876e800"
-        },
-        "liquidationThreshold": {
-          "type": "BigNumber",
-          "hex": "0x3b9aca00"
-        },
-        "liquidationRatio": 0.05
-      }
-    },
-    "kujira1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqq5m32qy": {
-      "address": "kujira1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqq5m32qy",
-      "denoms": [
-        {
-          "reference": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "ustars",
-            "path": "transfer/channel-7"
-          },
-          "symbol": "STARS"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira10fqy0npt7djm8lg847v9rqlng88kqfdvl8tyt4ge204wf52sy68qwmj07l": {
-      "address": "kujira10fqy0npt7djm8lg847v9rqlng88kqfdvl8tyt4ge204wf52sy68qwmj07l",
-      "denoms": [
-        {
-          "reference": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-31",
-            "base_denom": "cw20:juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup"
-          },
-          "symbol": "LOOP"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira16y344e8ryydmeu2g8yyfznq79j7jfnar4p59ngpvaazcj83jzsms6tju67": {
-      "address": "kujira16y344e8ryydmeu2g8yyfznq79j7jfnar4p59ngpvaazcj83jzsms6tju67",
-      "denoms": [
-        {
-          "reference": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-18",
-            "base_denom": "ucmdx"
-          },
-          "symbol": "CMDX"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1aakfpghcanxtc45gpqlx8j3rq0zcpyf49qmhm9mdjrfx036h4z5sfmexun": {
-      "address": "kujira1aakfpghcanxtc45gpqlx8j3rq0zcpyf49qmhm9mdjrfx036h4z5sfmexun",
-      "denoms": [
-        {
-          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uosmo",
-            "path": "transfer/channel-3"
-          },
-          "symbol": "OSMO"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1w4t2qpwvhyhz0g2mwgqjzgsw63dcy5hkfch0tgr8xj9qjcsauq8q5x0zxz": {
-      "address": "kujira1w4t2qpwvhyhz0g2mwgqjzgsw63dcy5hkfch0tgr8xj9qjcsauq8q5x0zxz",
-      "denoms": [
-        {
-          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 10,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "dot-planck"
-          },
-          "symbol": "DOT"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 4,
-      "multiswap": true,
-      "pool": "kujira1337sclk2nc6srd77w4v8qule0nv9r70mrt56r2j8zak3rlg6xc0sl27tar",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira10j648ftg2g8p5vhgsu5kzfh6d907vpkrn0a5l3qch479eqy2qssqm905c4": {
-      "address": "kujira10j648ftg2g8p5vhgsu5kzfh6d907vpkrn0a5l3qch479eqy2qssqm905c4",
-      "denoms": [
-        {
-          "reference": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-6",
-            "base_denom": "basecro"
-          },
-          "symbol": "CRO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira1zr5ywldgav8tnlplw9wnu7evp66xvp3ttymdg2jnfgaktcw9lqxs8trkpc"
-    },
-    "kujira1k7rg9vscg2uldw6868mecryxhlze5e3f4z0f00295ddu7cz3l4ws4d9dfj": {
-      "address": "kujira1k7rg9vscg2uldw6868mecryxhlze5e3f4z0f00295ddu7cz3l4ws4d9dfj",
-      "denoms": [
-        {
-          "reference": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-31",
-            "base_denom": "cw20:juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup"
-          },
-          "symbol": "LOOP"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1059pvpwgg9krqal5kwhnul47heekmuh0uj7ctns47whqegqj5l6q6nvs69"
-    },
-    "kujira1sse6a00arh9dalzsyrd3q825dsn2zmrag0u4qx8q0dyks4ftnxyqrj0xds": {
-      "address": "kujira1sse6a00arh9dalzsyrd3q825dsn2zmrag0u4qx8q0dyks4ftnxyqrj0xds",
-      "denoms": [
-        {
-          "reference": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-          "decimals": 6,
-          "symbol": "LOCAL"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira10wn7s0j66f33kp8rg7cluh9mghkahd5wezkx84wn3kf0cvh2nefsny50r4",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1xqhakgvn3jeqfade0z4aufer9xylx7ft45fgyhg6z75mauhkjwks9cucyq": {
-      "address": "kujira1xqhakgvn3jeqfade0z4aufer9xylx7ft45fgyhg6z75mauhkjwks9cucyq",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uluna",
-            "path": "transfer/channel-5"
-          },
-          "symbol": "LUNA"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1hfj06505jjk2ut5a0j6f5wx04pj2s05qk8nydng7kznkuzpe8w2se24jqx",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf": {
-      "address": "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf",
-      "denoms": [
-        {
-          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "wbtc-satoshi"
-          },
-          "symbol": "wBTC"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 2
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira1g7597zvu8kte7jyg8e297sj363qwyp5mw4hr9cmv49r3dhv599jsdpx9qs"
-    },
-    "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm": {
-      "address": "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm",
-      "denoms": [
-        {
-          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "wbtc-satoshi"
-          },
-          "symbol": "wBTC"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 2
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira19ca3j7wj672hnvzs7vj73hlt0u94zc0lpehkx8w5g8crm0sfx4nqvt44f6"
-    },
-    "kujira1h7eenquygffwsmc8csrlx88zcddwx0aqspq3x2dsl20lwk4r9n2q9t86ht": {
-      "address": "kujira1h7eenquygffwsmc8csrlx88zcddwx0aqspq3x2dsl20lwk4r9n2q9t86ht",
-      "denoms": [
-        {
-          "reference": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-18",
-            "base_denom": "ucmdx"
-          },
-          "symbol": "CMDX"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1vm99wnr4rpqtcyh4fw6q277x2j75r2q8yet3azd7fjecmst7ftds4vhzcd"
-    },
-    "kujira1qw5hdcmcf4aq5xmnu6znscurvkgvhxfsyvhz3jvxhasxjwtk3l7sccwcs8": {
-      "address": "kujira1qw5hdcmcf4aq5xmnu6znscurvkgvhxfsyvhz3jvxhasxjwtk3l7sccwcs8",
-      "denoms": [
-        {
-          "reference": "ibc/1603E8643A49AD47F536F645A4BF0E4C1E06C76F0A98CBE8054B177F1EE7C39A",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-18",
-            "base_denom": "ucmst"
-          },
-          "symbol": "CMST"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1ww9hyqjzuz7c90hhfkqrucnjtu2tj9myvnfxlzze92mkq9pvmmps4zumv9"
-    },
-    "kujira158zzjcvkz7r3j5hueurcw22qrjerqw4dtrzlalztr7whjykjwvrsrahdnq": {
-      "address": "kujira158zzjcvkz7r3j5hueurcw22qrjerqw4dtrzlalztr7whjykjwvrsrahdnq",
-      "denoms": [
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        },
-        {
-          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uatom",
-            "path": "transfer/channel-0"
-          },
-          "symbol": "ATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1a5fcczk37kks0zkg9znzf8pef83evwm230rejc8zmefrc48per5qcfwg65"
-    },
-    "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse": {
-      "address": "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse",
-      "denoms": [
-        {
-          "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-50",
-            "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
-          },
-          "symbol": "gPAXG"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 2
-      },
-      "decimalDelta": 12,
-      "multiswap": true,
-      "pool": "kujira1mjdmut3vq7n7zv6p9kdkdng0zpk2286qww0yy0ay4e8cvxd5p2zqvh9aqs",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm": {
-      "address": "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm",
-      "denoms": [
-        {
-          "reference": "ibc/F33B313325B1C99B646B1B786F1EA621E3794D787B90C204C30FE1D4D45970AE",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-36",
-            "base_denom": "cw20:terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
-          },
-          "symbol": "ampLUNA"
-        },
-        {
-          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uluna",
-            "path": "transfer/channel-5"
-          },
-          "symbol": "LUNA"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1uamjserhcm82ek775wtt2q9vfkc8k2de4zzxh25xqjzxah4naqjqdmtcs6"
-    },
-    "kujira18lm235jzuh4t7hh5z8lqyz08dmz67magj8z0fc4a0vn6c0hzk0es3r4glx": {
-      "address": "kujira18lm235jzuh4t7hh5z8lqyz08dmz67magj8z0fc4a0vn6c0hzk0es3r4glx",
-      "denoms": [
-        {
-          "reference": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "dai-wei"
-          },
-          "symbol": "DAI"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 12,
-      "multiswap": true,
-      "pool": "kujira1kggddmdvjjxl43luez7dp9snt96jwyj05k5hyxzstvj886u6entsu2na4z"
-    },
-    "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2": {
-      "address": "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2",
-      "denoms": [
-        {
-          "reference": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-55",
-            "base_denom": "umars"
-          },
-          "symbol": "MARS"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1daf7z9pyd7cwfmqd5tjnqqgsc0naus60cpn5e6ukwuqd06ywen3qy0s525",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9": {
-      "address": "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9",
-      "denoms": [
-        {
-          "reference": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-55",
-            "base_denom": "umars"
-          },
-          "symbol": "MARS"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1snkjjse7z9m72pcegjhw8ggqgdswqwuguq07f2um4ypthle9h47qcz2jkq",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h": {
-      "address": "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
-          "decimals": 6,
-          "symbol": "LOCAL"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira13p352kxfntjkvl0698za8hsfhfxz05kg9h9zxcwyjq72eh8wjpjqr9ugen"
-    },
-    "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv": {
-      "address": "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv",
-      "denoms": [
-        {
-          "reference": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-46",
-            "base_denom": "swth"
-          },
-          "symbol": "SWTH"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira1ytwhduql6krgdp46xr8m9pt79dhdta0n23d5c00v7xxe5ru0hmvsp9uh8v"
-    },
-    "kujira18rd5fge3m8zvcw4rl94ztre2jra0srpv8d7t64aag4gzw7jkmzeqvx564r": {
-      "address": "kujira18rd5fge3m8zvcw4rl94ztre2jra0srpv8d7t64aag4gzw7jkmzeqvx564r",
-      "denoms": [
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira17pfjnng0j8nzkn0kyt0xsfpwj2cfft4yqxv8dmkqzl2adsn9fh0sc4rddu",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra": {
-      "address": "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuosmo"
-          },
-          "symbol": "stOSMO"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
-    },
-    "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06": {
-      "address": "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1t7n87wexjcg348d0s06kjd7nd2w37ergtd2lx24uffka7sc8l2qqtf70hq"
-    },
-    "kujira1jlyyyg0m649v75nqzm40jfdmjar9sf7rh3qnuz8yqa4345s9tqvqhxwxjq": {
-      "address": "kujira1jlyyyg0m649v75nqzm40jfdmjar9sf7rh3qnuz8yqa4345s9tqvqhxwxjq",
-      "denoms": [
-        {
-          "reference": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-50",
-            "base_denom": "ugraviton"
-          },
-          "symbol": "GRAV"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1xnyrh5tyaeu5vq8ylamtrp06z9zsxvxqsr5n4h7xy50ztwvkt69sqv7mke"
-    },
-    "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc": {
-      "address": "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc",
-      "denoms": [
-        {
-          "reference": "ibc/1AE6C91DF755F63FB9E8393F7AE6A1725B2389730C0A46ECE247D761A72DA80D",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-43",
-            "base_denom": "cw20:terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
-          },
-          "symbol": "xASTRO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj": {
-      "address": "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj",
-      "denoms": [
-        {
-          "reference": "ibc/FD021051CD0A21590CAC7907B22749B19CC8CCB6A22DE48C21FE7D9EF1EE80B7",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-47",
-            "base_denom": "aacre"
-          },
-          "symbol": "ACRE"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 6
-      },
-      "decimalDelta": 12,
-      "multiswap": true,
-      "pool": "kujira1vvk3gh7jxp38vn5rs97zj4h8s5mcdf6hzqfh8tu5enc2la6p298skkky9k"
-    },
-    "kujira1kjmu97hr6tvk6m30sjzfm8tj6kzxpprdfssa99jd675u90sfvtdsf36lu7": {
-      "address": "kujira1kjmu97hr6tvk6m30sjzfm8tj6kzxpprdfssa99jd675u90sfvtdsf36lu7",
-      "denoms": [
-        {
-          "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "uusdt"
-          },
-          "symbol": "axlUSDT"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1uylse4qd3nyjm2h9e9v0walpf25e3plcp8ut94ggatk85q44vcus9ztdxl"
-    },
-    "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0": {
-      "address": "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0",
-      "denoms": [
-        {
-          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuosmo"
-          },
-          "symbol": "stOSMO"
-        },
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1mve5x6sfha5zy5pvujkjg9ymrkz6lxpkk5wvpkfw0pp287p772vszs2pnn"
-    },
-    "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl": {
-      "address": "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl",
-      "denoms": [
-        {
-          "reference": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-59",
-            "base_denom": "udvpn"
-          },
-          "symbol": "DVPN"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 6
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1324mahmnjew4rsavkajsq047yc5kgerqy452jt5c2tr5f2dd7fpqflcqw7"
-    },
-    "kujira10vkk8ulf3rvfuzlfpqflklr2zkq6586pl9amcsafp2s6t4j7qn7seemml3": {
-      "address": "kujira10vkk8ulf3rvfuzlfpqflklr2zkq6586pl9amcsafp2s6t4j7qn7seemml3",
-      "denoms": [
-        {
-          "reference": "ibc/034FBAB83B9B8AB35217DD59452C92EBC845ECD2E44AB17D260D9A2E7200AC79",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-58",
-            "base_denom": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE"
-          },
-          "symbol": "ampWHALE"
-        },
-        {
-          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-58",
-            "base_denom": "uwhale"
-          },
-          "symbol": "WHALE"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1l03eupqny6r2y6pr6lcktc3q33erxykr56ms95llptxar4jaq0psvml87j"
-    },
-    "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl": {
-      "address": "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl",
-      "denoms": [
-        {
-          "reference": "ibc/C19813F6D22F91CC64D2EEDF8702904DD61E0D022972EDFE0039F70C8A6EAD24",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stinj"
-          },
-          "symbol": "stINJ"
-        },
-        {
-          "reference": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-54",
-            "base_denom": "inj"
-          },
-          "symbol": "INJ"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1u7ndnyf7umkk70309xkdyk4jjdhwhzj3el3xal72qmm6lwkelplq85zxfu"
-    },
-    "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx": {
-      "address": "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx",
-      "denoms": [
-        {
-          "reference": "ibc/CA4AC8725BA74A291623BACAA8733DCC300D2A43059FB2EDB38657D794D8C7E2",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-63",
-            "base_denom": "uratom"
-          },
-          "symbol": "rATOM"
-        },
-        {
-          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uatom",
-            "path": "transfer/channel-0"
-          },
-          "symbol": "ATOM"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira13l4zelu5r0l640t9xuuw5taehwm0dh9fj5ypfelz3m0zwa2rr64q5h4tln"
-    },
-    "kujira1tnnvtvere0pwz0uupy4crl3dv6yszte9nqms4fwmfhj3e2yl477sa0frks": {
-      "address": "kujira1tnnvtvere0pwz0uupy4crl3dv6yszte9nqms4fwmfhj3e2yl477sa0frks",
-      "denoms": [
-        {
-          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuosmo"
-          },
-          "symbol": "stOSMO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1s4s460gac6g8us9v4rtea3fwye849kxmnwamjzf2rdscn8sylcgqfcqchm"
-    },
-    "kujira1yugk2n5y5059yzr7yq938nwzkz9mjgfctunhjhf0jp8tgax7t2cqag6e8c": {
-      "address": "kujira1yugk2n5y5059yzr7yq938nwzkz9mjgfctunhjhf0jp8tgax7t2cqag6e8c",
-      "denoms": [
-        {
-          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuosmo"
-          },
-          "symbol": "stOSMO"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1spumcl9yaujc5lycnd6lxph4nwwdfx4tdsvmwnsxle7ed6tecc7qc82zd5"
-    },
-    "kujira1kmw6fk5p7an27u8f3er08xrwvzlehczymgshkqxzfrxyrfleu2eqxykaln": {
-      "address": "kujira1kmw6fk5p7an27u8f3er08xrwvzlehczymgshkqxzfrxyrfleu2eqxykaln",
-      "denoms": [
-        {
-          "reference": "ibc/03E988788ED3EE6326C95151F4E3947820B2F40BDC8C4170FEF5FC75B56EB6DC",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-31",
-            "base_denom": "cw20:juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa"
-          },
-          "symbol": "RAC"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1rq0xjlelnsk99npcc542vj7n55yhwqee024c8pygknplear3dk2qpkld2a"
-    },
-    "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj": {
-      "address": "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj",
-      "denoms": [
-        {
-          "reference": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-69",
-            "base_denom": "usomm"
-          },
-          "symbol": "SOMM"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1tusycaz084ugfr87spy9f5gu8cxr0jg4ew2g2396lk3ft6af4cnsxdwgrf"
-    },
-    "kujira1p2vmq7g8fghkeak0hz4qfgeskkd7zqp3vnj6m3sa0r6gp4dr37usmtgtej": {
-      "address": "kujira1p2vmq7g8fghkeak0hz4qfgeskkd7zqp3vnj6m3sa0r6gp4dr37usmtgtej",
-      "denoms": [
-        {
-          "reference": "ibc/CC4EF9E26EC1C0BDEA058F5F08778C38E140353AF6E360B079EE3124018A1CC9",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-68",
-            "base_denom": "uregen"
-          },
-          "symbol": "REGEN"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1ll96qv70frd5fyupd3jzfgnzs236sv3f8jy98cm7ckpq2apq874sun7s8z"
-    },
-    "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx": {
-      "address": "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx",
-      "denoms": [
-        {
-          "reference": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-70",
-            "base_denom": "uflix"
-          },
-          "symbol": "FLIX"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1668q6uthdqw98q007h67mmjtcxkz33dfd7qzlaghr3nnu0986lws35698s"
-    },
-    "kujira1nu8kef49y0pdrkphtkt857tgtt0pe8nr8ms0pnp6lylrav9jq2asmjljhe": {
-      "address": "kujira1nu8kef49y0pdrkphtkt857tgtt0pe8nr8ms0pnp6lylrav9jq2asmjljhe",
-      "denoms": [
-        {
-          "reference": "ibc/E41F596AC5F1BF0298758CC40CBF1DB2DA0615F10BF28E4D9E82B9EEE7A0DBF2",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-67",
-            "base_denom": "ucre"
-          },
-          "symbol": "CRE"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1fzjfcy58vh6fx0qm8urmvul9d45ed8v787kdve9rdmltpxels00saksv2m"
-    },
-    "kujira1vpvt27kwaasyfxyd9lkfu3xlm3axmayg40z8reas7l7nk659kcqsgywtdv": {
-      "address": "kujira1vpvt27kwaasyfxyd9lkfu3xlm3axmayg40z8reas7l7nk659kcqsgywtdv",
-      "denoms": [
-        {
-          "reference": "ibc/193C32A9BB54632C383CF2D2BA1A47F73624446D8554762F934B7A61EF26B191",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-65",
-            "base_denom": "umntl"
-          },
-          "symbol": "MNTL"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira177mld0qaefvkwkcu2m5vv7u4rxf6ghvgcez0wdr6qxfcu886tz0qfcnecn"
-    },
-    "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq": {
-      "address": "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq",
-      "denoms": [
-        {
-          "reference": "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-64",
-            "base_denom": "uakt"
-          },
-          "symbol": "AKT"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y": {
-      "address": "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y",
-      "denoms": [
-        {
-          "reference": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
-          "decimals": 6,
-          "symbol": "USTC"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1uj7qv8kfgjjw2vv02vzfsjk2xmmzsp36eap59nf7nhy7xjhyjc0qmcfe89"
-    },
-    "kujira1qxtd87qus6uzvqs4jv9r0j9ccd4yla42s6qag7y8fp7hhv68nzas6hqxgw": {
-      "address": "kujira1qxtd87qus6uzvqs4jv9r0j9ccd4yla42s6qag7y8fp7hhv68nzas6hqxgw",
-      "denoms": [
-        {
-          "reference": "factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
-          "decimals": 6,
-          "symbol": "WINK"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 6
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1ds75r7xartfsrgaq9wcdwdh382y2asvs68fplcamzyl0zl8rx52segzaee"
-    },
-    "kujira1ws9w7wl68prspv3rut3plv8249rm0ea0kk335swye3sl2slld4lqdmc0lv": {
-      "address": "kujira1ws9w7wl68prspv3rut3plv8249rm0ea0kk335swye3sl2slld4lqdmc0lv",
-      "denoms": [
-        {
-          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
-          "decimals": 6,
-          "symbol": "MNTA"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1w2tzxxsz44gnsf7m7q9xxe04panfrsnyhq33mgu26mddzcec3nvq6vh5c5",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1nkgq8xl4flsau7v3vphr3ayc7tprgazg6pzjmq8plkr76v385fhsx26qfa": {
-      "address": "kujira1nkgq8xl4flsau7v3vphr3ayc7tprgazg6pzjmq8plkr76v385fhsx26qfa",
-      "denoms": [
-        {
-          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
-          "decimals": 6,
-          "symbol": "MNTA"
-        },
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1h75predtjdm2e7u8cuvqs3usc6xs2mxlkcr20zsshvw3qap25frsr4z949",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
-    "kujira1cxvcx9e0se7xg7xgrx806kd0g0x4ugc6weg4nur8fuq5m33q4ckqu4j56e": {
-      "address": "kujira1cxvcx9e0se7xg7xgrx806kd0g0x4ugc6weg4nur8fuq5m33q4ckqu4j56e",
-      "denoms": [
-        {
-          "reference": "ibc/B618D0F4CBB4AF5E21B4FF163CCBFBC278C037D1DA3E1D848EDF32716A216BE4",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-31",
-            "base_denom": "cw20:juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se"
-          },
-          "symbol": "GLTO"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 7
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1ud4r8uzelwe4h6kv4enwp80funsrfhlwtlvyn7r89kr8v7p0w87s7dlz6e"
-    },
-    "kujira1trxh7pu70dmzpqyqs4yltx2h5202k9e9fpssee0tdq4x2jr9praqg7c96e": {
-      "address": "kujira1trxh7pu70dmzpqyqs4yltx2h5202k9e9fpssee0tdq4x2jr9praqg7c96e",
-      "denoms": [
-        {
-          "reference": "ibc/1811B038682AD5B23CB825BE82E4DD0F73BEF9477F334591AF2BC68EBF57F005",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-45",
-            "base_denom": "utori"
-          },
-          "symbol": "TORI"
-        },
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1cdy6aje8zszx5vryttkkm5rn9g2n53ltfds753fsn63m09cmhx0sgp6v6m"
-    },
-    "kujira18fwp2vx8r6lng67q8d3kqzm0sdzh5zrnma88e0qle5hn0wqp5maql760yd": {
-      "address": "kujira18fwp2vx8r6lng67q8d3kqzm0sdzh5zrnma88e0qle5hn0wqp5maql760yd",
-      "denoms": [
-        {
-          "reference": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-94",
-            "base_denom": "ujkl"
-          },
-          "symbol": "JKL"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          },
-          "symbol": "axlUSDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1vdeazs5meer45p2snffc73kg27sqzt0fwulzzem9x7p6ca7yrh0qvfpgcr"
-    },
-    "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f": {
-      "address": "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f",
-      "denoms": [
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        },
-        {
-          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
-          "decimals": 6,
-          "symbol": "MNTA"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1jj4tkucqrmtsya40gdhkh5h2hdkldhjv0r8m6ysvlphl8fl632pqtgx2kx"
-    },
-    "kujira1hyqkqujpy4tk4ypn22avk809vqse3evp2vnxwcaf3y8rcs4clnrq09vcre": {
-      "address": "kujira1hyqkqujpy4tk4ypn22avk809vqse3evp2vnxwcaf3y8rcs4clnrq09vcre",
-      "denoms": [
-        {
-          "reference": "ibc/0A88A08F3E9573DB9D8CB74AA3746F6D23C41C3EE7B6CC5AA4695A1DD74FF86B",
-          "decimals": 18,
-          "trace": {
-            "path": "transfer/channel-9",
-            "base_denom": "uni-wei"
-          },
-          "symbol": "UNI"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 12,
-      "multiswap": true,
-      "pool": "kujira1fnsda4za0njveec2sjwgwfku4nxw9m6mgzyy2vds9rvwx9l4sjdqlqwg4m"
-    },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
       "denoms": [
@@ -2828,6 +909,1747 @@
         },
         "liquidationRatio": 0.2
       }
+    },
+    "kujira1z7asfxkwv0t863rllul570eh5pf2zk07k3d86ag4vtghaue37l5s9epdvn": {
+      "address": "kujira1z7asfxkwv0t863rllul570eh5pf2zk07k3d86ag4vtghaue37l5s9epdvn",
+      "denoms": [
+        {
+          "reference": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-1",
+            "base_denom": "ujuno"
+          },
+          "symbol": "JUNO"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42skp0kur": {
+      "address": "kujira1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42skp0kur",
+      "denoms": [
+        {
+          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uluna",
+            "path": "transfer/channel-5"
+          },
+          "symbol": "LUNA"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hs0fmdp9m0udkm7f63z9l92c5z6qa44hg7gcn3kwwrcn8nkdq7vsx79u97",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1xut80d09q0tgtch8p0z4k5f88d3uvt8cvtzm5h3tu3tsy4jk9xlscem692": {
+      "address": "kujira1xut80d09q0tgtch8p0z4k5f88d3uvt8cvtzm5h3tu3tsy4jk9xlscem692",
+      "denoms": [
+        {
+          "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "uusdt"
+          },
+          "symbol": "axlUSDT"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf": {
+      "address": "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf",
+      "denoms": [
+        {
+          "reference": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-10",
+            "base_denom": "uscrt"
+          },
+          "symbol": "SCRT"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1rpxf55u22q2tly9y8rgdrjgx9p52sus7jugaevj3hdt0z7sgvkcsyrhrv0": {
+      "address": "kujira1rpxf55u22q2tly9y8rgdrjgx9p52sus7jugaevj3hdt0z7sgvkcsyrhrv0",
+      "denoms": [
+        {
+          "reference": "ibc/A358D7F19237777AF6D8AD0E0F53268F8B18AE8A53ED318095C14D6D7F3B2DB5",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-10",
+            "base_denom": "uscrt"
+          },
+          "symbol": "SCRT"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira10sx8wxzev270zrmpq6z3asgpurdjfh9f6rwtgt55mar9m6gtw40s9nfxcy",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7s5lux8a": {
+      "address": "kujira1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7s5lux8a",
+      "denoms": [
+        {
+          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uosmo",
+            "path": "transfer/channel-3"
+          },
+          "symbol": "OSMO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hrvxn66u46r47zxsd45jecvuyr3munl2d5xle9gnltpge3dqh7sqd64znl",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck": {
+      "address": "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck",
+      "denoms": [
+        {
+          "reference": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "ustars",
+            "path": "transfer/channel-7"
+          },
+          "symbol": "STARS"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz": {
+      "address": "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz",
+      "denoms": [
+        {
+          "reference": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-44",
+            "base_denom": "cw20:secret1qfql357amn448duf5gvp9gr48sxx9tsnhupu3d"
+          },
+          "symbol": "SHD"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1r0sn3fcz2lda7hvs37rchnk4pq6jt5hjeqw7dcc765v39rhmv0tqj59760"
+    },
+    "kujira1z7quf5t6g7spjnu2qhcp2x2ksnz4zfut9k73uutpg2q95dd008fqsprtvl": {
+      "address": "kujira1z7quf5t6g7spjnu2qhcp2x2ksnz4zfut9k73uutpg2q95dd008fqsprtvl",
+      "denoms": [
+        {
+          "reference": "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-1",
+            "base_denom": "ujuno"
+          },
+          "symbol": "JUNO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira14sar6zdyljp7t9u5zwcwcjrw98kcmqq8685sz7ezfknvauqg23sqrmr6kg",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1v8lkqws3gd6npr0rdk9ch54amh9guas86r4u62jq27hee88lryfsxwrvlk": {
+      "address": "kujira1v8lkqws3gd6npr0rdk9ch54amh9guas86r4u62jq27hee88lryfsxwrvlk",
+      "denoms": [
+        {
+          "reference": "ibc/53796B3762678CD80784A7DD426EB45B89C024BE3D45224CC83FDE3DED7DA0A1",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-31",
+            "base_denom": "cw20:juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz"
+          },
+          "symbol": "FURY"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hgq0fgqnv0dk2r474pfax3va86wfh9ffgdhx6q6jls00g7nv8vmsx2jnjt"
+    },
+    "kujira1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q49aaud": {
+      "address": "kujira1dtaqwlmzlk3jku5un6h6rfunttmwsqnfz7evvdf4pwr0wypsl68q49aaud",
+      "denoms": [
+        {
+          "reference": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "uaxl"
+          },
+          "symbol": "AXL"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1nxfag552cng6lwf2q3duyepgvenr670ngj8uljpeydy0rvftgt9qkgd6sq"
+    },
+    "kujira1jlzw6xal0n2c580g3wxs09tjhlzdht9y8dgszq3tupf8fhl7xjus7ep7ap": {
+      "address": "kujira1jlzw6xal0n2c580g3wxs09tjhlzdht9y8dgszq3tupf8fhl7xjus7ep7ap",
+      "denoms": [
+        {
+          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+          "decimals": 10,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "dot-planck"
+          },
+          "symbol": "DOT"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 4,
+      "multiswap": true,
+      "pool": "kujira1uchf9h2suq6a9a0ksyp5rh9536uqxydswm37sswa888kxxx2kqgqsx3n6h",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira1hjyjafrt09p4hwsnwch29nrrs40lprfgesqdy44wnp27td872hsse2rree",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+          "decimals": 10,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "dot-planck"
+          },
+          "symbol": "DOT"
+        },
+        "oracleDenom": "DOT",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1p748kkq6qmhcml0ycm0g8n4vns7rnch2jtw7mzsrcyudjmpqzzvsy4clw6",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x746a528800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
+    },
+    "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0": {
+      "address": "kujira1qqlk2773dvj8cyv3ftnzvyrknq78yryghp3uyumnumaxu656yreszrdph0",
+      "denoms": [
+        {
+          "reference": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-43",
+            "base_denom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
+          },
+          "symbol": "ASTRO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1kgpsdn4gh24fpe5n8k4tvs5wn5s8w6825ewexkk7j2hq4467hf5s7qc23l"
+    },
+    "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c": {
+      "address": "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nsra5j5u": {
+      "address": "kujira1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nsra5j5u",
+      "denoms": [
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        },
+        {
+          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uosmo",
+            "path": "transfer/channel-3"
+          },
+          "symbol": "OSMO"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1uvqk5vj9vn4gjemrp0myz4ku49aaemulgaqw7pfe0nuvfwp3gukq64r3ws": {
+      "address": "kujira1uvqk5vj9vn4gjemrp0myz4ku49aaemulgaqw7pfe0nuvfwp3gukq64r3ws",
+      "denoms": [
+        {
+          "reference": "ibc/F33B313325B1C99B646B1B786F1EA621E3794D787B90C204C30FE1D4D45970AE",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-36",
+            "base_denom": "cw20:terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+          },
+          "symbol": "ampLUNA"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira14qpyduhanevay6rhk3z308nwjxa83a8x37kmn5rct5x6kszj3gmqpuq7m6",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1zz74gvmq6ss3pg5vgahvx47ugpfzr80qu75l97lf2ggdgxq04ddqxkdzey": {
+      "address": "kujira1zz74gvmq6ss3pg5vgahvx47ugpfzr80qu75l97lf2ggdgxq04ddqxkdzey",
+      "denoms": [
+        {
+          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uluna",
+            "path": "transfer/channel-5"
+          },
+          "symbol": "LUNA"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1y0v5znl0ucc6nsdalr9xeg0r3zyw44yn0uyd8tsgc8gl4j8stjcs9vmmr7",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira1722g2rudg0rlw45nuuvjhg4a365xztfrdfjgyyfuzlmqmtu2plas34y6x3",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uluna",
+            "path": "transfer/channel-5"
+          },
+          "symbol": "LUNA"
+        },
+        "oracleDenom": "LUNA",
+        "maxRatio": 0.6,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1sdlp8eqp4md6waqv2x9vlvt9dtzyx9ztt0zvkfxaw9kxh3t5gdvqypxlwz",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.05
+      }
+    },
+    "kujira1gl8js9zn7h9u2h37fx7qg8xy65jrk9t4zpa6s7j5hdlanud2uwxshqq67m": {
+      "address": "kujira1gl8js9zn7h9u2h37fx7qg8xy65jrk9t4zpa6s7j5hdlanud2uwxshqq67m",
+      "denoms": [
+        {
+          "reference": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
+          "underlying": [
+            {
+              "reference": "ukuji",
+              "decimals": 6,
+              "symbol": "KUJI"
+            },
+            {
+              "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+              "decimals": 6,
+              "trace": {
+                "base_denom": "uatom",
+                "path": "transfer/channel-0"
+              },
+              "symbol": "ATOM"
+            }
+          ],
+          "decimals": 6,
+          "symbol": "LP KUJI-ATOM"
+        },
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqq5m32qy": {
+      "address": "kujira1jkte0pytr85qg0whmgux3vmz9ehmh82w40h8gaqeg435fnkyfxqq5m32qy",
+      "denoms": [
+        {
+          "reference": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "ustars",
+            "path": "transfer/channel-7"
+          },
+          "symbol": "STARS"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1hs95lgvuy0p6jn4v7js5x8plfdqw867lsuh5xv6d2ua20jprkgesw2pujt": {
+      "address": "kujira1hs95lgvuy0p6jn4v7js5x8plfdqw867lsuh5xv6d2ua20jprkgesw2pujt",
+      "denoms": [
+        {
+          "reference": "factory/kujira13y8hs83sk0la7na2w5g5nzrnjjpnkvmd7e87yd35g8dcph7dn0ksenay2a/ulp",
+          "underlying": [
+            {
+              "reference": "ukuji",
+              "decimals": 6,
+              "symbol": "KUJI"
+            },
+            {
+              "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+              "decimals": 6,
+              "trace": {
+                "base_denom": "uatom",
+                "path": "transfer/channel-0"
+              },
+              "symbol": "ATOM"
+            }
+          ],
+          "decimals": 6,
+          "symbol": "LP KUJI-ATOM"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1w4t2qpwvhyhz0g2mwgqjzgsw63dcy5hkfch0tgr8xj9qjcsauq8q5x0zxz": {
+      "address": "kujira1w4t2qpwvhyhz0g2mwgqjzgsw63dcy5hkfch0tgr8xj9qjcsauq8q5x0zxz",
+      "denoms": [
+        {
+          "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+          "decimals": 10,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "dot-planck"
+          },
+          "symbol": "DOT"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 4,
+      "multiswap": true,
+      "pool": "kujira1337sclk2nc6srd77w4v8qule0nv9r70mrt56r2j8zak3rlg6xc0sl27tar",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira10fqy0npt7djm8lg847v9rqlng88kqfdvl8tyt4ge204wf52sy68qwmj07l": {
+      "address": "kujira10fqy0npt7djm8lg847v9rqlng88kqfdvl8tyt4ge204wf52sy68qwmj07l",
+      "denoms": [
+        {
+          "reference": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-31",
+            "base_denom": "cw20:juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup"
+          },
+          "symbol": "LOOP"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira16y344e8ryydmeu2g8yyfznq79j7jfnar4p59ngpvaazcj83jzsms6tju67": {
+      "address": "kujira16y344e8ryydmeu2g8yyfznq79j7jfnar4p59ngpvaazcj83jzsms6tju67",
+      "denoms": [
+        {
+          "reference": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-18",
+            "base_denom": "ucmdx"
+          },
+          "symbol": "CMDX"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1aakfpghcanxtc45gpqlx8j3rq0zcpyf49qmhm9mdjrfx036h4z5sfmexun": {
+      "address": "kujira1aakfpghcanxtc45gpqlx8j3rq0zcpyf49qmhm9mdjrfx036h4z5sfmexun",
+      "denoms": [
+        {
+          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uosmo",
+            "path": "transfer/channel-3"
+          },
+          "symbol": "OSMO"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1xqhakgvn3jeqfade0z4aufer9xylx7ft45fgyhg6z75mauhkjwks9cucyq": {
+      "address": "kujira1xqhakgvn3jeqfade0z4aufer9xylx7ft45fgyhg6z75mauhkjwks9cucyq",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uluna",
+            "path": "transfer/channel-5"
+          },
+          "symbol": "LUNA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hfj06505jjk2ut5a0j6f5wx04pj2s05qk8nydng7kznkuzpe8w2se24jqx",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira10j648ftg2g8p5vhgsu5kzfh6d907vpkrn0a5l3qch479eqy2qssqm905c4": {
+      "address": "kujira10j648ftg2g8p5vhgsu5kzfh6d907vpkrn0a5l3qch479eqy2qssqm905c4",
+      "denoms": [
+        {
+          "reference": "ibc/BBC45F1B65B6D3C11C3C56A9428D38C3A8D03944473791C52DFB7CD3F8342CBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-6",
+            "base_denom": "basecro"
+          },
+          "symbol": "CRO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1zr5ywldgav8tnlplw9wnu7evp66xvp3ttymdg2jnfgaktcw9lqxs8trkpc"
+    },
+    "kujira1sse6a00arh9dalzsyrd3q825dsn2zmrag0u4qx8q0dyks4ftnxyqrj0xds": {
+      "address": "kujira1sse6a00arh9dalzsyrd3q825dsn2zmrag0u4qx8q0dyks4ftnxyqrj0xds",
+      "denoms": [
+        {
+          "reference": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+          "decimals": 6,
+          "symbol": "LOCAL"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira10wn7s0j66f33kp8rg7cluh9mghkahd5wezkx84wn3kf0cvh2nefsny50r4",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1k7rg9vscg2uldw6868mecryxhlze5e3f4z0f00295ddu7cz3l4ws4d9dfj": {
+      "address": "kujira1k7rg9vscg2uldw6868mecryxhlze5e3f4z0f00295ddu7cz3l4ws4d9dfj",
+      "denoms": [
+        {
+          "reference": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-31",
+            "base_denom": "cw20:juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup"
+          },
+          "symbol": "LOOP"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1059pvpwgg9krqal5kwhnul47heekmuh0uj7ctns47whqegqj5l6q6nvs69"
+    },
+    "kujira1qw5hdcmcf4aq5xmnu6znscurvkgvhxfsyvhz3jvxhasxjwtk3l7sccwcs8": {
+      "address": "kujira1qw5hdcmcf4aq5xmnu6znscurvkgvhxfsyvhz3jvxhasxjwtk3l7sccwcs8",
+      "denoms": [
+        {
+          "reference": "ibc/1603E8643A49AD47F536F645A4BF0E4C1E06C76F0A98CBE8054B177F1EE7C39A",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-18",
+            "base_denom": "ucmst"
+          },
+          "symbol": "CMST"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ww9hyqjzuz7c90hhfkqrucnjtu2tj9myvnfxlzze92mkq9pvmmps4zumv9"
+    },
+    "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm": {
+      "address": "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm",
+      "denoms": [
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          },
+          "symbol": "wBTC"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 2,
+      "multiswap": true
+    },
+    "kujira1h7eenquygffwsmc8csrlx88zcddwx0aqspq3x2dsl20lwk4r9n2q9t86ht": {
+      "address": "kujira1h7eenquygffwsmc8csrlx88zcddwx0aqspq3x2dsl20lwk4r9n2q9t86ht",
+      "denoms": [
+        {
+          "reference": "ibc/3607EB5B5E64DD1C0E12E07F077FF470D5BC4706AFCBC98FE1BA960E5AE4CE07",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-18",
+            "base_denom": "ucmdx"
+          },
+          "symbol": "CMDX"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1vm99wnr4rpqtcyh4fw6q277x2j75r2q8yet3azd7fjecmst7ftds4vhzcd"
+    },
+    "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf": {
+      "address": "kujira1ulyrqqtx9vqsk92805jk7xxwz77lszmm2f548juyced96tj4lg7qugewsf",
+      "denoms": [
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          },
+          "symbol": "wBTC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1g7597zvu8kte7jyg8e297sj363qwyp5mw4hr9cmv49r3dhv599jsdpx9qs"
+    },
+    "kujira18lm235jzuh4t7hh5z8lqyz08dmz67magj8z0fc4a0vn6c0hzk0es3r4glx": {
+      "address": "kujira18lm235jzuh4t7hh5z8lqyz08dmz67magj8z0fc4a0vn6c0hzk0es3r4glx",
+      "denoms": [
+        {
+          "reference": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "dai-wei"
+          },
+          "symbol": "DAI"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira15t6pjrwvsgszgp3g9jwcgkvq9zawur6d2ncz7rzn9pc4ns9kudssxhn9v7"
+    },
+    "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse": {
+      "address": "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse",
+      "denoms": [
+        {
+          "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-50",
+            "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+          },
+          "symbol": "gPAXG"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1mjdmut3vq7n7zv6p9kdkdng0zpk2286qww0yy0ay4e8cvxd5p2zqvh9aqs",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira158zzjcvkz7r3j5hueurcw22qrjerqw4dtrzlalztr7whjykjwvrsrahdnq": {
+      "address": "kujira158zzjcvkz7r3j5hueurcw22qrjerqw4dtrzlalztr7whjykjwvrsrahdnq",
+      "denoms": [
+        {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          },
+          "symbol": "stATOM"
+        },
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1a5fcczk37kks0zkg9znzf8pef83evwm230rejc8zmefrc48per5qcfwg65"
+    },
+    "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm": {
+      "address": "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm",
+      "denoms": [
+        {
+          "reference": "ibc/F33B313325B1C99B646B1B786F1EA621E3794D787B90C204C30FE1D4D45970AE",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-36",
+            "base_denom": "cw20:terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct"
+          },
+          "symbol": "ampLUNA"
+        },
+        {
+          "reference": "ibc/DA59C009A0B3B95E0549E6BF7B075C8239285989FF457A8EDDBB56F10B2A6986",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uluna",
+            "path": "transfer/channel-5"
+          },
+          "symbol": "LUNA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1uamjserhcm82ek775wtt2q9vfkc8k2de4zzxh25xqjzxah4naqjqdmtcs6"
+    },
+    "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2": {
+      "address": "kujira1v8kh6mqxq7awcvl936xeyzv8fnmdkd3yxggvkyek5d0ecut4a6zs0larj2",
+      "denoms": [
+        {
+          "reference": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-55",
+            "base_denom": "umars"
+          },
+          "symbol": "MARS"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1daf7z9pyd7cwfmqd5tjnqqgsc0naus60cpn5e6ukwuqd06ywen3qy0s525",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9": {
+      "address": "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9",
+      "denoms": [
+        {
+          "reference": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-55",
+            "base_denom": "umars"
+          },
+          "symbol": "MARS"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1snkjjse7z9m72pcegjhw8ggqgdswqwuguq07f2um4ypthle9h47qcz2jkq",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h": {
+      "address": "kujira17v40udkwtm9tt2wt73ejj6xh9x4ts8at6zv6nhmusdj4x6ffnl2qpep73h",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+          "decimals": 6,
+          "symbol": "LOCAL"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira13p352kxfntjkvl0698za8hsfhfxz05kg9h9zxcwyjq72eh8wjpjqr9ugen"
+    },
+    "kujira18rd5fge3m8zvcw4rl94ztre2jra0srpv8d7t64aag4gzw7jkmzeqvx564r": {
+      "address": "kujira18rd5fge3m8zvcw4rl94ztre2jra0srpv8d7t64aag4gzw7jkmzeqvx564r",
+      "denoms": [
+        {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          },
+          "symbol": "stATOM"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira17pfjnng0j8nzkn0kyt0xsfpwj2cfft4yqxv8dmkqzl2adsn9fh0sc4rddu",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06": {
+      "address": "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          },
+          "symbol": "stATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1t7n87wexjcg348d0s06kjd7nd2w37ergtd2lx24uffka7sc8l2qqtf70hq"
+    },
+    "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra": {
+      "address": "kujira16f84qasz2nw09cy25nlzxnzxyrnhvvygym74869y5q83pev9rhdsr7emra",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          },
+          "symbol": "stOSMO"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
+    },
+    "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv": {
+      "address": "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv",
+      "denoms": [
+        {
+          "reference": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-46",
+            "base_denom": "swth"
+          },
+          "symbol": "SWTH"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1ytwhduql6krgdp46xr8m9pt79dhdta0n23d5c00v7xxe5ru0hmvsp9uh8v"
+    },
+    "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc": {
+      "address": "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc",
+      "denoms": [
+        {
+          "reference": "ibc/1AE6C91DF755F63FB9E8393F7AE6A1725B2389730C0A46ECE247D761A72DA80D",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-43",
+            "base_denom": "cw20:terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
+          },
+          "symbol": "xASTRO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj": {
+      "address": "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj",
+      "denoms": [
+        {
+          "reference": "ibc/FD021051CD0A21590CAC7907B22749B19CC8CCB6A22DE48C21FE7D9EF1EE80B7",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-47",
+            "base_denom": "aacre"
+          },
+          "symbol": "ACRE"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1vvk3gh7jxp38vn5rs97zj4h8s5mcdf6hzqfh8tu5enc2la6p298skkky9k"
+    },
+    "kujira1jlyyyg0m649v75nqzm40jfdmjar9sf7rh3qnuz8yqa4345s9tqvqhxwxjq": {
+      "address": "kujira1jlyyyg0m649v75nqzm40jfdmjar9sf7rh3qnuz8yqa4345s9tqvqhxwxjq",
+      "denoms": [
+        {
+          "reference": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-50",
+            "base_denom": "ugraviton"
+          },
+          "symbol": "GRAV"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1xnyrh5tyaeu5vq8ylamtrp06z9zsxvxqsr5n4h7xy50ztwvkt69sqv7mke"
+    },
+    "kujira1kjmu97hr6tvk6m30sjzfm8tj6kzxpprdfssa99jd675u90sfvtdsf36lu7": {
+      "address": "kujira1kjmu97hr6tvk6m30sjzfm8tj6kzxpprdfssa99jd675u90sfvtdsf36lu7",
+      "denoms": [
+        {
+          "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "uusdt"
+          },
+          "symbol": "axlUSDT"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1uylse4qd3nyjm2h9e9v0walpf25e3plcp8ut94ggatk85q44vcus9ztdxl"
+    },
+    "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl": {
+      "address": "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl",
+      "denoms": [
+        {
+          "reference": "ibc/C19813F6D22F91CC64D2EEDF8702904DD61E0D022972EDFE0039F70C8A6EAD24",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stinj"
+          },
+          "symbol": "stINJ"
+        },
+        {
+          "reference": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-54",
+            "base_denom": "inj"
+          },
+          "symbol": "INJ"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1u7ndnyf7umkk70309xkdyk4jjdhwhzj3el3xal72qmm6lwkelplq85zxfu"
+    },
+    "kujira10vkk8ulf3rvfuzlfpqflklr2zkq6586pl9amcsafp2s6t4j7qn7seemml3": {
+      "address": "kujira10vkk8ulf3rvfuzlfpqflklr2zkq6586pl9amcsafp2s6t4j7qn7seemml3",
+      "denoms": [
+        {
+          "reference": "ibc/034FBAB83B9B8AB35217DD59452C92EBC845ECD2E44AB17D260D9A2E7200AC79",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE"
+          },
+          "symbol": "ampWHALE"
+        },
+        {
+          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "uwhale"
+          },
+          "symbol": "WHALE"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1l03eupqny6r2y6pr6lcktc3q33erxykr56ms95llptxar4jaq0psvml87j"
+    },
+    "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0": {
+      "address": "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0",
+      "denoms": [
+        {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          },
+          "symbol": "stOSMO"
+        },
+        {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          },
+          "symbol": "stATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1mve5x6sfha5zy5pvujkjg9ymrkz6lxpkk5wvpkfw0pp287p772vszs2pnn"
+    },
+    "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl": {
+      "address": "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl",
+      "denoms": [
+        {
+          "reference": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-59",
+            "base_denom": "udvpn"
+          },
+          "symbol": "DVPN"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1324mahmnjew4rsavkajsq047yc5kgerqy452jt5c2tr5f2dd7fpqflcqw7"
+    },
+    "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx": {
+      "address": "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx",
+      "denoms": [
+        {
+          "reference": "ibc/CA4AC8725BA74A291623BACAA8733DCC300D2A43059FB2EDB38657D794D8C7E2",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-63",
+            "base_denom": "uratom"
+          },
+          "symbol": "rATOM"
+        },
+        {
+          "reference": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uatom",
+            "path": "transfer/channel-0"
+          },
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira13l4zelu5r0l640t9xuuw5taehwm0dh9fj5ypfelz3m0zwa2rr64q5h4tln"
+    },
+    "kujira1yugk2n5y5059yzr7yq938nwzkz9mjgfctunhjhf0jp8tgax7t2cqag6e8c": {
+      "address": "kujira1yugk2n5y5059yzr7yq938nwzkz9mjgfctunhjhf0jp8tgax7t2cqag6e8c",
+      "denoms": [
+        {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          },
+          "symbol": "stOSMO"
+        },
+        {
+          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uusdc",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "axlUSDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1spumcl9yaujc5lycnd6lxph4nwwdfx4tdsvmwnsxle7ed6tecc7qc82zd5"
+    },
+    "kujira1tnnvtvere0pwz0uupy4crl3dv6yszte9nqms4fwmfhj3e2yl477sa0frks": {
+      "address": "kujira1tnnvtvere0pwz0uupy4crl3dv6yszte9nqms4fwmfhj3e2yl477sa0frks",
+      "denoms": [
+        {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          },
+          "symbol": "stOSMO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1s4s460gac6g8us9v4rtea3fwye849kxmnwamjzf2rdscn8sylcgqfcqchm"
+    },
+    "kujira1kmw6fk5p7an27u8f3er08xrwvzlehczymgshkqxzfrxyrfleu2eqxykaln": {
+      "address": "kujira1kmw6fk5p7an27u8f3er08xrwvzlehczymgshkqxzfrxyrfleu2eqxykaln",
+      "denoms": [
+        {
+          "reference": "ibc/03E988788ED3EE6326C95151F4E3947820B2F40BDC8C4170FEF5FC75B56EB6DC",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-31",
+            "base_denom": "cw20:juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa"
+          },
+          "symbol": "RAC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1rq0xjlelnsk99npcc542vj7n55yhwqee024c8pygknplear3dk2qpkld2a"
+    },
+    "kujira1p2vmq7g8fghkeak0hz4qfgeskkd7zqp3vnj6m3sa0r6gp4dr37usmtgtej": {
+      "address": "kujira1p2vmq7g8fghkeak0hz4qfgeskkd7zqp3vnj6m3sa0r6gp4dr37usmtgtej",
+      "denoms": [
+        {
+          "reference": "ibc/CC4EF9E26EC1C0BDEA058F5F08778C38E140353AF6E360B079EE3124018A1CC9",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-68",
+            "base_denom": "uregen"
+          },
+          "symbol": "REGEN"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ll96qv70frd5fyupd3jzfgnzs236sv3f8jy98cm7ckpq2apq874sun7s8z"
+    },
+    "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj": {
+      "address": "kujira1wckallump2k4284pt5wqg63a8prr205y532ym3850l82k75yzems5mfnkj",
+      "denoms": [
+        {
+          "reference": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-69",
+            "base_denom": "usomm"
+          },
+          "symbol": "SOMM"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1tusycaz084ugfr87spy9f5gu8cxr0jg4ew2g2396lk3ft6af4cnsxdwgrf"
+    },
+    "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx": {
+      "address": "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx",
+      "denoms": [
+        {
+          "reference": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-70",
+            "base_denom": "uflix"
+          },
+          "symbol": "FLIX"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1668q6uthdqw98q007h67mmjtcxkz33dfd7qzlaghr3nnu0986lws35698s"
+    },
+    "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq": {
+      "address": "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq",
+      "denoms": [
+        {
+          "reference": "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-64",
+            "base_denom": "uakt"
+          },
+          "symbol": "AKT"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1vpvt27kwaasyfxyd9lkfu3xlm3axmayg40z8reas7l7nk659kcqsgywtdv": {
+      "address": "kujira1vpvt27kwaasyfxyd9lkfu3xlm3axmayg40z8reas7l7nk659kcqsgywtdv",
+      "denoms": [
+        {
+          "reference": "ibc/193C32A9BB54632C383CF2D2BA1A47F73624446D8554762F934B7A61EF26B191",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-65",
+            "base_denom": "umntl"
+          },
+          "symbol": "MNTL"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira177mld0qaefvkwkcu2m5vv7u4rxf6ghvgcez0wdr6qxfcu886tz0qfcnecn"
+    },
+    "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y": {
+      "address": "kujira1nj62pjqhyqw52f2j6247qlsdtrugrnjlr3f5u7fe3xckrsuckfjssut55y",
+      "denoms": [
+        {
+          "reference": "ibc/217755344c0d40c75036110e20b0427cc6505760f071be4080dad5ac845969ee",
+          "decimals": 6,
+          "symbol": "USTC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1uj7qv8kfgjjw2vv02vzfsjk2xmmzsp36eap59nf7nhy7xjhyjc0qmcfe89"
+    },
+    "kujira1nu8kef49y0pdrkphtkt857tgtt0pe8nr8ms0pnp6lylrav9jq2asmjljhe": {
+      "address": "kujira1nu8kef49y0pdrkphtkt857tgtt0pe8nr8ms0pnp6lylrav9jq2asmjljhe",
+      "denoms": [
+        {
+          "reference": "ibc/E41F596AC5F1BF0298758CC40CBF1DB2DA0615F10BF28E4D9E82B9EEE7A0DBF2",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-67",
+            "base_denom": "ucre"
+          },
+          "symbol": "CRE"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1fzjfcy58vh6fx0qm8urmvul9d45ed8v787kdve9rdmltpxels00saksv2m"
+    },
+    "kujira1qxtd87qus6uzvqs4jv9r0j9ccd4yla42s6qag7y8fp7hhv68nzas6hqxgw": {
+      "address": "kujira1qxtd87qus6uzvqs4jv9r0j9ccd4yla42s6qag7y8fp7hhv68nzas6hqxgw",
+      "denoms": [
+        {
+          "reference": "factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
+          "decimals": 6,
+          "symbol": "WINK"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ds75r7xartfsrgaq9wcdwdh382y2asvs68fplcamzyl0zl8rx52segzaee"
     }
   },
   "harpoon-4": {
