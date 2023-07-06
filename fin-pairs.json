@@ -2754,31 +2754,6 @@
       "multiswap": true,
       "pool": "kujira1vdeazs5meer45p2snffc73kg27sqzt0fwulzzem9x7p6ca7yrh0qvfpgcr"
     },
-    "kujira1trxh7pu70dmzpqyqs4yltx2h5202k9e9fpssee0tdq4x2jr9praqg7c96e": {
-      "address": "kujira1trxh7pu70dmzpqyqs4yltx2h5202k9e9fpssee0tdq4x2jr9praqg7c96e",
-      "denoms": [
-        {
-          "reference": "ibc/1811B038682AD5B23CB825BE82E4DD0F73BEF9477F334591AF2BC68EBF57F005",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-45",
-            "base_denom": "utori"
-          },
-          "symbol": "TORI"
-        },
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        }
-      ],
-      "precision": {
-        "decimal_places": 4
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1cdy6aje8zszx5vryttkkm5rn9g2n53ltfds753fsn63m09cmhx0sgp6v6m"
-    },
     "kujira1hyqkqujpy4tk4ypn22avk809vqse3evp2vnxwcaf3y8rcs4clnrq09vcre": {
       "address": "kujira1hyqkqujpy4tk4ypn22avk809vqse3evp2vnxwcaf3y8rcs4clnrq09vcre",
       "denoms": [
@@ -2828,6 +2803,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1jj4tkucqrmtsya40gdhkh5h2hdkldhjv0r8m6ysvlphl8fl632pqtgx2kx"
+    },
+    "kujira1n2xz4et7gpge8e6dml2z2n8pqa944gz4l3yvhtt7avr5dah0n3rs5jzmvh": {
+      "address": "kujira1n2xz4et7gpge8e6dml2z2n8pqa944gz4l3yvhtt7avr5dah0n3rs5jzmvh",
+      "denoms": [
+        {
+          "reference": "ibc/91DAE8E9D19A6A770D2A787E54E1D388F8E603D89093FC4939CE36125CB8284D",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-89",
+            "base_denom": "utori"
+          },
+          "symbol": "TORI"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira14n9666axy7aq3qtmunvrx4jy23xee2wun9w83wprdck0xg5ye8kqtmdnm7"
     }
   },
   "harpoon-4": {
