@@ -2816,6 +2816,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira14n9666axy7aq3qtmunvrx4jy23xee2wun9w83wprdck0xg5ye8kqtmdnm7"
+    },
+    "kujira1dfafpr32hrrue43373gvnjs93gzdyuqh6rcjv23scfztu354fxdqhzvfrv": {
+      "address": "kujira1dfafpr32hrrue43373gvnjs93gzdyuqh6rcjv23scfztu354fxdqhzvfrv",
+      "denoms": [
+        {
+          "reference": "ibc/950993C6DA64F5A60A48D65A18CAB2D8190DE2DC1B861E70E8B03C61F7D5FBDC",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-99",
+            "base_denom": "aarch"
+          },
+          "symbol": "ARCH"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira18zrhan2zpz4pxlry73xwqmk9kg4gy8qx8cry63qupyj4k8yjsnzsedrdxs"
     }
   },
   "harpoon-4": {
