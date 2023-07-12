@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/75fe671095d6dd89a1ddc1f70c607b9bf1c9e3f6
+  kujira.js: github.com/Team-Kujira/kujira.js/ba15ab1dcc80c10da1914a9c86d4f787bf15dfd9
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -683,8 +683,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /chain-registry/1.15.0:
-    resolution: {integrity: sha512-nzmAGf6z4LDCkDrU/aQ/0itU74gWH6Gyc3wraVaw7E6cY3qWRAqJa+TG1QUL0fZOY1n25T2speFwlZoUWuHboQ==}
+  /chain-registry/1.17.1:
+    resolution: {integrity: sha512-O/v63seK1XeZsTxYfFwbUKspTNqusG7mASO88UBGO5tVi8p8DgtZybUpOoIoXuNQa2OE8wDFdLI95LudnfsWBg==}
     dependencies:
       '@babel/runtime': 7.22.6
       '@chain-registry/types': 0.16.0
@@ -1984,10 +1984,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/75fe671095d6dd89a1ddc1f70c607b9bf1c9e3f6:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/75fe671095d6dd89a1ddc1f70c607b9bf1c9e3f6}
+  github.com/Team-Kujira/kujira.js/ba15ab1dcc80c10da1914a9c86d4f787bf15dfd9:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/ba15ab1dcc80c10da1914a9c86d4f787bf15dfd9}
     name: kujira.js
-    version: 0.8.110
+    version: 0.8.111
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
@@ -1997,7 +1997,7 @@ packages:
       '@injectivelabs/core-proto-ts': 0.0.18
       '@keplr-wallet/types': 0.11.64
       '@types/google-protobuf': 3.15.6
-      chain-registry: 1.15.0
+      chain-registry: 1.17.1
       cosmjs-types: 0.8.0
       long: 4.0.0
       text-encoding: 0.7.0
