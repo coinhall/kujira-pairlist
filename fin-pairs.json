@@ -3023,6 +3023,56 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1mxav5chhnkktx9hatu8mmud3a424aaysmplqh5r70gcl8jygt42srqvlwj"
+    },
+    "kujira1zdf0zjz8grfhhe2x06k8f8xpnv04y90w06f4py7fjml4nmukn3yswk3ugc": {
+      "address": "kujira1zdf0zjz8grfhhe2x06k8f8xpnv04y90w06f4py7fjml4nmukn3yswk3ugc",
+      "denoms": [
+        {
+          "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+          "decimals": 18,
+          "trace": {
+            "base_denom": "weth-wei",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "wETH"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1dp7dtxz2wxegw8sl2q8c5nyuzanqskyddh3hvaka3g8uv0asa63qx49ej4"
+    },
+    "kujira17t9w0xlnukuy7pw6fzkr7gd3pdun9zma0hzqaueqszskw2lr95yqfqnynt": {
+      "address": "kujira17t9w0xlnukuy7pw6fzkr7gd3pdun9zma0hzqaueqszskw2lr95yqfqnynt",
+      "denoms": [
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          },
+          "symbol": "wBTC"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1v2f5ahvhtkn5k5a3jlf6qeqmhzr55ne8724cdnpapt6dva2vgtnqxwzvsk"
     }
   },
   "harpoon-4": {
