@@ -2875,7 +2875,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 2
+        "decimal_places": 4
       },
       "decimalDelta": 0,
       "multiswap": true,
