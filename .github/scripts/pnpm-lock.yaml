@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/eea011bfe2aaf44404be1212986137f1869271d1
+  kujira.js: github.com/Team-Kujira/kujira.js/daedd5e7421ff74b4c4cec69981e75bf5ac44c8c
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -1738,7 +1738,7 @@ packages:
   /rxjs/7.8.1:
     resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
     dependencies:
-      tslib: 2.6.0
+      tslib: 2.6.1
     dev: false
 
   /safe-buffer/5.2.1:
@@ -1880,8 +1880,8 @@ packages:
     resolution: {integrity: sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==}
     dev: true
 
-  /tslib/2.6.0:
-    resolution: {integrity: sha512-7At1WUettjcSRHXCyYtTselblcHl9PJFFVKiCAy/bY97+BPZXSQ2wbq0P9s8tK2G7dFQfNnlJnPAiArVBVBsfA==}
+  /tslib/2.6.1:
+    resolution: {integrity: sha512-t0hLfiEKfMUoqhG+U1oid7Pva4bbDPHYfJNiB7BiIjRkj1pyC++4N3huJfqY6aRH6VTB0rvtzQwjM4K6qpfOig==}
     dev: false
 
   /tsutils/3.21.0_typescript@4.9.5:
@@ -1984,10 +1984,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/eea011bfe2aaf44404be1212986137f1869271d1:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/eea011bfe2aaf44404be1212986137f1869271d1}
+  github.com/Team-Kujira/kujira.js/daedd5e7421ff74b4c4cec69981e75bf5ac44c8c:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/daedd5e7421ff74b4c4cec69981e75bf5ac44c8c}
     name: kujira.js
-    version: 0.8.120
+    version: 0.8.122
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
