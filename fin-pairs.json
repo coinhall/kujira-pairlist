@@ -1091,12 +1091,12 @@
       "denoms": [
         {
           "reference": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
-          "decimals": 8,
+          "decimals": 6,
           "trace": {
             "path": "transfer/channel-44",
             "base_denom": "cw20:secret1qfql357amn448duf5gvp9gr48sxx9tsnhupu3d"
           },
-          "symbol": "SHD"
+          "symbol": "SHD.legacy"
         },
         {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
@@ -3097,6 +3097,56 @@
       "decimalDelta": 2,
       "multiswap": true,
       "pool": "kujira19ca3j7wj672hnvzs7vj73hlt0u94zc0lpehkx8w5g8crm0sfx4nqvt44f6"
+    },
+    "kujira1xcucyc9meurn53x6r3f0744che4qzrsu6mvxt48aesz8dur6f9dsxg82h3": {
+      "address": "kujira1xcucyc9meurn53x6r3f0744che4qzrsu6mvxt48aesz8dur6f9dsxg82h3",
+      "denoms": [
+        {
+          "reference": "ibc/6500A6358F49FAB811A75E689D1B7C3B50AE6921F800569BF83929822EE7A828",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-44",
+            "base_denom": "cw20:secret1fl449muk5yq8dlad7a22nje4p5d2pnsgymhjfd"
+          },
+          "symbol": "SILK"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ckwmurez7pz232ht30uhf9nhzzd5fsms3f3fzd7vexu9u54xr8pq84yps9"
+    },
+    "kujira1vdv74x0w4mq2v57r4mydps89jw4wsrqtrxez3tylzqwmy972a9fssy5e3y": {
+      "address": "kujira1vdv74x0w4mq2v57r4mydps89jw4wsrqtrxez3tylzqwmy972a9fssy5e3y",
+      "denoms": [
+        {
+          "reference": "ibc/590CE97A3681BC2058FED1F69B613040209DF3F17B7BD31DFFB8671C4D2CD99B",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-44",
+            "base_denom": "cw20:secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
+          },
+          "symbol": "SHD"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1fwx579j2c2g260mcztqf6pvn7kqr49hl63u976wdn2u78xu7y8jqhjwnw5"
     }
   },
   "harpoon-4": {
