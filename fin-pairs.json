@@ -25,54 +25,6 @@
       "multiswap": true,
       "pool": "kujira1sx99fxy4lqx0nv3ys86tkdrch82qygxyec5c8dxsk9raz4at5zpq72gypx"
     },
-    "kujira1y6p729vgha3mzk0jqpker38pxphqhw3fzv3wj8xpqysdwqqu74wsc7gfdx": {
-      "address": "kujira1y6p729vgha3mzk0jqpker38pxphqhw3fzv3wj8xpqysdwqqu74wsc7gfdx",
-      "denoms": [
-        {
-          "reference": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-94",
-            "base_denom": "ujkl"
-          },
-          "symbol": "JKL"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
-    "kujira15v0nkra9zn84p3jydlu3grgd40cwe2uqnzs5h6jm28pju4vexeyqdekym9": {
-      "address": "kujira15v0nkra9zn84p3jydlu3grgd40cwe2uqnzs5h6jm28pju4vexeyqdekym9",
-      "denoms": [
-        {
-          "reference": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-94",
-            "base_denom": "ujkl"
-          },
-          "symbol": "JKL"
-        },
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
       "denoms": [
@@ -2726,31 +2678,6 @@
       "multiswap": true,
       "pool": "kujira1fnsda4za0njveec2sjwgwfku4nxw9m6mgzyy2vds9rvwx9l4sjdqlqwg4m"
     },
-    "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f": {
-      "address": "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f",
-      "denoms": [
-        {
-          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "stuatom"
-          },
-          "symbol": "stATOM"
-        },
-        {
-          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
-          "decimals": 6,
-          "symbol": "MNTA"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1jj4tkucqrmtsya40gdhkh5h2hdkldhjv0r8m6ysvlphl8fl632pqtgx2kx"
-    },
     "kujira1n2xz4et7gpge8e6dml2z2n8pqa944gz4l3yvhtt7avr5dah0n3rs5jzmvh": {
       "address": "kujira1n2xz4et7gpge8e6dml2z2n8pqa944gz4l3yvhtt7avr5dah0n3rs5jzmvh",
       "denoms": [
@@ -3147,6 +3074,104 @@
       "decimalDelta": 2,
       "multiswap": true,
       "pool": "kujira1fwx579j2c2g260mcztqf6pvn7kqr49hl63u976wdn2u78xu7y8jqhjwnw5"
+    },
+    "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f": {
+      "address": "kujira1l2x5c2fjjnw9uhrfhtme9snw3tzs4jt8cm0q2ysqssx6zskxatesjm7w7f",
+      "denoms": [
+        {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          },
+          "symbol": "stATOM"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1jj4tkucqrmtsya40gdhkh5h2hdkldhjv0r8m6ysvlphl8fl632pqtgx2kx"
+    },
+    "kujira1y50nul39ql5sf42p67nrsy9j0luly2mvaxmlkmx6888pnzw66k6qc0gku9": {
+      "address": "kujira1y50nul39ql5sf42p67nrsy9j0luly2mvaxmlkmx6888pnzw66k6qc0gku9",
+      "denoms": [
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          },
+          "symbol": "wBTC"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1vj39mdwekxznxxa97fv5gt957cghfdqhwju8fdv5ysu0x6vsyhps4zmqjl"
+    },
+    "kujira1y6p729vgha3mzk0jqpker38pxphqhw3fzv3wj8xpqysdwqqu74wsc7gfdx": {
+      "address": "kujira1y6p729vgha3mzk0jqpker38pxphqhw3fzv3wj8xpqysdwqqu74wsc7gfdx",
+      "denoms": [
+        {
+          "reference": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-94",
+            "base_denom": "ujkl"
+          },
+          "symbol": "JKL"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira15v0nkra9zn84p3jydlu3grgd40cwe2uqnzs5h6jm28pju4vexeyqdekym9": {
+      "address": "kujira15v0nkra9zn84p3jydlu3grgd40cwe2uqnzs5h6jm28pju4vexeyqdekym9",
+      "denoms": [
+        {
+          "reference": "ibc/2034A2717C2E9F5C19285A7F697CECFA14F34784B912AD32B6E3D7833090EB16",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-94",
+            "base_denom": "ujkl"
+          },
+          "symbol": "JKL"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     }
   },
   "harpoon-4": {
