@@ -2408,31 +2408,6 @@
       "multiswap": true,
       "pool": "kujira1tusycaz084ugfr87spy9f5gu8cxr0jg4ew2g2396lk3ft6af4cnsxdwgrf"
     },
-    "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx": {
-      "address": "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx",
-      "denoms": [
-        {
-          "reference": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-70",
-            "base_denom": "uflix"
-          },
-          "symbol": "FLIX"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1668q6uthdqw98q007h67mmjtcxkz33dfd7qzlaghr3nnu0986lws35698s"
-    },
     "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq": {
       "address": "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq",
       "denoms": [
@@ -3197,6 +3172,31 @@
       "decimalDelta": 2,
       "multiswap": true,
       "pool": "kujira12tpc335t72qtrjh64ccdydzsr9qtswkqn72cyvfj4d5hmtgynphsv4xjtu"
+    },
+    "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx": {
+      "address": "kujira1uau4ctnpfze4qqljqgup3watfg9yvmkgr7gevzgv27g30yx56fvsr6dkqx",
+      "denoms": [
+        {
+          "reference": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-70",
+            "base_denom": "uflix"
+          },
+          "symbol": "FLIX"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1668q6uthdqw98q007h67mmjtcxkz33dfd7qzlaghr3nnu0986lws35698s"
     }
   },
   "harpoon-4": {
