@@ -3197,6 +3197,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1668q6uthdqw98q007h67mmjtcxkz33dfd7qzlaghr3nnu0986lws35698s"
+    },
+    "kujira12zc52j25xac565t297rmd3huj8zh62usrecy66rzxnsf9mchaepqnwx3cg": {
+      "address": "kujira12zc52j25xac565t297rmd3huj8zh62usrecy66rzxnsf9mchaepqnwx3cg",
+      "denoms": [
+        {
+          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uosmo",
+            "path": "transfer/channel-3"
+          },
+          "symbol": "OSMO"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ygperwf0dc9ng2jffj0pwnnray3rscn9el6d78qjtt25qwgqukqszmdwtv"
     }
   },
   "harpoon-4": {
