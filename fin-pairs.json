@@ -2343,7 +2343,7 @@
             "path": "transfer/channel-31",
             "base_denom": "cw20:juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa"
           },
-          "symbol": "RAC"
+          "symbol": "RAC.legacy"
         },
         {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
@@ -3247,6 +3247,55 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira17djzq5x5e5zm9q9zlp6dtxdt9p8q2zvj0qtmjs0wrxm5g9e2vf5q9d6y2t"
+    },
+    "kujira1sr2hf68nc8a8f2e42tsjf3zmsgjkl4jmctszdzxes0whyk2tzn5sd3avg7": {
+      "address": "kujira1sr2hf68nc8a8f2e42tsjf3zmsgjkl4jmctszdzxes0whyk2tzn5sd3avg7",
+      "denoms": [
+        {
+          "reference": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "yieldeth-wei"
+          },
+          "symbol": "yieldETH"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 12,
+      "multiswap": true
+    },
+    "kujira15xmhc4u5lnp8pq46wvlvq6qwrmnrpvaxny7gsdqmase8sqa4v7kqp6sgf3": {
+      "address": "kujira15xmhc4u5lnp8pq46wvlvq6qwrmnrpvaxny7gsdqmase8sqa4v7kqp6sgf3",
+      "denoms": [
+        {
+          "reference": "ibc/2661BA7AD557526A9BE35C7576EEF8E82B14A01ECCE36AD139979FD683D37C9D",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac"
+          },
+          "symbol": "RAC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1el8eh78r8g6dyhrp0t6kffyyemfpu52xkx96u6qhwnru5ryg6t9su9az2q"
     }
   },
   "harpoon-4": {
