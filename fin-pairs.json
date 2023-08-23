@@ -3270,7 +3270,8 @@
         "decimal_places": 3
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1u8dluwa4a83q7anz0cgpmma605r07a06f0789ajcl8l0xjrplqss005cgn"
     },
     "kujira15xmhc4u5lnp8pq46wvlvq6qwrmnrpvaxny7gsdqmase8sqa4v7kqp6sgf3": {
       "address": "kujira15xmhc4u5lnp8pq46wvlvq6qwrmnrpvaxny7gsdqmase8sqa4v7kqp6sgf3",
@@ -3296,6 +3297,30 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1el8eh78r8g6dyhrp0t6kffyyemfpu52xkx96u6qhwnru5ryg6t9su9az2q"
+    },
+    "kujira1u2gj9a6p07hse07p66jqnq7xchneecxrq032vl4z2z97ft2r0zeqx4hadf": {
+      "address": "kujira1u2gj9a6p07hse07p66jqnq7xchneecxrq032vl4z2z97ft2r0zeqx4hadf",
+      "denoms": [
+        {
+          "reference": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "ustrd"
+          },
+          "symbol": "STRD"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     }
   },
   "harpoon-4": {
