@@ -2014,31 +2014,6 @@
       "multiswap": true,
       "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
     },
-    "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv": {
-      "address": "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv",
-      "denoms": [
-        {
-          "reference": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
-          "decimals": 8,
-          "trace": {
-            "path": "transfer/channel-46",
-            "base_denom": "swth"
-          },
-          "symbol": "SWTH"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 2,
-      "multiswap": true,
-      "pool": "kujira1ytwhduql6krgdp46xr8m9pt79dhdta0n23d5c00v7xxe5ru0hmvsp9uh8v"
-    },
     "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc": {
       "address": "kujira1qwtjeaf0y6hn094gn3xprw7wknkl4egpkr7dqu3cljkev5ex4xfqf2h8uc",
       "denoms": [
@@ -3320,7 +3295,33 @@
         "decimal_places": 3
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1ghc448g8c2prjqwg9gwekx3z9gp84nypkd2zah5pnexwejkj7peqqr37eu"
+    },
+    "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv": {
+      "address": "kujira1aqnmhyu37ynf8pm0fedtykzf3clk25ecc0p23cce2d5dc59eteeqgrg6tv",
+      "denoms": [
+        {
+          "reference": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-46",
+            "base_denom": "swth"
+          },
+          "symbol": "SWTH"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1ytwhduql6krgdp46xr8m9pt79dhdta0n23d5c00v7xxe5ru0hmvsp9uh8v"
     }
   },
   "harpoon-4": {
