@@ -3117,11 +3117,10 @@
         }
       ],
       "precision": {
-        "decimal_places": 4
+        "decimal_places": 5
       },
       "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1av284rnqh6s0l2lwdqgpgz8wuva3wh9lkmlsupjd9escn5v4fels6kwc7v"
+      "multiswap": true
     },
     "kujira14u8ynhj7d8h2379yqj5q2ma0xxpvfjlrpauhzxgnj40ejq953mlsugux8d": {
       "address": "kujira14u8ynhj7d8h2379yqj5q2ma0xxpvfjlrpauhzxgnj40ejq953mlsugux8d",
