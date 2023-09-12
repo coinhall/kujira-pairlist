@@ -3322,6 +3322,27 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1jvtzxuvcctdf9cza0h3027l98hk3f4f60gacmvjw9qnnje4t76psdedgqt"
+    },
+    "kujira1pw96huy6z02uk8hdpruk6g8u700dp8yxjhp46c24rwkzay2lfd3quqdum5": {
+      "address": "kujira1pw96huy6z02uk8hdpruk6g8u700dp8yxjhp46c24rwkzay2lfd3quqdum5",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
+          "decimals": 6,
+          "symbol": "USDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira13t2d80s8a9lnzfzq4n6e0dde9n7ans50cuuv6t3ahh5cqudxvueql4ynp9"
     }
   },
   "harpoon-4": {
