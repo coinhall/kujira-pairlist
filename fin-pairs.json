@@ -3401,6 +3401,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d"
+    },
+    "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n": {
+      "address": "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n",
+      "denoms": [
+        {
+          "reference": "ibc/0B41F8EB39912A15611BC834EB98962B59EE03C4CA8F781E709BB875BC18DC4B",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-23",
+            "base_denom": "erc20/0x655ecB57432CC1370f65e5dc2309588b71b473A9"
+          },
+          "symbol": "NEOK"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1fng8pgtmwacmdqudeg7sl6jkwea2zh46rt46fkrdmm75p93pt3xs3prww5"
     }
   },
   "harpoon-4": {
