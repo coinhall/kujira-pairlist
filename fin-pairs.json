@@ -3374,7 +3374,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira12jayn8m8fzw9jdknarj25qwatamnajcf0y3gyxlg56qavt9c6j3slh5ghd",
+      "pool": "kujira1l0dtky34pk0plaj5zxprs2zeg2977fh6ef4e4kpvu7695xqf4qeq9ztj6j",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5": {
@@ -3426,6 +3426,30 @@
       "decimalDelta": 12,
       "multiswap": true,
       "pool": "kujira1fng8pgtmwacmdqudeg7sl6jkwea2zh46rt46fkrdmm75p93pt3xs3prww5"
+    },
+    "kujira1hcvm4thkc0mq55cjzttp0fmh6gu5hzrfm4trgwpkm38nmd63tu0qha647q": {
+      "address": "kujira1hcvm4thkc0mq55cjzttp0fmh6gu5hzrfm4trgwpkm38nmd63tu0qha647q",
+      "denoms": [
+        {
+          "reference": "ibc/173E561B8E97AB49FBA540663C1D02DC1B2D2871B5C8434935982CB15B0C7765",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-75",
+            "base_denom": "untrn"
+          },
+          "symbol": "NTRN"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     }
   },
   "harpoon-4": {
