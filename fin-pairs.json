@@ -3449,7 +3449,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira18lhugzap20ndlqr5j2p86yk4pxpe9jjuac05z0ypxuwn3mm5vjhsjh4etr"
     }
   },
   "harpoon-4": {
