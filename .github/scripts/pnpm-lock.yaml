@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/cdcebd3c9eb9e8a459771d8116cd00a3530f4a33
+  kujira.js: github.com/Team-Kujira/kujira.js/2f12a8fa4fefb2482f40ba874db711e6b0b10be3
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -467,8 +467,8 @@ packages:
     resolution: {integrity: sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==}
     dev: true
 
-  /@types/node/18.18.1:
-    resolution: {integrity: sha512-3G42sxmm0fF2+Vtb9TJQpnjmP+uKlWvFa8KoEGquh4gqRmoUG/N0ufuhikw6HEsdG2G2oIKhog1GCTfz9v5NdQ==}
+  /@types/node/18.18.4:
+    resolution: {integrity: sha512-t3rNFBgJRugIhackit2mVcLfF6IRc0JE4oeizPQL8Zrm8n2WY/0wOdpOPhdtG0V9Q2TlW/axbF1MJ6z+Yj/kKQ==}
     dev: false
 
   /@typescript-eslint/parser/4.33.0_jofidmxrjzhj7l6vknpw5ecvfe:
@@ -1273,7 +1273,7 @@ packages:
     resolution: {integrity: sha512-2DcsyfABl+gVHEfCOaTrWgyt+tb6MSEGmKq+kI5HwLbIYgjgmMcV8KQ41uaKz1xxUcn9tJtgFbQUEVcEbd0FYw==}
     dependencies:
       function-bind: 1.1.1
-      has: 1.0.3
+      has: 1.0.4
       has-proto: 1.0.1
       has-symbols: 1.0.3
     dev: false
@@ -1362,11 +1362,9 @@ packages:
     engines: {node: '>= 0.4'}
     dev: false
 
-  /has/1.0.3:
-    resolution: {integrity: sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==}
+  /has/1.0.4:
+    resolution: {integrity: sha512-qdSAmqLF6209RFj4VVItywPMbm3vWylknmB3nvNiUIs72xAimcM8nVYxYr7ncvZq5qzk9MKIZR8ijqD/1QuYjQ==}
     engines: {node: '>= 0.4.0'}
-    dependencies:
-      function-bind: 1.1.1
     dev: false
 
   /hash-base/3.1.0:
@@ -1662,7 +1660,7 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 18.18.1
+      '@types/node': 18.18.4
       long: 4.0.0
     dev: false
 
@@ -1681,7 +1679,7 @@ packages:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
-      '@types/node': 18.18.1
+      '@types/node': 18.18.4
       long: 5.2.3
     dev: false
 
@@ -2000,10 +1998,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/cdcebd3c9eb9e8a459771d8116cd00a3530f4a33:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/cdcebd3c9eb9e8a459771d8116cd00a3530f4a33}
+  github.com/Team-Kujira/kujira.js/2f12a8fa4fefb2482f40ba874db711e6b0b10be3:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/2f12a8fa4fefb2482f40ba874db711e6b0b10be3}
     name: kujira.js
-    version: 0.8.168
+    version: 0.8.171
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.30.1
       '@cosmjs/launchpad': 0.27.1
