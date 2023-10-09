@@ -1671,7 +1671,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 4
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -3511,6 +3511,30 @@
             "base_denom": "inj"
           },
           "symbol": "INJ"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 12,
+      "multiswap": true
+    },
+    "kujira13xyuyw93pv6t7c4h248tc8t6kgu874v5qasmjfzqjfjhfp6hawlse5u5tz": {
+      "address": "kujira13xyuyw93pv6t7c4h248tc8t6kgu874v5qasmjfzqjfjhfp6hawlse5u5tz",
+      "denoms": [
+        {
+          "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+          "decimals": 18,
+          "trace": {
+            "base_denom": "weth-wei",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "wETH"
         },
         {
           "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
