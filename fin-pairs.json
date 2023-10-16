@@ -3706,6 +3706,46 @@
       },
       "decimalDelta": 0,
       "multiswap": true
+    },
+    "kujira134y27n82dmwpcjx3y7vfmnnst9vk9s4jcgmlm8qgl8d054ewmxvsmz89qv": {
+      "address": "kujira134y27n82dmwpcjx3y7vfmnnst9vk9s4jcgmlm8qgl8d054ewmxvsmz89qv",
+      "denoms": [
+        {
+          "reference": "factory/kujira1c09tgu7purz4sz8lwswxtltlwya6t7g4fuwa3j0qhr85279frhds3s6lmk/ubase",
+          "decimals": 6,
+          "symbol": "BASE"
+        },
+        {
+          "reference": "factory/kujira1c09tgu7purz4sz8lwswxtltlwya6t7g4fuwa3j0qhr85279frhds3s6lmk/uquote",
+          "decimals": 6,
+          "symbol": "QUOTE"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1u02wnh8mgdeuguhlzw9mp0w4vlstpl36n64gtell75gjh0skfkvq5mew0u": {
+      "address": "kujira1u02wnh8mgdeuguhlzw9mp0w4vlstpl36n64gtell75gjh0skfkvq5mew0u",
+      "denoms": [
+        {
+          "reference": "factory/kujira1v5afg9jcnv2pedrzve782ajvtq067zx2kssfhdpy8l7dnn3r0vgskwaf88/ubase",
+          "decimals": 6,
+          "symbol": "BASE"
+        },
+        {
+          "reference": "factory/kujira1v5afg9jcnv2pedrzve782ajvtq067zx2kssfhdpy8l7dnn3r0vgskwaf88/uquote",
+          "decimals": 6,
+          "symbol": "QUOTE"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     }
   },
   "localkujira": {}
