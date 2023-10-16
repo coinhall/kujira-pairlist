@@ -409,7 +409,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 5
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -3474,7 +3474,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1gnftck9586x0nhsqsj99k9zednl6tx4kezu9hpph0u6jtqnafpyqxha3me"
     },
     "kujira17r5u5r9gl3p9lql7p4dhdcffnv2z0f4xxafvgl8wnhw8qeez4x6q9zflp7": {
       "address": "kujira17r5u5r9gl3p9lql7p4dhdcffnv2z0f4xxafvgl8wnhw8qeez4x6q9zflp7",
@@ -3498,7 +3499,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1h929g9e9vxhc5y8v7uexdrncacxdatjupr67velewafwepfyfaaq6s7l3v"
     },
     "kujira17356flrg56cjs7ardg0c6jpufwyeafegss6l4asza4chrr0ne7aqfesynu": {
       "address": "kujira17356flrg56cjs7ardg0c6jpufwyeafegss6l4asza4chrr0ne7aqfesynu",
@@ -3522,7 +3524,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1znx048dcc6arqfw6kpckl0k4ts2h7cdx20nk22wz2cxh5vle3wxqknk238"
     },
     "kujira13xyuyw93pv6t7c4h248tc8t6kgu874v5qasmjfzqjfjhfp6hawlse5u5tz": {
       "address": "kujira13xyuyw93pv6t7c4h248tc8t6kgu874v5qasmjfzqjfjhfp6hawlse5u5tz",
@@ -3546,7 +3549,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira17x2v39aut0paj5d6wc5jxvqqxrdhy9kvca4y5xn6vsfpsxkgc6gq7n4tg0"
     }
   },
   "harpoon-4": {
