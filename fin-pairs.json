@@ -879,7 +879,8 @@
         "decimal_places": 4
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira12z6y4jgnws88sultpwj23r0n6e844gnjnvqyrpwkdstmy9ts57mse07n6y"
     },
     "kujira1642dp8q7gzm5g5csdz2k676rc5zqfka4hfnas9ffydffp0saspts0e9zgp": {
       "address": "kujira1642dp8q7gzm5g5csdz2k676rc5zqfka4hfnas9ffydffp0saspts0e9zgp",
