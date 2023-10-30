@@ -3698,6 +3698,60 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1h9f3k54j060pzlnea8ep8qfymsmwl5yhwc5hqept5p2esqzve7tq2ghnm4"
+    },
+    "kujira17f2lrmsrgd5xfhxga0tkhr7d8zz5xftxvwzqwehxrndj4xzaazusnh9klt": {
+      "address": "kujira17f2lrmsrgd5xfhxga0tkhr7d8zz5xftxvwzqwehxrndj4xzaazusnh9klt",
+      "denoms": [
+        {
+          "reference": "ibc/A6826D67800ED864F3BF51D56B0165DAF2491B00D93433564158D87BAA0C82BE",
+          "decimals": 14,
+          "trace": {
+            "path": "transfer/channel-116",
+            "base_denom": "usat"
+          },
+          "symbol": "nBTC"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 8,
+      "multiswap": true,
+      "pool": "kujira1kw9jy5gr0f6h0pdvuth7qcmap5anuyhfazjf4rzcqylrtu8yvkysf2lkfe"
+    },
+    "kujira1e2dqf7u5hdle0ypsqek3v5tv07dwf6czlqsdsqj86udjkz4xc5uqzwqvqn": {
+      "address": "kujira1e2dqf7u5hdle0ypsqek3v5tv07dwf6czlqsdsqj86udjkz4xc5uqzwqvqn",
+      "denoms": [
+        {
+          "reference": "ibc/A6826D67800ED864F3BF51D56B0165DAF2491B00D93433564158D87BAA0C82BE",
+          "decimals": 14,
+          "trace": {
+            "path": "transfer/channel-116",
+            "base_denom": "usat"
+          },
+          "symbol": "nBTC"
+        },
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          },
+          "symbol": "wBTC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 6,
+      "multiswap": true,
+      "pool": "kujira1euap7mtdpkggl478pv03e630gwft3yh4h9ewtdtjmvc7760gs4wsynutx7"
     }
   },
   "harpoon-4": {
