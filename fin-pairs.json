@@ -3752,6 +3752,83 @@
       "decimalDelta": 6,
       "multiswap": true,
       "pool": "kujira1euap7mtdpkggl478pv03e630gwft3yh4h9ewtdtjmvc7760gs4wsynutx7"
+    },
+    "kujira1865zmuchjd0g0xr2q5n6hm747s8xju5k8h6mympk4vmqefkuy3hqc66tcw": {
+      "address": "kujira1865zmuchjd0g0xr2q5n6hm747s8xju5k8h6mympk4vmqefkuy3hqc66tcw",
+      "denoms": [
+        {
+          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "uwhale"
+          },
+          "symbol": "WHALE"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1smam2ygq2s8u7v2l5u8jdugqx9dd324xe4gnecc6duh5lks8g33q7mjpvl": {
+      "address": "kujira1smam2ygq2s8u7v2l5u8jdugqx9dd324xe4gnecc6duh5lks8g33q7mjpvl",
+      "denoms": [
+        {
+          "reference": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "yieldeth-wei"
+          },
+          "symbol": "yieldETH"
+        },
+        {
+          "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+          "decimals": 18,
+          "trace": {
+            "base_denom": "weth-wei",
+            "path": "transfer/channel-9"
+          },
+          "symbol": "wETH"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1c5vyq4k5cs2jh2wly5na2rgm29qf7j2wspye8masrh7szaqeev3sac4z9d": {
+      "address": "kujira1c5vyq4k5cs2jh2wly5na2rgm29qf7j2wspye8masrh7szaqeev3sac4z9d",
+      "denoms": [
+        {
+          "reference": "ibc/EB5ADB11D03C6FE1D02BC7F44ED543A8DCFD950A420C5DED1E2B23EE931A0248",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-117",
+            "base_denom": "utia"
+          },
+          "symbol": "TIA"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira156h2t7vwh74d6l5f095vwq000cc5ydvg3z4ez8x4cjzk7eh0r9zq4pcdag"
     }
   },
   "harpoon-4": {
