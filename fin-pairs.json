@@ -3919,7 +3919,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1smfdnww47xav4nn849xphku3gk3xp7a24fk533dce8masnsz4v8quklajx"
     },
     "kujira1qj5jvay6f29dcgtm6v94sswe9mv5ktqm4gzc8fs248y3c4lme4lqvr05r0": {
       "address": "kujira1qj5jvay6f29dcgtm6v94sswe9mv5ktqm4gzc8fs248y3c4lme4lqvr05r0",
@@ -3943,7 +3944,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1y24jwsv84lnuv5j78qeqz5ujjpd058qsft7wfc0nk9jvycugm32sqnq53d"
     },
     "kujira1y5k75yuygkr9wmpl3huy5spqktgq9w2ex3zndu0zw6l2n0mzf4asz7hdat": {
       "address": "kujira1y5k75yuygkr9wmpl3huy5spqktgq9w2ex3zndu0zw6l2n0mzf4asz7hdat",
@@ -3967,7 +3969,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1p7w9ncnnme9yzzhrvzv0hnsa5u5ga06v0ckt7lq9yfap04hc5k9sn2vf6w"
     },
     "kujira180qesrskvljsvvkhvlkrwvyvu5hx03jhx76lvwxveq86at4ttqxq259wz8": {
       "address": "kujira180qesrskvljsvvkhvlkrwvyvu5hx03jhx76lvwxveq86at4ttqxq259wz8",
@@ -3991,7 +3994,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1fk2tk2z59r7dhh36ydu0vzfmzqasy63tm2an42faxkfpnw563snsj9pk7h"
     },
     "kujira1tgd479qm2cu30yr4568l23aaz0p2wcr979wx3z7wlsgcc5fj6rxshc2uwx": {
       "address": "kujira1tgd479qm2cu30yr4568l23aaz0p2wcr979wx3z7wlsgcc5fj6rxshc2uwx",
@@ -4015,7 +4019,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 3,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1gz2kvfw7hpds9fvygwkj64znl3a9pw697g77cspcq5y4vj3ru45s7qc0rd"
     },
     "kujira1vs6ew8y2tlugfe5a26mqk3fr0tspnljgkvdt3rfrquggsksc860qnucqvp": {
       "address": "kujira1vs6ew8y2tlugfe5a26mqk3fr0tspnljgkvdt3rfrquggsksc860qnucqvp",
@@ -4039,7 +4044,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1t4mr2xt4ky4mfwcy752chzlquam3hzs44mt8vwyec8mvypmzxu5s90vamt"
     },
     "kujira1dsmm4q4kgs0nfsryrmlv7wq2dxp6uzruzqalc5xp30ztlmplgm7qms2qsa": {
       "address": "kujira1dsmm4q4kgs0nfsryrmlv7wq2dxp6uzruzqalc5xp30ztlmplgm7qms2qsa",
@@ -4063,7 +4069,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira18mveas6xseaqu3fmukwv2ac6mp4hszk08lvyamedytjs0kxm42yqs9v89x"
     },
     "kujira1d6ft0x389cx8daaq6a5vcy2qr7x7gf5strp6vy4vusjwewep89lskyu6mc": {
       "address": "kujira1d6ft0x389cx8daaq6a5vcy2qr7x7gf5strp6vy4vusjwewep89lskyu6mc",
@@ -4087,7 +4094,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1n92swvw9ppykdc33r979a9yuf0efc0du7awj8wufc06wu5j5m2qq64zx6u"
     },
     "kujira1sgahmu7ld4vyllf69y94xa2fsfpcr3u5qshdxuhps62p8579843s9hqfm0": {
       "address": "kujira1sgahmu7ld4vyllf69y94xa2fsfpcr3u5qshdxuhps62p8579843s9hqfm0",
@@ -4111,7 +4119,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1526yxrcq2ntgrk8rqcs5hz3hpzxwkz7lgaq3fjyd3s9uj25k4sgqvceym9"
     },
     "kujira1j0ux6qjs7z3alcfrmhz6erzkz4y68n0qpr38qv6f3ju2h0sh474qdmq397": {
       "address": "kujira1j0ux6qjs7z3alcfrmhz6erzkz4y68n0qpr38qv6f3ju2h0sh474qdmq397",
@@ -4135,7 +4144,8 @@
         "decimal_places": 5
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1vqdyup9zxxl9gqy5hwh593vvuc84lstldj7qzt7fylf3q3e3uemqlwpg9y"
     },
     "kujira1npa6umexukr68g6gd0mx6crlxahgc6fpz6g0xr6gfq06zk50dj7qtvcfyg": {
       "address": "kujira1npa6umexukr68g6gd0mx6crlxahgc6fpz6g0xr6gfq06zk50dj7qtvcfyg",
@@ -4159,7 +4169,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 12,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1qvvnu5z275s38tzlh8uq6gl3688nqjr7z7hlkmx3r7g5chrl3eksma0vnf"
     },
     "kujira1auhjl9lcwtke3h3qqkxmtmumx7gsrxl7f80d9cdljg9w8ud23shqjzzqez": {
       "address": "kujira1auhjl9lcwtke3h3qqkxmtmumx7gsrxl7f80d9cdljg9w8ud23shqjzzqez",
@@ -4183,7 +4194,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1s982qcjyes4753xfxvkvscmcqsd3qnpys926gxly0tvs6en45p4qj0g5eg"
     },
     "kujira1lwfn688a2zxvq939qrspv4jm48rrzjscl4kvtqx99vmzkv2xceqs7qds9y": {
       "address": "kujira1lwfn688a2zxvq939qrspv4jm48rrzjscl4kvtqx99vmzkv2xceqs7qds9y",
@@ -4207,6 +4219,67 @@
         "decimal_places": 5
       },
       "decimalDelta": 2,
+      "multiswap": true,
+      "pool": "kujira1lz62nqn40ram7wt6xuuf4x535g8y62s03cy4h9wp66dcw97lyq9q20j0r8"
+    },
+    "kujira14wsrem89304kpkl6d0j58dl6479eekwt047ccs0qzv9f60w80wzs8rjq4j": {
+      "address": "kujira14wsrem89304kpkl6d0j58dl6479eekwt047ccs0qzv9f60w80wzs8rjq4j",
+      "denoms": [
+        {
+          "reference": "factory/kujira1m96ucsfpt2yy72w09z2rxjdj38y5qd8lqx5jtggnejmdua2ynpnsxyvjex/urcpt",
+          "decimals": 6,
+          "symbol": "qcKUJI"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1ujsr2ge7dr723kse7thjv2rm3k7dkmjaxqzdh8qkcnx5gqz57jsqxy4ker": {
+      "address": "kujira1ujsr2ge7dr723kse7thjv2rm3k7dkmjaxqzdh8qkcnx5gqz57jsqxy4ker",
+      "denoms": [
+        {
+          "reference": "factory/kujira1qzu3up50auxhqyzfq56znuj8n38q2ra7daaf9ef7vg8gu66jh4fqd2wd2y/urcpt",
+          "decimals": 6,
+          "symbol": "qcMNTA"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de": {
+      "address": "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de",
+      "denoms": [
+        {
+          "reference": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
+          "decimals": 6,
+          "symbol": "NSTK"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
       "multiswap": true
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
