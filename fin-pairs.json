@@ -2447,7 +2447,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1a5fcczk37kks0zkg9znzf8pef83evwm230rejc8zmefrc48per5qcfwg65"
+      "pool": "kujira1vvuw7veurt4w82l68deexdyfvt8ktv64x2x3amrhwy0x05hf8yls905rny"
     },
     "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm": {
       "address": "kujira172qjrk8g9l86w0shz4cc3e6rt5h9janaen4j4u6ze7xkjvjnaqfskwyyqm",
@@ -4240,7 +4240,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira19a0wethewg36vny9jremekzlx66lwljp2htrhe255mp6djv652dqsu2l76"
     },
     "kujira1ujsr2ge7dr723kse7thjv2rm3k7dkmjaxqzdh8qkcnx5gqz57jsqxy4ker": {
       "address": "kujira1ujsr2ge7dr723kse7thjv2rm3k7dkmjaxqzdh8qkcnx5gqz57jsqxy4ker",
@@ -4260,7 +4261,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1ul00h0a2kgcg9x2yfa86wj9qguhyv7jmpjpw6ztt24j9mn9xjw3slawyc8"
     },
     "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de": {
       "address": "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de",
@@ -4281,6 +4283,27 @@
       },
       "decimalDelta": 0,
       "multiswap": true
+    },
+    "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e": {
+      "address": "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e",
+      "denoms": [
+        {
+          "reference": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/ufuzn",
+          "decimals": 6,
+          "symbol": "FUZN"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira17clmjjh9jqvnzpt0s90qx4zag8p5m2p6fq3mj9727msdf5gyx87qanzf3m"
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
