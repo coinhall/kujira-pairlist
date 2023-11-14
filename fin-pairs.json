@@ -2443,7 +2443,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 4
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -3296,11 +3296,11 @@
         }
       ],
       "precision": {
-        "decimal_places": 4
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1jvtzxuvcctdf9cza0h3027l98hk3f4f60gacmvjw9qnnje4t76psdedgqt"
+      "pool": "kujira1lyyeyuw4qgan6nz45thw2m0nmxa457uz7cp9dqw5d9a0h7ccek7qavkm6g"
     },
     "kujira1pw96huy6z02uk8hdpruk6g8u700dp8yxjhp46c24rwkzay2lfd3quqdum5": {
       "address": "kujira1pw96huy6z02uk8hdpruk6g8u700dp8yxjhp46c24rwkzay2lfd3quqdum5",
