@@ -1690,7 +1690,7 @@
             "path": "transfer/channel-31",
             "base_denom": "cw20:juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz"
           },
-          "symbol": "FURY"
+          "symbol": "FURY.legacy"
         },
         {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
@@ -2501,8 +2501,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1daf7z9pyd7cwfmqd5tjnqqgsc0naus60cpn5e6ukwuqd06ywen3qy0s525",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira1daf7z9pyd7cwfmqd5tjnqqgsc0naus60cpn5e6ukwuqd06ywen3qy0s525"
     },
     "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9": {
       "address": "kujira149m52kn7nvsg5nftvv4fh85scsavpdfxp5nr7zasz97dum89dp5qevttd9",
@@ -4303,7 +4302,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira17clmjjh9jqvnzpt0s90qx4zag8p5m2p6fq3mj9727msdf5gyx87qanzf3m"
+      "pool": "kujira17clmjjh9jqvnzpt0s90qx4zag8p5m2p6fq3mj9727msdf5gyx87qanzf3m",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
