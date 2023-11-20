@@ -3720,7 +3720,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 5
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -4281,7 +4281,8 @@
         "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira12nlfhll9xgf5jt8wz4uuzjzf2sxxkem6n2tkx24049wqtngrkumqptxh6n"
     },
     "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e": {
       "address": "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e",
@@ -4304,6 +4305,127 @@
       "multiswap": true,
       "pool": "kujira17clmjjh9jqvnzpt0s90qx4zag8p5m2p6fq3mj9727msdf5gyx87qanzf3m",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira1jk3fnks9ha3hwzl63qzz30c26nckpcqnawdxw4lj9x70wflra69q9ndawk": {
+      "address": "kujira1jk3fnks9ha3hwzl63qzz30c26nckpcqnawdxw4lj9x70wflra69q9ndawk",
+      "denoms": [
+        {
+          "reference": "ibc/6A4CEDCEA40B587A4BCF7FDFB1D5A13D13F8A807A22A4E759EA702640CE086B0",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-118",
+            "base_denom": "adydx"
+          },
+          "symbol": "DYDX"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq"
+    },
+    "kujira1nav56swr5hlxfnrgu9y8jxqhxl48pc5q7pvw2ujan2hlej527vas4mtpmd": {
+      "address": "kujira1nav56swr5hlxfnrgu9y8jxqhxl48pc5q7pvw2ujan2hlej527vas4mtpmd",
+      "denoms": [
+        {
+          "reference": "ibc/359AF48D8512344FD8B6514CA79C26AC120B4F12FFE2D2A46528A58439272BD5",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-119",
+            "base_denom": "ufury"
+          },
+          "symbol": "FURY"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1sk09vwsdayqmvl8pmzju0jmrx4rvdlrsv9jqf47tf8ajpj870svs0z4gyd": {
+      "address": "kujira1sk09vwsdayqmvl8pmzju0jmrx4rvdlrsv9jqf47tf8ajpj870svs0z4gyd",
+      "denoms": [
+        {
+          "reference": "factory/kujira1sc6a0347cc5q3k890jj0pf3ylx2s38rh4sza4t/ufuzn",
+          "decimals": 6,
+          "symbol": "FUZN"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira14rrh06m6rm699psw4dly88n7whqjsustqzcj23rwvmy5egu4vd8qm99rcx": {
+      "address": "kujira14rrh06m6rm699psw4dly88n7whqjsustqzcj23rwvmy5egu4vd8qm99rcx",
+      "denoms": [
+        {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          },
+          "symbol": "stOSMO"
+        },
+        {
+          "reference": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
+          "decimals": 6,
+          "trace": {
+            "base_denom": "uosmo",
+            "path": "transfer/channel-3"
+          },
+          "symbol": "OSMO"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira16ggpql9mflavar4hxuprfpgld4p5e47wd4mevvj40tll6caqkkdsc8knug": {
+      "address": "kujira16ggpql9mflavar4hxuprfpgld4p5e47wd4mevvj40tll6caqkkdsc8knug",
+      "denoms": [
+        {
+          "reference": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-43",
+            "base_denom": "cw20:terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
+          },
+          "symbol": "ASTRO"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",

@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/ff6d5d0382ad522238d84834c134a29e7431731c
+  kujira.js: github.com/Team-Kujira/kujira.js/8f0c090774bf79180764af87f262561bd5506666
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -42,8 +42,8 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@babel/runtime/7.23.2:
-    resolution: {integrity: sha512-mM8eg4yl5D6i3lu2QKPuPH4FArvJ8KhTofbE7jwMUv9KX5mBvwPAqnV3MlyBNqdp9RyRKP6Yck8TrfYrPvX3bg==}
+  /@babel/runtime/7.23.4:
+    resolution: {integrity: sha512-2Yv65nlWnWlSpe3fXEyX5i7fx5kIKo4Qbcj+hMO0odwaneFjfXw5fdum+4yL20O0QiaHpia0cYQ9xpNMqrBwHg==}
     engines: {node: '>=6.9.0'}
     dependencies:
       regenerator-runtime: 0.14.0
@@ -52,7 +52,7 @@ packages:
   /@chain-registry/types/0.17.0:
     resolution: {integrity: sha512-lavACU4oDxioUy8lZOFZN0Vrr2qR+Dg2yEh/mkrPfOldcioavREXJou0elDyyXwq4pGLC5YQ+IISCtQ4Du0bdw==}
     dependencies:
-      '@babel/runtime': 7.23.2
+      '@babel/runtime': 7.23.4
     dev: false
 
   /@confio/ics23/0.6.8:
@@ -467,8 +467,8 @@ packages:
     resolution: {integrity: sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==}
     dev: true
 
-  /@types/node/18.18.9:
-    resolution: {integrity: sha512-0f5klcuImLnG4Qreu9hPj/rEfFq6YRc5n2mAjSsH+ec/mJL+3voBH0+8T7o8RpFjH7ovc+TRsL/c7OYIQsPTfQ==}
+  /@types/node/18.18.10:
+    resolution: {integrity: sha512-luANqZxPmjTll8bduz4ACs/lNTCLuWssCyjqTY9yLdsv1xnViQp3ISKwsEWOIecO13JWUqjVdig/Vjjc09o8uA==}
     dependencies:
       undici-types: 5.26.5
     dev: false
@@ -688,7 +688,7 @@ packages:
   /chain-registry/1.20.0:
     resolution: {integrity: sha512-kBeQVdopECXasauhaA+HiJNSB0UpzNmxtv5AvIpJBAZc3nuM2wzPxaHAiPz1OG5ifYwMraOkvPNxwOnXd1nZzw==}
     dependencies:
-      '@babel/runtime': 7.23.2
+      '@babel/runtime': 7.23.4
       '@chain-registry/types': 0.17.0
     dev: false
 
@@ -1667,7 +1667,7 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 18.18.9
+      '@types/node': 18.18.10
       long: 4.0.0
     dev: false
 
@@ -1686,7 +1686,7 @@ packages:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
-      '@types/node': 18.18.9
+      '@types/node': 18.18.10
       long: 5.2.3
     dev: false
 
@@ -2009,10 +2009,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/ff6d5d0382ad522238d84834c134a29e7431731c:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/ff6d5d0382ad522238d84834c134a29e7431731c}
+  github.com/Team-Kujira/kujira.js/8f0c090774bf79180764af87f262561bd5506666:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/8f0c090774bf79180764af87f262561bd5506666}
     name: kujira.js
-    version: 0.9.52
+    version: 0.9.56
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.31.3
       '@cosmjs/launchpad': 0.27.1
