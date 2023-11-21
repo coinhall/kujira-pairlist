@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/8f0c090774bf79180764af87f262561bd5506666
+  kujira.js: github.com/Team-Kujira/kujira.js/8ad676fe715fbf843db180af2156296ff9ca02d3
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -343,40 +343,6 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@improbable-eng/grpc-web/0.13.0_google-protobuf@3.21.2:
-    resolution: {integrity: sha512-vaxxT+Qwb7GPqDQrBV4vAAfH0HywgOLw6xGIKXd9Q8hcV63CQhmS3p4+pZ9/wVvt4Ph3ZDK9fdC983b9aGMUFg==}
-    peerDependencies:
-      google-protobuf: ^3.2.0
-    dependencies:
-      browser-headers: 0.4.1
-      google-protobuf: 3.21.2
-    dev: false
-
-  /@injectivelabs/chain-api/1.9.9:
-    resolution: {integrity: sha512-hOsyBReyemJGMGUXgW1zmeI8YPpnkDliXnpOGA84X7FWxoM2htkycQHW01dB1FIWnMdx3IOVSMNxi34vxUPEdA==}
-    dependencies:
-      '@improbable-eng/grpc-web': 0.13.0_google-protobuf@3.21.2
-      google-protobuf: 3.21.2
-    dev: false
-
-  /@injectivelabs/core-proto-ts/0.0.18:
-    resolution: {integrity: sha512-WSZS7SQ+I/m8jdc7fhzkMTUhA7i5nVTeKbN6QGqKmOwQ/F+PqM75vDHD9Y9NbLPx9P+m7hyUzSHz4zmajth5jw==}
-    dependencies:
-      '@injectivelabs/grpc-web': 0.0.1_google-protobuf@3.21.2
-      google-protobuf: 3.21.2
-      protobufjs: 7.2.5
-      rxjs: 7.8.1
-    dev: false
-
-  /@injectivelabs/grpc-web/0.0.1_google-protobuf@3.21.2:
-    resolution: {integrity: sha512-Pu5YgaZp+OvR5UWfqbrPdHer3+gDf+b5fQoY+t2VZx1IAVHX8bzbN9EreYTvTYtFeDpYRWM8P7app2u4EX5wTw==}
-    peerDependencies:
-      google-protobuf: ^3.14.0
-    dependencies:
-      browser-headers: 0.4.1
-      google-protobuf: 3.21.2
-    dev: false
-
   /@keplr-wallet/types/0.11.64:
     resolution: {integrity: sha512-GgzeLDHHfZFyne3O7UIfFHj/uYqVbxAZI31RbBwt460OBbvwQzjrlZwvJW3vieWRAgxKSITjzEDBl2WneFTQdQ==}
     dependencies:
@@ -455,8 +421,8 @@ packages:
     resolution: {integrity: sha512-Vvn3zZrhQZkkBE8LSuW3em98c0FwgO4nxzv6OdSxPKJIEKY2bGbHn+mhGIPerzI4twdxaP8/0+06HBpwf345Lw==}
     dev: false
 
-  /@types/google-protobuf/3.15.10:
-    resolution: {integrity: sha512-uiyKJCa8hbmPE4yxwjbkMOALaBAiOVcatW/yEGbjTqwAh4kzNgQPWRlJMNPXpB5CPUM66xsYufiSX9WKHZCE9g==}
+  /@types/google-protobuf/3.15.12:
+    resolution: {integrity: sha512-40um9QqwHjRS92qnOaDpL7RmDK15NuZYo9HihiJRbYkMQZlWnuH8AdvbMy8/o6lgLmKbDUKa+OALCltHdbOTpQ==}
     dev: false
 
   /@types/long/4.0.2:
@@ -467,8 +433,8 @@ packages:
     resolution: {integrity: sha512-juG3RWMBOqcOuXC643OAdSA525V44cVgGV6dUDuiFtss+8Fk5x1hI93Rsld43VeJVIeqlP9I7Fn9/qaVqoEAuQ==}
     dev: true
 
-  /@types/node/18.18.10:
-    resolution: {integrity: sha512-luANqZxPmjTll8bduz4ACs/lNTCLuWssCyjqTY9yLdsv1xnViQp3ISKwsEWOIecO13JWUqjVdig/Vjjc09o8uA==}
+  /@types/node/18.18.11:
+    resolution: {integrity: sha512-c1vku6qnTeujJneYH94/4aq73XrVcsJe35UPyAsSok1ijiKrkRzK+AxQPSpNMUnC03roWBBwJx/9I8V7lQoxmA==}
     dependencies:
       undici-types: 5.26.5
     dev: false
@@ -670,10 +636,6 @@ packages:
 
   /brorand/1.1.0:
     resolution: {integrity: sha512-cKV8tMCEpQs4hK/ik71d6LrPOnpkpGBR0wzxqr68g2m/LB2GxVYQroAjMJZRVM1Y4BCjCKc3vAamxSzOY2RP+w==}
-    dev: false
-
-  /browser-headers/0.4.1:
-    resolution: {integrity: sha512-CA9hsySZVo9371qEHjHZtYxV2cFtVj5Wj/ZHi8ooEsrtm4vOnl9Y9HmyYWk9q+05d7K3rdoAE0j3MVEFVvtQtg==}
     dev: false
 
   /buffer-from/1.1.2:
@@ -1321,10 +1283,6 @@ packages:
       slash: 3.0.0
     dev: true
 
-  /google-protobuf/3.21.2:
-    resolution: {integrity: sha512-3MSOYFO5U9mPGikIYCzK0SaThypfGgS6bHqrUGXG3DPHCrb+txNqeEcns1W0lkGfk0rCyNXm7xB9rMxnCiZOoA==}
-    dev: false
-
   /gopd/1.0.1:
     resolution: {integrity: sha512-d65bNlIadxvpb/A2abVdlqKqV563juRnZ1Wtk6s1sIR8uNsXR70xqIzVqxVf1eTqDunwT2MkczEeaezCKTZhwA==}
     dependencies:
@@ -1523,10 +1481,6 @@ packages:
     resolution: {integrity: sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==}
     dev: false
 
-  /long/5.2.3:
-    resolution: {integrity: sha512-lcHwpNoggQTObv5apGNCTdJrO69eHOZMi4BNC+rTLER8iHAqGrUVeLh/irVIM7zTw2bOXA8T6uNPeujwOLg/2Q==}
-    dev: false
-
   /lru-cache/6.0.0:
     resolution: {integrity: sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA==}
     engines: {node: '>=10'}
@@ -1667,27 +1621,8 @@ packages:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 18.18.10
+      '@types/node': 18.18.11
       long: 4.0.0
-    dev: false
-
-  /protobufjs/7.2.5:
-    resolution: {integrity: sha512-gGXRSXvxQ7UiPgfw8gevrfRWcTlSbOFg+p/N+JVJEK5VhueL2miT6qTymqAmjr1Q5WbOCyJbyrk6JfWKwlFn6A==}
-    engines: {node: '>=12.0.0'}
-    requiresBuild: true
-    dependencies:
-      '@protobufjs/aspromise': 1.1.2
-      '@protobufjs/base64': 1.1.2
-      '@protobufjs/codegen': 2.0.4
-      '@protobufjs/eventemitter': 1.1.0
-      '@protobufjs/fetch': 1.1.0
-      '@protobufjs/float': 1.0.2
-      '@protobufjs/inquire': 1.1.0
-      '@protobufjs/path': 1.1.2
-      '@protobufjs/pool': 1.1.0
-      '@protobufjs/utf8': 1.1.0
-      '@types/node': 18.18.10
-      long: 5.2.3
     dev: false
 
   /punycode/2.1.1:
@@ -1755,12 +1690,6 @@ packages:
     dependencies:
       queue-microtask: 1.2.3
     dev: true
-
-  /rxjs/7.8.1:
-    resolution: {integrity: sha512-AA3TVj+0A2iuIoQkWEK/tqFjBq2j+6PO6Y0zJcvzLAFhEFIO3HL0vls9hWLncZbAAbK0mar7oZ4V079I/qPMxg==}
-    dependencies:
-      tslib: 2.6.2
-    dev: false
 
   /safe-buffer/5.2.1:
     resolution: {integrity: sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ==}
@@ -1901,10 +1830,6 @@ packages:
     resolution: {integrity: sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==}
     dev: true
 
-  /tslib/2.6.2:
-    resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
-    dev: false
-
   /tsutils/3.21.0_typescript@4.9.5:
     resolution: {integrity: sha512-mHKK3iUXL+3UF6xL5k0PEhKRUBKPBCv/+RkEOpjRWxxx27KKRBmmA60A9pgOUvMi8GKhRMPEmjBRPzs2W7O1OA==}
     engines: {node: '>= 6'}
@@ -2009,19 +1934,17 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/8f0c090774bf79180764af87f262561bd5506666:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/8f0c090774bf79180764af87f262561bd5506666}
+  github.com/Team-Kujira/kujira.js/8ad676fe715fbf843db180af2156296ff9ca02d3:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/8ad676fe715fbf843db180af2156296ff9ca02d3}
     name: kujira.js
-    version: 0.9.56
+    version: 0.9.59
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.31.3
       '@cosmjs/launchpad': 0.27.1
       '@cosmjs/stargate': 0.31.3
       '@ethersproject/bignumber': 5.7.0
-      '@injectivelabs/chain-api': 1.9.9
-      '@injectivelabs/core-proto-ts': 0.0.18
       '@keplr-wallet/types': 0.11.64
-      '@types/google-protobuf': 3.15.10
+      '@types/google-protobuf': 3.15.12
       chain-registry: 1.20.0
       cosmjs-types: 0.8.0
       long: 4.0.0
