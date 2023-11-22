@@ -4351,10 +4351,11 @@
         }
       ],
       "precision": {
-        "decimal_places": 3
+        "decimal_places": 6
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1utsu6fpmflx26hp0n5df0zrjaqyvul0zy9dyscx359gh66hz4hyqxk2py8"
     },
     "kujira1sk09vwsdayqmvl8pmzju0jmrx4rvdlrsv9jqf47tf8ajpj870svs0z4gyd": {
       "address": "kujira1sk09vwsdayqmvl8pmzju0jmrx4rvdlrsv9jqf47tf8ajpj870svs0z4gyd",
