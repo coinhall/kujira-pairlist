@@ -4481,6 +4481,81 @@
       "decimalDelta": 0,
       "multiswap": true
     },
+    "kujira1ymumcne9u6shlnzksqtujgpfj29d20cp7ncg44c2wqzzm9lzmn7q6ed0jh": {
+      "address": "kujira1ymumcne9u6shlnzksqtujgpfj29d20cp7ncg44c2wqzzm9lzmn7q6ed0jh",
+      "denoms": [
+        {
+          "reference": "ibc/107ED1024220D5EE2A3E81BACD4A0B6709687F09043A53348E6D7E7647375593",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-115",
+            "base_denom": "ario"
+          },
+          "symbol": "RIO"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1xmvydax6s976h23duypllzluc96e87mpxsx06zex8kutx4yzshyqsnqr3z"
+    },
+    "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p": {
+      "address": "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p",
+      "denoms": [
+        {
+          "reference": "ibc/91DAE8E9D19A6A770D2A787E54E1D388F8E603D89093FC4939CE36125CB8284D",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-89",
+            "base_denom": "utori"
+          },
+          "symbol": "TORI"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1aqg6kq58ej309x34yysfplrm0mj4chp35d4qjc7v43hzrv9835sqhlhjm3"
+    },
+    "kujira17vegtydr8ktnykpeyfazn9ftutas6l77dmsrw7dp8mmy3kz7gmwqycy5m5": {
+      "address": "kujira17vegtydr8ktnykpeyfazn9ftutas6l77dmsrw7dp8mmy3kz7gmwqycy5m5",
+      "denoms": [
+        {
+          "reference": "ibc/BFDEE4E7F0E8371F195C2A6CFB70E54C18361E475FC26BE3A38B36E55FCEFDD6",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-36",
+            "base_denom": "cw20:terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3"
+          },
+          "symbol": "SAYVE"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1x956j3wa3cxa2r55wzm8mn2fjppjkaavuwemdzu97y5tr9p9pcpqlfc87d"
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
