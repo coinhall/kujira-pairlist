@@ -1266,8 +1266,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira174ayynr8cjea63r8a4xj84kqjxlfa0e0l4jnk27p3hyvdk8z34eqj6gn9g",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira174ayynr8cjea63r8a4xj84kqjxlfa0e0l4jnk27p3hyvdk8z34eqj6gn9g"
     },
     "kujira1rwx6w02alc4kaz7xpyg3rlxpjl4g63x5jq292mkxgg65zqpn5llq202vh5": {
       "address": "kujira1rwx6w02alc4kaz7xpyg3rlxpjl4g63x5jq292mkxgg65zqpn5llq202vh5",
@@ -1827,7 +1826,6 @@
       "decimalDelta": 4,
       "multiswap": true,
       "pool": "kujira1uchf9h2suq6a9a0ksyp5rh9536uqxydswm37sswa888kxxx2kqgqsx3n6h",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
       "margin": {
         "address": "kujira1hjyjafrt09p4hwsnwch29nrrs40lprfgesqdy44wnp27td872hsse2rree",
         "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
@@ -4330,7 +4328,8 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq"
+      "pool": "kujira13g2eelkf9q4md4xx52ylqvlgpccn50f2vyu05eazufd2g4jatmhq2425pq",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1nav56swr5hlxfnrgu9y8jxqhxl48pc5q7pvw2ujan2hlej527vas4mtpmd": {
       "address": "kujira1nav56swr5hlxfnrgu9y8jxqhxl48pc5q7pvw2ujan2hlej527vas4mtpmd",
@@ -4451,7 +4450,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1k0rmx2hlw2f6arsqteryf4l65gk0jyxv6rt04ecz6jqy9f70ujssueqqzf"
+      "pool": "kujira1k0rmx2hlw2f6arsqteryf4l65gk0jyxv6rt04ecz6jqy9f70ujssueqqzf",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1m7jfsvnsa7k2v6vaettc86tlvrzjpn96dr2pyfd7pcf0ze9gnccsv7eh6s": {
       "address": "kujira1m7jfsvnsa7k2v6vaettc86tlvrzjpn96dr2pyfd7pcf0ze9gnccsv7eh6s",
