@@ -4575,7 +4575,7 @@
         }
       ],
       "precision": {
-        "decimal_places": 6
+        "decimal_places": 8
       },
       "decimalDelta": 0,
       "multiswap": true,
