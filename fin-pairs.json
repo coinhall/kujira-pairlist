@@ -4556,6 +4556,31 @@
       "multiswap": true,
       "pool": "kujira1x956j3wa3cxa2r55wzm8mn2fjppjkaavuwemdzu97y5tr9p9pcpqlfc87d"
     },
+    "kujira1t0jngsuumhz46krzu8lpyu9ugcn67s3thrlc739qzyrjax25nsmsjf0d7r": {
+      "address": "kujira1t0jngsuumhz46krzu8lpyu9ugcn67s3thrlc739qzyrjax25nsmsjf0d7r",
+      "denoms": [
+        {
+          "reference": "ibc/D5F668AA43F9DE1F5E8A443EC5F9DD2D71AB3F3DC42CCD374F8751615A13B70B",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-3/transfer/channel-212",
+            "base_denom": "ucrbrus"
+          },
+          "symbol": "CRBRUS"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1dmgykv4uedy8cuf9qelrz2mv6uv0stu6wdyv2x03zsn8k6evqq9qydf6d3"
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
