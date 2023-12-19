@@ -1140,8 +1140,7 @@
       },
       "decimalDelta": 3,
       "multiswap": true,
-      "pool": "kujira1qmuthgsuvwtgw3dpddrvxjz09lt36zzurl2v657kmr52juekxarsaepvrx",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira1qmuthgsuvwtgw3dpddrvxjz09lt36zzurl2v657kmr52juekxarsaepvrx"
     },
     "kujira1ykrjmez7razkdfj695uhu5kuxcdxjgyatmzuz63ujrfddzcrrr8suzsxtk": {
       "address": "kujira1ykrjmez7razkdfj695uhu5kuxcdxjgyatmzuz63ujrfddzcrrr8suzsxtk",
@@ -1595,8 +1594,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira10sx8wxzev270zrmpq6z3asgpurdjfh9f6rwtgt55mar9m6gtw40s9nfxcy",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira10sx8wxzev270zrmpq6z3asgpurdjfh9f6rwtgt55mar9m6gtw40s9nfxcy"
     },
     "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf": {
       "address": "kujira1fkwjqyfdyktgu5f59jpwhvl23zh8aav7f98ml9quly62jx2sehysqa4unf",
@@ -1775,7 +1773,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1kgpsdn4gh24fpe5n8k4tvs5wn5s8w6825ewexkk7j2hq4467hf5s7qc23l"
+      "pool": "kujira1kgpsdn4gh24fpe5n8k4tvs5wn5s8w6825ewexkk7j2hq4467hf5s7qc23l",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c": {
       "address": "kujira18v47nqmhvejx3vc498pantg8vr435xa0rt6x0m6kzhp6yuqmcp8s4x8j2c",
@@ -3665,8 +3664,7 @@
       },
       "decimalDelta": 8,
       "multiswap": true,
-      "pool": "kujira1kw9jy5gr0f6h0pdvuth7qcmap5anuyhfazjf4rzcqylrtu8yvkysf2lkfe",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira1kw9jy5gr0f6h0pdvuth7qcmap5anuyhfazjf4rzcqylrtu8yvkysf2lkfe"
     },
     "kujira1e2dqf7u5hdle0ypsqek3v5tv07dwf6czlqsdsqj86udjkz4xc5uqzwqvqn": {
       "address": "kujira1e2dqf7u5hdle0ypsqek3v5tv07dwf6czlqsdsqj86udjkz4xc5uqzwqvqn",
@@ -4429,7 +4427,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1de20zsr74vvr9r6twj9fhz54w6rvq0269yyt4crtmx44pstf3rrq2cl3re"
+      "pool": "kujira1de20zsr74vvr9r6twj9fhz54w6rvq0269yyt4crtmx44pstf3rrq2cl3re",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1phpdpsnrkfvqr5883p8jlqslknuc7ypfd78er5ajkfpd3cuy7hqs93a4n7": {
       "address": "kujira1phpdpsnrkfvqr5883p8jlqslknuc7ypfd78er5ajkfpd3cuy7hqs93a4n7",
@@ -4504,7 +4503,8 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1xmvydax6s976h23duypllzluc96e87mpxsx06zex8kutx4yzshyqsnqr3z"
+      "pool": "kujira1xmvydax6s976h23duypllzluc96e87mpxsx06zex8kutx4yzshyqsnqr3z",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p": {
       "address": "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p",
@@ -4580,6 +4580,30 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1dmgykv4uedy8cuf9qelrz2mv6uv0stu6wdyv2x03zsn8k6evqq9qydf6d3"
+    },
+    "kujira1kndyfwlj97csglyk66gvfug7he202sg8hf6zu2vzakzkyu2fttpqnr7wxt": {
+      "address": "kujira1kndyfwlj97csglyk66gvfug7he202sg8hf6zu2vzakzkyu2fttpqnr7wxt",
+      "denoms": [
+        {
+          "reference": "ibc/A8558A4C2F51A63B43509424886D9232375DD0105A7C448BFCC2A6791753DE2C",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-50",
+            "base_denom": "gravity0x83F20F44975D03b1b09e64809B757c47f942BEeA"
+          },
+          "symbol": "gsDAI"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 12,
+      "multiswap": true
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
