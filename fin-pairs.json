@@ -4605,6 +4605,31 @@
       "decimalDelta": 12,
       "multiswap": true
     },
+    "kujira19xhhd7ax09mjj3cy4k2zzztm79z2kzll03qk3wzjyj8kgmynfkyqsfa05j": {
+      "address": "kujira19xhhd7ax09mjj3cy4k2zzztm79z2kzll03qk3wzjyj8kgmynfkyqsfa05j",
+      "denoms": [
+        {
+          "reference": "ibc/3CF31CB1729FD2011718F66B20861D23A7FB6492C29FFADE2C1E58D10C3D225F",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-75",
+            "base_denom": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt"
+          },
+          "symbol": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1frkgelzh9zlxta5am49fvu9wsw4dgftkeqysa0fm95ywmfq2349sekc9cw"
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
