@@ -10,7 +10,7 @@ specifiers:
   typescript: ^4.9.5
 
 dependencies:
-  kujira.js: github.com/Team-Kujira/kujira.js/8aad56f8fa6fa60fb5902a77334277d2592355a1
+  kujira.js: github.com/Team-Kujira/kujira.js/c1348fa92fe958ee534f5ad3018607aeb1ef6f1c
   tsx: 3.12.1
   typescript: 4.9.5
 
@@ -42,8 +42,8 @@ packages:
       js-tokens: 4.0.0
     dev: true
 
-  /@babel/runtime/7.23.6:
-    resolution: {integrity: sha512-zHd0eUrf5GZoOWVCXp6koAKQTfZV07eit6bGPmJgnZdnSAvvZee6zniW2XMF7Cmc4ISOOnPy3QaSiIJGJkVEDQ==}
+  /@babel/runtime/7.23.7:
+    resolution: {integrity: sha512-w06OXVOFso7LcbzMiDGt+3X7Rh7Ho8MmgPoWU3rarH+8upf+wSU/grlGbWzQyr3DkdN6ZeuMFjpdwW0Q+HxobA==}
     engines: {node: '>=6.9.0'}
     dependencies:
       regenerator-runtime: 0.14.1
@@ -52,7 +52,7 @@ packages:
   /@chain-registry/types/0.17.1:
     resolution: {integrity: sha512-O0CgrtJgIlqXvZm1CqDZe/7jZz068O/uuCIoyDXCegFHK03rdHacKcDGwEIUuI0MNUf8YV3jdE4xHQMSAX+79w==}
     dependencies:
-      '@babel/runtime': 7.23.6
+      '@babel/runtime': 7.23.7
     dev: false
 
   /@confio/ics23/0.6.8:
@@ -650,7 +650,7 @@ packages:
   /chain-registry/1.25.0:
     resolution: {integrity: sha512-u+i64OW5hBRGc1HZtZRr7Givgnj0uvcRV1XnJjPMBcSkEP0zTuMWg032HX7wpuu8C47I6aosQ00CGFDLfKtzSQ==}
     dependencies:
-      '@babel/runtime': 7.23.6
+      '@babel/runtime': 7.23.7
       '@chain-registry/types': 0.17.1
     dev: false
 
@@ -1934,10 +1934,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/8aad56f8fa6fa60fb5902a77334277d2592355a1:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/8aad56f8fa6fa60fb5902a77334277d2592355a1}
+  github.com/Team-Kujira/kujira.js/c1348fa92fe958ee534f5ad3018607aeb1ef6f1c:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/c1348fa92fe958ee534f5ad3018607aeb1ef6f1c}
     name: kujira.js
-    version: 0.9.96
+    version: 0.9.97
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.31.3
       '@cosmjs/launchpad': 0.27.1

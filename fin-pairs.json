@@ -4615,7 +4615,7 @@
             "path": "transfer/channel-75",
             "base_denom": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt"
           },
-          "symbol": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt"
+          "symbol": "NEWT"
         },
         {
           "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
