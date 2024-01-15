@@ -4630,6 +4630,30 @@
       "pool": "kujira1frkgelzh9zlxta5am49fvu9wsw4dgftkeqysa0fm95ywmfq2349sekc9cw",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
+    "kujira10297dc57a26q48gzdt6rkhuppg403l9c008qt6yuud986wertscsm0c0q6": {
+      "address": "kujira10297dc57a26q48gzdt6rkhuppg403l9c008qt6yuud986wertscsm0c0q6",
+      "denoms": [
+        {
+          "reference": "ibc/782817D588181841C9EB508E14B9A8A984E21590B83FEAC86BB44B0BA58C37F5",
+          "decimals": 9,
+          "trace": {
+            "path": "transfer/channel-124",
+            "base_denom": "ncheq"
+          },
+          "symbol": "CHEQ"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 3,
+      "multiswap": true
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
