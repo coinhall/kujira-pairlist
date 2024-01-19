@@ -4654,6 +4654,30 @@
       "decimalDelta": 3,
       "multiswap": true
     },
+    "kujira1yy4pf6qwfcqwruxput6l72xwfz08jeku6esqljw5cqg7kud7pqkqdw9lm5": {
+      "address": "kujira1yy4pf6qwfcqwruxput6l72xwfz08jeku6esqljw5cqg7kud7pqkqdw9lm5",
+      "denoms": [
+        {
+          "reference": "ibc/AB5A3681C25F2FEE9F167C0345D6E7C52DBDFE6D6ADD38A76BF6A0028F42426D",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-123",
+            "base_denom": "uandr"
+          },
+          "symbol": "ANDR"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
