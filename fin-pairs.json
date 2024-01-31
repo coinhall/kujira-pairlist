@@ -4680,6 +4680,31 @@
       "multiswap": true,
       "pool": "kujira15z0kndayuv0hglsgw02mylthf54wqn2q76cgn0dfkvalfrw6tl9sf3xerv"
     },
+    "kujira1nswv58h3acql85587rkusqx3zn7k9qx3a3je8wqd3xnw39erpwnsddsm8z": {
+      "address": "kujira1nswv58h3acql85587rkusqx3zn7k9qx3a3je8wqd3xnw39erpwnsddsm8z",
+      "denoms": [
+        {
+          "reference": "factory/kujira1xe0awk5planmtsmjel5xtx2hzhqdw5p8z66yqd/uaqla",
+          "decimals": 6,
+          "symbol": "AQLA"
+        },
+        {
+          "reference": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-62",
+            "base_denom": "uusdc"
+          },
+          "symbol": "USDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1u8qsccjlpjnw5z4svdrd9y7nqrh7g2e6sn7cupfmmdcstqjz0lzs8kfx2s"
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
