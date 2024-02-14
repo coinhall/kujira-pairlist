@@ -4730,6 +4730,81 @@
       "multiswap": true,
       "pool": "kujira14a0r6ntvztjppzltyw8zhmmphjapwq0u493782n6t9djr8hrzdcsscxwz7"
     },
+    "kujira1hl697ktns2kpxhcmxgpjsuyp44gw5ta35whm04u8tfrfzm2acuwqut6xlv": {
+      "address": "kujira1hl697ktns2kpxhcmxgpjsuyp44gw5ta35whm04u8tfrfzm2acuwqut6xlv",
+      "denoms": [
+        {
+          "reference": "ibc/B64A07C006C0F5E260A8AD50BD53568F1FD4A0D75B7A9F8765C81BEAFDA62053",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-3",
+            "base_denom": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn"
+          },
+          "symbol": "LVN"
+        },
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1xr7m7vzdpd4nwwuwpp34nyjrrpsfjgkpzjwq7vpvmfkrpacumpysfz7ef3"
+    },
+    "kujira1fn0rr8dmda3wky2qg72cxlhfwavwxga0jxks6ugvl2qpgvjz3n5q7xx5mt": {
+      "address": "kujira1fn0rr8dmda3wky2qg72cxlhfwavwxga0jxks6ugvl2qpgvjz3n5q7xx5mt",
+      "denoms": [
+        {
+          "reference": "ibc/9012F7E79EACC34CE81A4404ECBEED5A5DFFD61CCEE23F2B8600BAC948C483E6",
+          "decimals": 18,
+          "trace": {
+            "path": "transfer/channel-160",
+            "base_denom": "adym"
+          },
+          "symbol": "DYM"
+        },
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira19vmgdwz0p9wzfmeje6x9cw2rhlsdwysxm86k45l9xxw5t53pxg9qmlqnqp"
+    },
+    "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp": {
+      "address": "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp",
+      "denoms": [
+        {
+          "reference": "ibc/4EFD563C64F84F60AFB4BB7A8473AAA632CF5817FDF2CF51E68E4E3EDAE66430",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-157",
+            "base_denom": "loki"
+          },
+          "symbol": "ODIN"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1w0sjhum4p95av6pze3ts2lyejq0kxj87pde422x43z9mazgxrvsskhf6hn"
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
