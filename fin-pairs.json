@@ -3234,31 +3234,6 @@
       "multiswap": true,
       "pool": "kujira12jayn8m8fzw9jdknarj25qwatamnajcf0y3gyxlg56qavt9c6j3slh5ghd"
     },
-    "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5": {
-      "address": "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5",
-      "denoms": [
-        {
-          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
-          "decimals": 6,
-          "symbol": "MNTA"
-        },
-        {
-          "reference": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-62",
-            "base_denom": "uusdc"
-          },
-          "symbol": "USDC"
-        }
-      ],
-      "precision": {
-        "decimal_places": 5
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d"
-    },
     "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n": {
       "address": "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n",
       "denoms": [
@@ -4670,7 +4645,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira19vmgdwz0p9wzfmeje6x9cw2rhlsdwysxm86k45l9xxw5t53pxg9qmlqnqp"
+      "pool": "kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw"
     },
     "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp": {
       "address": "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp",
@@ -4904,6 +4879,31 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1uamjserhcm82ek775wtt2q9vfkc8k2de4zzxh25xqjzxah4naqjqdmtcs6"
+    },
+    "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5": {
+      "address": "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5",
+      "denoms": [
+        {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        },
+        {
+          "reference": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-62",
+            "base_denom": "uusdc"
+          },
+          "symbol": "USDC"
+        }
+      ],
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1742pe93mxm0cwqjxgxh6th9sspdrluqvw9pha9q69eeatue4x5xs0wdq2d"
     }
   },
   "harpoon-4": {
