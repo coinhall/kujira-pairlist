@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "kujira.js": "github:Team-Kujira/kujira.js",
-    "tsx": "^3.12.1",
+    "tsx": "^4.7.1",
     "typescript": "^4.9.5"
   },
   "devDependencies": {
