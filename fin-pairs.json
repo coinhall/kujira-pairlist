@@ -1240,32 +1240,6 @@
       "pool": "kujira12506pfme6layua70svszn2xza0pt9mnqu2u24lszrdyywmpvnw5qfz8sfq",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
-    "kujira1cn922pcqrt4g2dr4va9vxk8h3w3jfxnxjqq2qp6zktjsehdzde6sz66um0": {
-      "address": "kujira1cn922pcqrt4g2dr4va9vxk8h3w3jfxnxjqq2qp6zktjsehdzde6sz66um0",
-      "denoms": [
-        {
-          "reference": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
-          "decimals": 6,
-          "trace": {
-            "path": "transfer/channel-32",
-            "base_denom": "ustrd"
-          },
-          "symbol": "STRD"
-        },
-        {
-          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-          "decimals": 6,
-          "symbol": "USK"
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1hmy36p0a87fsv36l8vdmy5uaka69j392s07qgnc5aum9cg9vj88qq8tfgh",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
-    },
     "kujira1qjxu65ucccpg8c5kac8ng6yxfqq85fluwd0p9nt74g2304qw8eyq930y7w": {
       "address": "kujira1qjxu65ucccpg8c5kac8ng6yxfqq85fluwd0p9nt74g2304qw8eyq930y7w",
       "denoms": [
@@ -1669,7 +1643,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1rpqhczdrgaa6w0h9fukdcppme3074zcay8ge8lazwefdawp03vwsnpc7ya"
+      "pool": "kujira1nxfag552cng6lwf2q3duyepgvenr670ngj8uljpeydy0rvftgt9qkgd6sq"
     },
     "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz": {
       "address": "kujira1cduudfszcm9slm8qxlaqvnpzg2u0hkus94fe3pwt9x446dtw6eeql8ualz",
@@ -2303,7 +2277,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira15t6pjrwvsgszgp3g9jwcgkvq9zawur6d2ncz7rzn9pc4ns9kudssxhn9v7"
+      "pool": "kujira1kggddmdvjjxl43luez7dp9snt96jwyj05k5hyxzstvj886u6entsu2na4z"
     },
     "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse": {
       "address": "kujira12p30cr4gstmp2yucwxtaq92turrzsxxar8upz3rhmfjxh6gdgk4s5vsyse",
@@ -2536,7 +2510,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
+      "pool": "kujira1t8r48s0d7g2unxa9x58c0mqdml63pyxrkhxm6flqae8y4q4xz37sj0ch4d"
     },
     "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj": {
       "address": "kujira1zumrlzj7ffq0murckuzykgsvcn3xzyvn3e85fxjsymwyhezmkycqtq87zj",
@@ -3207,7 +3181,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1l0dtky34pk0plaj5zxprs2zeg2977fh6ef4e4kpvu7695xqf4qeq9ztj6j"
+      "pool": "kujira12jayn8m8fzw9jdknarj25qwatamnajcf0y3gyxlg56qavt9c6j3slh5ghd"
     },
     "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n": {
       "address": "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n",
@@ -3232,7 +3206,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1fng8pgtmwacmdqudeg7sl6jkwea2zh46rt46fkrdmm75p93pt3xs3prww5"
+      "pool": "kujira1rkurt0cxe42ml0usj3cm3ycdxg3z8afw4rllvu0jyu9rqmrdj6us2u0wyv"
     },
     "kujira1hcvm4thkc0mq55cjzttp0fmh6gu5hzrfm4trgwpkm38nmd63tu0qha647q": {
       "address": "kujira1hcvm4thkc0mq55cjzttp0fmh6gu5hzrfm4trgwpkm38nmd63tu0qha647q",
@@ -4983,7 +4957,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira19vmgdwz0p9wzfmeje6x9cw2rhlsdwysxm86k45l9xxw5t53pxg9qmlqnqp"
+      "pool": "kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw"
     },
     "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq": {
       "address": "kujira1ppr63x265m0sgqdhl2k23t8hmfcgrar85rxgq45uvctksr8w8hzsqwwdcq",
@@ -5009,6 +4983,32 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira10ejfy6funvncwzz4plcfkjr6xsp0w4c35hg38slvfup9lqazhvjsgttshu"
+    },
+    "kujira1cn922pcqrt4g2dr4va9vxk8h3w3jfxnxjqq2qp6zktjsehdzde6sz66um0": {
+      "address": "kujira1cn922pcqrt4g2dr4va9vxk8h3w3jfxnxjqq2qp6zktjsehdzde6sz66um0",
+      "denoms": [
+        {
+          "reference": "ibc/239BFF83852F67DF5243DB89F339FF7FDBF858437F961CAB6DA5B5ADEFB2BC07",
+          "decimals": 6,
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "ustrd"
+          },
+          "symbol": "STRD"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hmy36p0a87fsv36l8vdmy5uaka69j392s07qgnc5aum9cg9vj88qq8tfgh",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     }
   },
   "harpoon-4": {
