@@ -11,7 +11,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -31,7 +31,7 @@
         {
           "reference": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
           "decimals": 18,
-          "symbol": "axlwBNB",
+          "symbol": "wBNB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbnb-wei"
@@ -61,7 +61,7 @@
         "collateralDenom": {
           "reference": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
           "decimals": 18,
-          "symbol": "axlwBNB",
+          "symbol": "wBNB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbnb-wei"
@@ -123,7 +123,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -143,7 +143,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -168,7 +168,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -193,7 +193,7 @@
         {
           "reference": "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
           "decimals": 18,
-          "symbol": "axlwstETH",
+          "symbol": "wstETH.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wsteth-wei"
@@ -219,7 +219,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -228,7 +228,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -323,7 +323,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -522,7 +522,7 @@
         {
           "reference": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
           "decimals": 18,
-          "symbol": "axlyieldETH",
+          "symbol": "yieldETH.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "yieldeth-wei"
@@ -603,7 +603,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -694,7 +694,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -703,7 +703,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -723,7 +723,7 @@
         {
           "reference": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
           "decimals": 18,
-          "symbol": "axlwBNB",
+          "symbol": "wBNB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbnb-wei"
@@ -732,7 +732,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -752,7 +752,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -783,7 +783,7 @@
         "collateralDenom": {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -836,7 +836,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -890,7 +890,7 @@
         {
           "reference": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
           "decimals": 18,
-          "symbol": "axlwFTM",
+          "symbol": "wFTM.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wftm-wei"
@@ -969,8 +969,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 9,
-          "symbol": "wTAO",
+          "decimals": 18,
+          "symbol": "TAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
@@ -979,7 +979,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1055,7 +1055,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1098,8 +1098,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 9,
-          "symbol": "wTAO",
+          "decimals": 18,
+          "symbol": "TAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
@@ -1145,7 +1145,7 @@
         {
           "reference": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
           "decimals": 18,
-          "symbol": "axlLINK",
+          "symbol": "LINK.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "link-wei"
@@ -1170,7 +1170,7 @@
         {
           "reference": "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6",
           "decimals": 18,
-          "symbol": "axlwMATIC",
+          "symbol": "wMATIC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wmatic-wei"
@@ -1195,7 +1195,7 @@
         {
           "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
           "decimals": 18,
-          "symbol": "gPAXG",
+          "symbol": "PAXG.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
@@ -1220,7 +1220,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1246,7 +1246,7 @@
         {
           "reference": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
           "decimals": 18,
-          "symbol": "axlwAVAX",
+          "symbol": "wAVAX.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wavax-wei"
@@ -1255,7 +1255,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1274,7 +1274,7 @@
         {
           "reference": "ibc/96179F5B44CCC15E03AB43D7118E714B4D5CE8F187F7D8A60F2A514299761EA9",
           "decimals": 18,
-          "symbol": "axlARB",
+          "symbol": "ARB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "arb-wei"
@@ -1308,7 +1308,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1328,7 +1328,7 @@
         {
           "reference": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
           "decimals": 18,
-          "symbol": "axlwAVAX",
+          "symbol": "wAVAX.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wavax-wei"
@@ -1362,7 +1362,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1390,7 +1390,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1469,7 +1469,7 @@
         {
           "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
           "decimals": 6,
-          "symbol": "axlUSDT",
+          "symbol": "USDT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uusdt"
@@ -1478,7 +1478,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1531,7 +1531,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1626,7 +1626,7 @@
         {
           "reference": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
           "decimals": 6,
-          "symbol": "axlAXL",
+          "symbol": "AXL",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uaxl"
@@ -1650,7 +1650,7 @@
       "denoms": [
         {
           "reference": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
-          "decimals": 6,
+          "decimals": 8,
           "symbol": "SHD.legacy",
           "trace": {
             "path": "transfer/channel-44",
@@ -1725,8 +1725,8 @@
       "denoms": [
         {
           "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 6,
-          "symbol": "axlDOT",
+          "decimals": 10,
+          "symbol": "DOT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "dot-planck"
@@ -1755,8 +1755,8 @@
         "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
         "collateralDenom": {
           "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 6,
-          "symbol": "axlDOT",
+          "decimals": 10,
+          "symbol": "DOT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "dot-planck"
@@ -1919,7 +1919,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -1962,8 +1962,8 @@
       "denoms": [
         {
           "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 6,
-          "symbol": "axlDOT",
+          "decimals": 10,
+          "symbol": "DOT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "dot-planck"
@@ -1972,7 +1972,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2001,7 +2001,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2065,7 +2065,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2165,7 +2165,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2234,7 +2234,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -2260,7 +2260,7 @@
         {
           "reference": "ibc/3914BDEF46F429A26917E4D8D434620EC4817DC6B6E68FB327E190902F1E9242",
           "decimals": 18,
-          "symbol": "axlDAI",
+          "symbol": "DAI.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "dai-wei"
@@ -2285,7 +2285,7 @@
         {
           "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
           "decimals": 18,
-          "symbol": "gPAXG",
+          "symbol": "PAXG.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
@@ -2294,7 +2294,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2377,7 +2377,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2743,7 +2743,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2965,7 +2965,7 @@
         {
           "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
           "decimals": 6,
-          "symbol": "axlUSDC",
+          "symbol": "USDC.axl",
           "trace": {
             "base_denom": "uusdc",
             "path": "transfer/channel-9"
@@ -2985,7 +2985,7 @@
         {
           "reference": "ibc/0A88A08F3E9573DB9D8CB74AA3746F6D23C41C3EE7B6CC5AA4695A1DD74FF86B",
           "decimals": 18,
-          "symbol": "axlUNI",
+          "symbol": "UNI.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uni-wei"
@@ -3060,7 +3060,7 @@
         {
           "reference": "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
           "decimals": 18,
-          "symbol": "axlwstETH",
+          "symbol": "wstETH.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wsteth-wei"
@@ -3085,7 +3085,7 @@
         {
           "reference": "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
           "decimals": 18,
-          "symbol": "axlwstETH",
+          "symbol": "wstETH.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wsteth-wei"
@@ -3094,7 +3094,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -3156,7 +3156,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1l0dtky34pk0plaj5zxprs2zeg2977fh6ef4e4kpvu7695xqf4qeq9ztj6j"
+      "pool": "kujira12uu0rch5f8khm0kkpcnuqxlj9wq73nymjllrqsp5x642t30jvlfqr7lkkn"
     },
     "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n": {
       "address": "kujira1lm6s9a3773m065lls046xc7cpd34h30tz378t32czyrkjrjn4ufsdwhr5n",
@@ -3239,7 +3239,7 @@
         {
           "reference": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
           "decimals": 6,
-          "symbol": "axlAXL",
+          "symbol": "AXL",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uaxl"
@@ -3289,7 +3289,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -3336,7 +3336,7 @@
         {
           "reference": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
           "decimals": 18,
-          "symbol": "axlwAVAX",
+          "symbol": "wAVAX.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wavax-wei"
@@ -3361,7 +3361,7 @@
         {
           "reference": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
           "decimals": 18,
-          "symbol": "axlLINK",
+          "symbol": "LINK.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "link-wei"
@@ -3385,8 +3385,8 @@
       "denoms": [
         {
           "reference": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-          "decimals": 6,
-          "symbol": "axlDOT",
+          "decimals": 10,
+          "symbol": "DOT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "dot-planck"
@@ -3411,7 +3411,7 @@
         {
           "reference": "ibc/96179F5B44CCC15E03AB43D7118E714B4D5CE8F187F7D8A60F2A514299761EA9",
           "decimals": 18,
-          "symbol": "axlARB",
+          "symbol": "ARB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "arb-wei"
@@ -3470,7 +3470,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -3515,7 +3515,7 @@
         {
           "reference": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
           "decimals": 18,
-          "symbol": "axlyieldETH",
+          "symbol": "yieldETH.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "yieldeth-wei"
@@ -3524,7 +3524,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -3589,7 +3589,7 @@
         {
           "reference": "ibc/E5CA126979E2FFB4C70C072F8094D07ECF27773B37623AD2BF7582AD0726F0F3",
           "decimals": 8,
-          "symbol": "whSOL",
+          "symbol": "SOL.wh",
           "trace": {
             "path": "transfer/channel-113",
             "base_denom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA"
@@ -3687,7 +3687,7 @@
         {
           "reference": "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6",
           "decimals": 18,
-          "symbol": "axlwMATIC",
+          "symbol": "wMATIC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wmatic-wei"
@@ -3712,7 +3712,7 @@
         {
           "reference": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
           "decimals": 18,
-          "symbol": "axlwBNB",
+          "symbol": "wBNB.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbnb-wei"
@@ -3786,8 +3786,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 9,
-          "symbol": "wTAO",
+          "decimals": 18,
+          "symbol": "TAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
@@ -3812,7 +3812,7 @@
         {
           "reference": "ibc/0A88A08F3E9573DB9D8CB74AA3746F6D23C41C3EE7B6CC5AA4695A1DD74FF86B",
           "decimals": 18,
-          "symbol": "axlUNI",
+          "symbol": "UNI.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uni-wei"
@@ -3837,7 +3837,7 @@
         {
           "reference": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
           "decimals": 18,
-          "symbol": "axlwFTM",
+          "symbol": "wFTM.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wftm-wei"
@@ -3912,7 +3912,7 @@
         {
           "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
           "decimals": 18,
-          "symbol": "gPAXG",
+          "symbol": "PAXG.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
@@ -4248,7 +4248,7 @@
         {
           "reference": "ibc/3458D4A2653918EAE5926A6F7CB6DCE91C13DAECDB05AA40F050F8867A6649FE",
           "decimals": 18,
-          "symbol": "gUSDC",
+          "symbol": "USDC.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -4377,7 +4377,7 @@
         {
           "reference": "ibc/A8558A4C2F51A63B43509424886D9232375DD0105A7C448BFCC2A6791753DE2C",
           "decimals": 18,
-          "symbol": "gsDAI",
+          "symbol": "sDAI.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x83F20F44975D03b1b09e64809B757c47f942BEeA"
@@ -4650,7 +4650,7 @@
         {
           "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
           "decimals": 8,
-          "symbol": "axlwBTC",
+          "symbol": "wBTC.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "wbtc-satoshi"
@@ -4762,7 +4762,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -4789,7 +4789,7 @@
       "denoms": [
         {
           "reference": "ibc/AF4CF77A64B784DE1C40471BBB366722DBE7FFEB8C42C71D2B7FB447BA193549",
-          "decimals": 6,
+          "decimals": 8,
           "symbol": "wBTC",
           "trace": {
             "path": "transfer/channel-3",
@@ -4869,7 +4869,7 @@
         {
           "reference": "ibc/E5CA126979E2FFB4C70C072F8094D07ECF27773B37623AD2BF7582AD0726F0F3",
           "decimals": 8,
-          "symbol": "whSOL",
+          "symbol": "SOL.wh",
           "trace": {
             "path": "transfer/channel-113",
             "base_denom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA"
@@ -4894,7 +4894,7 @@
         {
           "reference": "ibc/0447761C090DB521DAC0268E8CB4EBF567E519B937DE6FECD2472AA6A1EDE658",
           "decimals": 18,
-          "symbol": "axlPEPE",
+          "symbol": "PEPE.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "pepe-wei"
@@ -4903,7 +4903,7 @@
         {
           "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
           "decimals": 18,
-          "symbol": "axlwETH",
+          "symbol": "wETH.axl",
           "trace": {
             "base_denom": "weth-wei",
             "path": "transfer/channel-9"
@@ -5103,7 +5103,7 @@
         {
           "reference": "ibc/F2331645B9683116188EF36FC04A809C28BD36B54555E8705A37146D0182F045",
           "decimals": 6,
-          "symbol": "axlUSDT",
+          "symbol": "USDT.axl",
           "trace": {
             "path": "transfer/channel-9",
             "base_denom": "uusdt"
@@ -5121,6 +5121,35 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1uylse4qd3nyjm2h9e9v0walpf25e3plcp8ut94ggatk85q44vcus9ztdxl"
+    },
+    "kujira1eggqn7e0cxe2j8jrxh72xqhzw8kzjnrhhlkgwj2w7k03skrssupqk8rg6u": {
+      "address": "kujira1eggqn7e0cxe2j8jrxh72xqhzw8kzjnrhhlkgwj2w7k03skrssupqk8rg6u",
+      "denoms": [
+        {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "symbol": "wBTC.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          }
+        },
+        {
+          "reference": "ibc/AF4CF77A64B784DE1C40471BBB366722DBE7FFEB8C42C71D2B7FB447BA193549",
+          "decimals": 8,
+          "symbol": "wBTC",
+          "trace": {
+            "path": "transfer/channel-3",
+            "base_denom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+          }
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1c4e2zk4z0anrufjh64gxtse6e4s5g52fe2ja8ke3r9e0pvpd0z0qws8zsp"
     }
   },
   "harpoon-4": {
