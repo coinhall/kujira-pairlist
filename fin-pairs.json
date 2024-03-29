@@ -969,8 +969,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 18,
-          "symbol": "TAO.grv",
+          "decimals": 9,
+          "symbol": "wTAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
@@ -1098,8 +1098,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 18,
-          "symbol": "TAO.grv",
+          "decimals": 9,
+          "symbol": "wTAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
@@ -3786,8 +3786,8 @@
       "denoms": [
         {
           "reference": "ibc/A2146858B5E3CFE759E32F47CA54591F8E27FAEDFF731D30B448E5AB25CA8EC5",
-          "decimals": 18,
-          "symbol": "TAO.grv",
+          "decimals": 9,
+          "symbol": "wTAO.grv",
           "trace": {
             "path": "transfer/channel-50",
             "base_denom": "gravity0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44"
