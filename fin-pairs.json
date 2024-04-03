@@ -4812,6 +4812,54 @@
       "decimalDelta": 2,
       "multiswap": true
     },
+    "kujira12wzlqqly5wcchty6ajptlk85mga4gjpv3afvxtg0n085lc3as2fqxq6kwz": {
+      "address": "kujira12wzlqqly5wcchty6ajptlk85mga4gjpv3afvxtg0n085lc3as2fqxq6kwz",
+      "denoms": [
+        {
+          "reference": "ibc/20014F963CC9E6488B299622F87B60C6DE71632864859EC08B4753478DAB2BB8",
+          "decimals": 18,
+          "symbol": "USDT",
+          "trace": {
+            "path": "transfer/channel-95",
+            "base_denom": "erc20/tether/usdt"
+          }
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true
+    },
+    "kujira1axgntljzx0sjj900rvaa6e86xzgggklksqvyh9zjjw2rnxmvy8mqrgcuc5": {
+      "address": "kujira1axgntljzx0sjj900rvaa6e86xzgggklksqvyh9zjjw2rnxmvy8mqrgcuc5",
+      "denoms": [
+        {
+          "reference": "ibc/AF4CF77A64B784DE1C40471BBB366722DBE7FFEB8C42C71D2B7FB447BA193549",
+          "decimals": 8,
+          "symbol": "wBTC",
+          "trace": {
+            "path": "transfer/channel-3",
+            "base_denom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+          }
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 2,
+      "multiswap": true
+    },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
       "denoms": [
