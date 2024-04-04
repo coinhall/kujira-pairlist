@@ -4810,7 +4810,8 @@
         "decimal_places": 2
       },
       "decimalDelta": 2,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1he9p3sp4d8yn9r3y9qhaluj66htl7w5x2ys3dh9pa2xl72xnfw3qhur89e"
     },
     "kujira12wzlqqly5wcchty6ajptlk85mga4gjpv3afvxtg0n085lc3as2fqxq6kwz": {
       "address": "kujira12wzlqqly5wcchty6ajptlk85mga4gjpv3afvxtg0n085lc3as2fqxq6kwz",
@@ -4858,7 +4859,8 @@
         "decimal_places": 2
       },
       "decimalDelta": 2,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1d7jt9zwlnpvf7sskfm57c77pm9mtwczqre75t9k80ees0v523kasss9htj"
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
