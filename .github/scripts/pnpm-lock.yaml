@@ -7,7 +7,7 @@ settings:
 dependencies:
   kujira.js:
     specifier: github:Team-Kujira/kujira.js
-    version: github.com/Team-Kujira/kujira.js/a81f49aa78188130d3df0225e6a0205171837a82
+    version: github.com/Team-Kujira/kujira.js/ec3a83d07f1c4294e1fe9a6297eac448a0778759
   tsx:
     specifier: ^4.7.1
     version: 4.7.1
@@ -1936,10 +1936,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/a81f49aa78188130d3df0225e6a0205171837a82:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/a81f49aa78188130d3df0225e6a0205171837a82}
+  github.com/Team-Kujira/kujira.js/ec3a83d07f1c4294e1fe9a6297eac448a0778759:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/ec3a83d07f1c4294e1fe9a6297eac448a0778759}
     name: kujira.js
-    version: 1.0.19
+    version: 1.0.21
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.31.3
       '@cosmjs/launchpad': 0.27.1
