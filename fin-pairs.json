@@ -22,8 +22,7 @@
         "decimal_places": 3
       },
       "decimalDelta": 0,
-      "multiswap": true,
-      "pool": "kujira1sx99fxy4lqx0nv3ys86tkdrch82qygxyec5c8dxsk9raz4at5zpq72gypx"
+      "multiswap": true
     },
     "kujira1mf4v3x3pkuthha5a4r9jd0slgulcxkucy4weuqsvx2n030twduzqewuznf": {
       "address": "kujira1mf4v3x3pkuthha5a4r9jd0slgulcxkucy4weuqsvx2n030twduzqewuznf",
@@ -5562,6 +5561,90 @@
       "decimalDelta": 5,
       "multiswap": true,
       "pool": "kujira1220g9jpstjxfp3ld0wcj7c4ljq8r2t3j9fteuk3290u60f6878ns8sxq9g"
+    },
+    "kujira12krsjzusfqetcd9d8h6gfatanhp5qpyffx84xzd68jc6uuzju62qa2ph0s": {
+      "address": "kujira12krsjzusfqetcd9d8h6gfatanhp5qpyffx84xzd68jc6uuzju62qa2ph0s",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ucrqn",
+          "decimals": 6,
+          "symbol": "CRQN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1ve45zryy900n85hnyrp2908c3sn2fa53js2fjsy8m4spdtrvmztqdch96e"
+    },
+    "kujira176tc74us3xw8va5wnke26uv7k98049xpnpqvy05a524np5gkz9gs7duwc6": {
+      "address": "kujira176tc74us3xw8va5wnke26uv7k98049xpnpqvy05a524np5gkz9gs7duwc6",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/udrqn",
+          "decimals": 6,
+          "symbol": "DRQN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1c3nvccjdxy6vttg0ehpc5dr5fu2zq6932ea36lm9wfyhnzm3uyhqyztqv5"
+    },
+    "kujira1nyqxnd605s3rs5japc5apm7yklpcwnk8cjggflyq9nqf0mgvhwuq4cgkpr": {
+      "address": "kujira1nyqxnd605s3rs5japc5apm7yklpcwnk8cjggflyq9nqf0mgvhwuq4cgkpr",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/uerqn",
+          "decimals": 6,
+          "symbol": "ERQN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1mdksf4lescc5w9mwr6d7s2lypwys92pjhnscfwrmnyl35sctquds4z4vuf"
+    },
+    "kujira1s0mjv68ew78a2ctuh4aud55d9csw0gggefla4fs2xd39ulec5q4szx96ev": {
+      "address": "kujira1s0mjv68ew78a2ctuh4aud55d9csw0gggefla4fs2xd39ulec5q4szx96ev",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ufqrn",
+          "decimals": 6,
+          "symbol": "FQRN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1hg4zgpe22xwk08tzl8pqg5d0syktxlw53v83qeht7f2kmxrmsx3sevyzey"
     }
   },
   "pond-1": {}
