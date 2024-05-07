@@ -1,29 +1,5 @@
 {
   "kaiyo-1": {
-    "kujira14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sl4e867": {
-      "address": "kujira14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sl4e867",
-      "denoms": [
-        {
-          "reference": "ukuji",
-          "decimals": 6,
-          "symbol": "KUJI"
-        },
-        {
-          "reference": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-          "decimals": 6,
-          "symbol": "USDC.axl",
-          "trace": {
-            "base_denom": "uusdc",
-            "path": "transfer/channel-9"
-          }
-        }
-      ],
-      "precision": {
-        "decimal_places": 3
-      },
-      "decimalDelta": 0,
-      "multiswap": true
-    },
     "kujira1mf4v3x3pkuthha5a4r9jd0slgulcxkucy4weuqsvx2n030twduzqewuznf": {
       "address": "kujira1mf4v3x3pkuthha5a4r9jd0slgulcxkucy4weuqsvx2n030twduzqewuznf",
       "denoms": [
@@ -297,7 +273,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira19vmgdwz0p9wzfmeje6x9cw2rhlsdwysxm86k45l9xxw5t53pxg9qmlqnqp"
+      "pool": "kujira1fg7wmsde7ygw3pm6hqmd29cdvp947anajmunsvk0guvjta3md25qdqk4fw"
     },
     "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5": {
       "address": "kujira16mnw6am32ecqacsgz2kf9gfy8sh4uqyv0246f3rxnjz4up9k462q34jck5",
@@ -1151,7 +1127,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira12506pfme6layua70svszn2xza0pt9mnqu2u24lszrdyywmpvnw5qfz8sfq",
+      "pool": "kujira1nyygwntd5g6jjtng0xqs82c8p7a09fjkmtd955fq8xc97fvn9p0srzxter",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1yy4pf6qwfcqwruxput6l72xwfz08jeku6esqljw5cqg7kud7pqkqdw9lm5": {
@@ -1882,7 +1858,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1kggddmdvjjxl43luez7dp9snt96jwyj05k5hyxzstvj886u6entsu2na4z"
+      "pool": "kujira15t6pjrwvsgszgp3g9jwcgkvq9zawur6d2ncz7rzn9pc4ns9kudssxhn9v7"
     },
     "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06": {
       "address": "kujira1gvfjvm09gunj9qkygvzr93ld7hux9nwa9k2t8lug8g46p4x8vt0q3xhu06",
@@ -2534,7 +2510,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1nxfag552cng6lwf2q3duyepgvenr670ngj8uljpeydy0rvftgt9qkgd6sq"
+      "pool": "kujira1rpqhczdrgaa6w0h9fukdcppme3074zcay8ge8lazwefdawp03vwsnpc7ya"
     },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
@@ -3591,7 +3567,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira12jayn8m8fzw9jdknarj25qwatamnajcf0y3gyxlg56qavt9c6j3slh5ghd"
+      "pool": "kujira12uu0rch5f8khm0kkpcnuqxlj9wq73nymjllrqsp5x642t30jvlfqr7lkkn"
     },
     "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p": {
       "address": "kujira15lr6627jahfxgdc53mup86md8jda6xevzsd5nlp39v2fpt3ymv6s70wv2p",
@@ -4486,7 +4462,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1t8r48s0d7g2unxa9x58c0mqdml63pyxrkhxm6flqae8y4q4xz37sj0ch4d"
+      "pool": "kujira1s9w2r9ldh54qcj8zg87egtf44g0r7xnw2auumv5k629vulqq8nps32qstc"
     },
     "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0": {
       "address": "kujira1625a0ks8ceawxsu2am5xxpwtej87h0t3hguqu4rxuq37vgn6lnqsrrqkq0",
@@ -5261,7 +5237,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1fng8pgtmwacmdqudeg7sl6jkwea2zh46rt46fkrdmm75p93pt3xs3prww5"
+      "pool": "kujira1wjkcghnhc02407jhls2acu7kguaz5445vsp97ljsuh6yer7epwkqrdf2t8"
     },
     "kujira19m0dg0ggvpv8js3gt0jx04r6rx7ru9x2ra5v0mwhmc8zlk6vngxsj9r4qd": {
       "address": "kujira19m0dg0ggvpv8js3gt0jx04r6rx7ru9x2ra5v0mwhmc8zlk6vngxsj9r4qd",
