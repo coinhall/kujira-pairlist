@@ -7,7 +7,7 @@ settings:
 dependencies:
   kujira.js:
     specifier: github:Team-Kujira/kujira.js
-    version: github.com/Team-Kujira/kujira.js/76f11a33f3dd5d8b8c080d293fc8e52067ec564c
+    version: github.com/Team-Kujira/kujira.js/417864b52ab1d5d465ffc227db9ed5a7d169ed8e
   tsx:
     specifier: ^4.7.1
     version: 4.7.1
@@ -53,13 +53,6 @@ packages:
 
   /@babel/runtime@7.23.9:
     resolution: {integrity: sha512-0CX6F+BI2s9dkUqr08KFrAIZgNFj75rdBU/DjCyYLIaV/quFjkk6T+EJ2LkZHyZTbEV4L5p97mNkUsHl2wLFAw==}
-    engines: {node: '>=6.9.0'}
-    dependencies:
-      regenerator-runtime: 0.14.1
-    dev: false
-
-  /@babel/runtime@7.24.4:
-    resolution: {integrity: sha512-dkxf7+hn8mFBwKjs9bvBlArzLVxVbS8usaPUDd5p2a9JCL9tB8OaOVN1isD4+Xyk4ns89/xeOmbQvgdK7IIVdA==}
     engines: {node: '>=6.9.0'}
     dependencies:
       regenerator-runtime: 0.14.1
@@ -113,39 +106,10 @@ packages:
     dev: false
     optional: true
 
-  /@chain-registry/client@1.28.0:
-    resolution: {integrity: sha512-VdwH58DLnsLDmNA+XiZEuCHuuREowz2kHPorJb0noXJr6nMSLluOcCr0pjApX7GnAZ6P/VK9adzv8BrFUzSJhg==}
-    dependencies:
-      '@chain-registry/types': 0.25.0
-      '@chain-registry/utils': 1.26.0
-      bfs-path: 1.0.2
-      cross-fetch: 3.1.8
-    transitivePeerDependencies:
-      - encoding
-    dev: false
-
-  /@chain-registry/types@0.17.0:
-    resolution: {integrity: sha512-lavACU4oDxioUy8lZOFZN0Vrr2qR+Dg2yEh/mkrPfOldcioavREXJou0elDyyXwq4pGLC5YQ+IISCtQ4Du0bdw==}
-    dependencies:
-      '@babel/runtime': 7.24.4
-    dev: false
-
   /@chain-registry/types@0.18.0:
     resolution: {integrity: sha512-jRFOKOMIAcA5Qp5cXEiAPyXs13WbSP19kvcb8qm5vaRwXvHMufPd/ZxLC80yq/LB62FeZeaVYfsjorLf3M6tTw==}
     dependencies:
       '@babel/runtime': 7.23.9
-    dev: false
-
-  /@chain-registry/types@0.25.0:
-    resolution: {integrity: sha512-bbP+aBT1NF+xKXCvT6VA+zLlnagKZqlTepx7qaszej86WBSTXpV7e540WXhk8qEWlUKubg8Y3prx7uoN1HAVPA==}
-    dev: false
-
-  /@chain-registry/utils@1.26.0:
-    resolution: {integrity: sha512-4Ui/AIAsBw67mv5vOF+KFJM4AjPp/t+V0u6hGOZ4IWeQgB7eXbplR7Hzj1ScMVuV8fBHlaTq14MFIIlRjph+LQ==}
-    dependencies:
-      '@chain-registry/types': 0.25.0
-      bignumber.js: 9.1.1
-      sha.js: 2.4.11
     dev: false
 
   /@confio/ics23@0.6.8:
@@ -287,39 +251,14 @@ packages:
     resolution: {integrity: sha512-WCZK4yksj2hBDz4w7xFZQTRZQ/RJhBX26uFHmmQFIcNUUVAihrLO+RerqJgk0dZqC42wstM9pEUQGtPmLcIYvg==}
     dev: false
 
-  /@cosmos-kit/core@2.8.9:
-    resolution: {integrity: sha512-e0Fqbut9mqHlFS6QnLSbU8AFYPtXUcKVaMJsL1dKbfTotACsECgnAs4gzXaTFo3sTwEJrNZ6cq86qvqV85X6uw==}
+  /@dao-dao/cosmiframe@0.1.0(@cosmjs/proto-signing@0.32.3):
+    resolution: {integrity: sha512-NW4pGt1ctqDfhn/A6RU2vwnFEu3O4aBNnBMrGnw31n+L35drYNEsA9ZB7KZsHmRRlkNx+jSuJSv2Fv0BFBDDJQ==}
+    peerDependencies:
+      '@cosmjs/amino': '>= ^0.32'
+      '@cosmjs/proto-signing': '>= ^0.32'
     dependencies:
-      '@chain-registry/client': 1.28.0
-      '@chain-registry/types': 0.17.0
-      '@cosmjs/amino': 0.32.3
-      '@cosmjs/cosmwasm-stargate': 0.32.3
       '@cosmjs/proto-signing': 0.32.3
-      '@cosmjs/stargate': 0.32.3
-      '@walletconnect/types': 2.11.0
-      bowser: 2.11.0
-      cosmjs-types: 0.9.0
-      events: 3.3.0
       uuid: 9.0.1
-    transitivePeerDependencies:
-      - '@azure/app-configuration'
-      - '@azure/cosmos'
-      - '@azure/data-tables'
-      - '@azure/identity'
-      - '@azure/keyvault-secrets'
-      - '@azure/storage-blob'
-      - '@capacitor/preferences'
-      - '@netlify/blobs'
-      - '@planetscale/database'
-      - '@react-native-async-storage/async-storage'
-      - '@upstash/redis'
-      - '@vercel/kv'
-      - bufferutil
-      - debug
-      - encoding
-      - ioredis
-      - uWebSockets.js
-      - utf-8-validate
     dev: false
 
   /@esbuild/aix-ppc64@0.19.12:
@@ -1185,32 +1124,6 @@ packages:
       tslib: 1.14.1
     dev: false
 
-  /@walletconnect/types@2.11.0:
-    resolution: {integrity: sha512-AB5b1lrEbCGHxqS2vqfCkIoODieH+ZAUp9rA1O2ftrhnqDJiJK983Df87JhYhECsQUBHHfALphA8ydER0q+9sw==}
-    dependencies:
-      '@walletconnect/events': 1.0.1
-      '@walletconnect/heartbeat': 1.2.1
-      '@walletconnect/jsonrpc-types': 1.0.3
-      '@walletconnect/keyvaluestorage': 1.1.1
-      '@walletconnect/logger': 2.1.2
-      events: 3.3.0
-    transitivePeerDependencies:
-      - '@azure/app-configuration'
-      - '@azure/cosmos'
-      - '@azure/data-tables'
-      - '@azure/identity'
-      - '@azure/keyvault-secrets'
-      - '@azure/storage-blob'
-      - '@capacitor/preferences'
-      - '@netlify/blobs'
-      - '@planetscale/database'
-      - '@react-native-async-storage/async-storage'
-      - '@upstash/redis'
-      - '@vercel/kv'
-      - ioredis
-      - uWebSockets.js
-    dev: false
-
   /@walletconnect/types@2.12.2:
     resolution: {integrity: sha512-9CmwTlPbrFTzayTL9q7xM7s3KTJkS6kYFtH2m1/fHFgALs6pIUjf1qAx1TF2E4tv7SEzLAIzU4NqgYUt2vWXTg==}
     dependencies:
@@ -1401,14 +1314,6 @@ packages:
     resolution: {integrity: sha512-s0IrSOzLlbvX7yp4WBfPITzpAU8sqQcpsmwXDiKwrG4r491vwCO/XpejasRNl0piBMe/DvP4Tz0mIS/X1DPJBQ==}
     dev: false
 
-  /bfs-path@1.0.2:
-    resolution: {integrity: sha512-KTKx2JJtAAAT7C/rJYDXXWA2VLPycAS4kwFktKsxUo0hj4UTtw/Gm5PJuY7Uf3xSlIQNo7HRCSWei2ivncVwbQ==}
-    dev: false
-
-  /bignumber.js@9.1.1:
-    resolution: {integrity: sha512-pHm4LsMJ6lzgNGVfZHjMoO8sdoRhOzOH4MLmY65Jg70bpxCKu5iOHNJyfF6OyvYw7t8Fpf35RuzUyqnQsj8Vig==}
-    dev: false
-
   /bignumber.js@9.1.2:
     resolution: {integrity: sha512-2/mKyZH9K85bzOEfhXDBFZTGd1CTs+5IHpeFQo9luiBG7hghdC851Pj2WAhb6E3R6b9tZj/XKhbg4fum+Kepug==}
     dev: false
@@ -1424,10 +1329,6 @@ packages:
 
   /bn.js@5.2.1:
     resolution: {integrity: sha512-eXRvHzWyYPBuB4NBy0cmYQjGitUrtqwbvlzP3G6VFnNRbsZQIxQ10PbKKHt8gZ/HW/D/747aDl+QkDqg3KQLMQ==}
-    dev: false
-
-  /bowser@2.11.0:
-    resolution: {integrity: sha512-AlcaJBi/pqqJBIQ8U9Mcpc9i8Aqxn88Skv5d+xBX006BY5u8N3mGLHa5Lgppa7L/HfwgwLgZ6NYs+Ag6uUmJRA==}
     dev: false
 
   /brace-expansion@1.1.11:
@@ -1571,14 +1472,6 @@ packages:
 
   /cosmjs-types@0.9.0:
     resolution: {integrity: sha512-MN/yUe6mkJwHnCFfsNPeCfXVhyxHYW6c/xDUzrSbBycYzw++XvWDMJArXp2pLdgD6FQ8DW79vkPjeNKVrXaHeQ==}
-    dev: false
-
-  /cross-fetch@3.1.8:
-    resolution: {integrity: sha512-cvA+JwZoU0Xq+h6WkMvAUqPEYy92Obet6UdKLfW60qn99ftItKjB5T+BkyWOFWe2pUyfQ+IJHmpOTznqk1M6Kg==}
-    dependencies:
-      node-fetch: 2.7.0
-    transitivePeerDependencies:
-      - encoding
     dev: false
 
   /cross-spawn@7.0.3:
@@ -2795,14 +2688,6 @@ packages:
       lru-cache: 6.0.0
     dev: true
 
-  /sha.js@2.4.11:
-    resolution: {integrity: sha512-QMEp5B7cftE7APOjk5Y6xgrbWu+WkLVQwk8JNjZ8nKRciZaByEW6MubieAiToS7+dwvrjGhH8jRXz3MVd0AYqQ==}
-    hasBin: true
-    dependencies:
-      inherits: 2.0.4
-      safe-buffer: 5.2.1
-    dev: false
-
   /shebang-command@2.0.0:
     resolution: {integrity: sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA==}
     engines: {node: '>=8'}
@@ -3174,15 +3059,15 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/76f11a33f3dd5d8b8c080d293fc8e52067ec564c:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/76f11a33f3dd5d8b8c080d293fc8e52067ec564c}
+  github.com/Team-Kujira/kujira.js/417864b52ab1d5d465ffc227db9ed5a7d169ed8e:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/417864b52ab1d5d465ffc227db9ed5a7d169ed8e}
     name: kujira.js
-    version: 1.0.44
+    version: 1.0.46
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.32.3
       '@cosmjs/proto-signing': 0.32.3
       '@cosmjs/stargate': 0.32.3
-      '@cosmos-kit/core': 2.8.9
+      '@dao-dao/cosmiframe': 0.1.0(@cosmjs/proto-signing@0.32.3)
       '@ethersproject/bignumber': 5.7.0
       '@keplr-wallet/types': 0.12.80
       '@leapwallet/cosmos-snap-provider': 0.1.26
@@ -3204,6 +3089,7 @@ packages:
       - '@azure/keyvault-secrets'
       - '@azure/storage-blob'
       - '@capacitor/preferences'
+      - '@cosmjs/amino'
       - '@netlify/blobs'
       - '@planetscale/database'
       - '@react-native-async-storage/async-storage'

@@ -20,7 +20,36 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1xtaadmh06s8u3z5mypp8qayhrnxgga5wr88s7raram4rz8zu37hquf82wk",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira15jee09gvnsa9ujjfuddqp5aayx5j2r7yfr772gkm2kzmw4sjr0dqcrgk32",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+          "decimals": 6,
+          "symbol": "MNTA"
+        },
+        "oracleDenom": "MNTA",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1pyk5uuc24vymhd58getklf6vk67s5hez6kw93dzxf90myrakxz3s7vn6sr",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ggtmfuktfcf6plhtdejyyqn5de5uge3tef0jv64ru68h2ctuvyqs3355mn": {
       "address": "kujira1ggtmfuktfcf6plhtdejyyqn5de5uge3tef0jv64ru68h2ctuvyqs3355mn",
@@ -118,7 +147,40 @@
       },
       "decimalDelta": 2,
       "multiswap": true,
-      "pool": "kujira1vcmh95lje5dln782pxckma65eujs4sv960w22whgsp7a2ajsc6lsvnlhgd"
+      "pool": "kujira1vcmh95lje5dln782pxckma65eujs4sv960w22whgsp7a2ajsc6lsvnlhgd",
+      "margin": {
+        "address": "kujira15622t4c8pmd3032w0kr72fjv8dnrtvxlzhavy7fn36v3km92np2s4nw066",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/E5CA126979E2FFB4C70C072F8094D07ECF27773B37623AD2BF7582AD0726F0F3",
+          "decimals": 8,
+          "symbol": "SOL.wh",
+          "trace": {
+            "path": "transfer/channel-113",
+            "base_denom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA"
+          }
+        },
+        "oracleDenom": "SOL",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1jkzac8x2x0s4t2xdya4f455af8purhl8tu4z7hpdcp5nxg9jksjq8ja7xk",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck": {
       "address": "kujira1nm3yktzcgpnvwu6qpzqgl2ktyvlgsstc7ev849dd3ulaygw75mqqxvtnck",
@@ -144,7 +206,39 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1n648rfqqvjxm6c7zgfnfqay85rkapgg0z7da9pnmjazz5m5d7l0qxdtq90",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "margin": {
+        "address": "kujira1ew0rmn2w69et8pq074p480rw247f850ygx373cs5an76uxtph5ts0ggh0r",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
+          "decimals": 6,
+          "symbol": "STARS",
+          "trace": {
+            "base_denom": "ustars",
+            "path": "transfer/channel-7"
+          }
+        },
+        "oracleDenom": "STARS",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira15xf7rsnuagkjyf5ed6rdecgygtak80kdnc0t87uv5606y95dcntqyee5la",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd": {
       "address": "kujira1ljcd9uy9az9ayhlrws268gkx5ezwtjh6a36p525myqpedfgdalgqmv4ttd",
@@ -895,7 +989,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1nxq9hkkuh7qkmklua2ejezqs296j2h202sfrz0w3ggvz6sj2g5vqlp3x6z"
+      "pool": "kujira1nxq9hkkuh7qkmklua2ejezqs296j2h202sfrz0w3ggvz6sj2g5vqlp3x6z",
+      "margin": {
+        "address": "kujira1l6xlesdszkf0zvxvv25nrq5786ng0zn97p6mwnk8pgtq5g042lvsgdgcmf",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/96179F5B44CCC15E03AB43D7118E714B4D5CE8F187F7D8A60F2A514299761EA9",
+          "decimals": 18,
+          "symbol": "ARB.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "arb-wei"
+          }
+        },
+        "oracleDenom": "ARB",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1hdm7rw8t9903t5etqc6mpce3q5dslqqhczznvkz5xr4rzrq72gpqwkxlws",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1zdf0zjz8grfhhe2x06k8f8xpnv04y90w06f4py7fjml4nmukn3yswk3ugc": {
       "address": "kujira1zdf0zjz8grfhhe2x06k8f8xpnv04y90w06f4py7fjml4nmukn3yswk3ugc",
@@ -1048,7 +1175,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira10y2sxew858txsfufrv366hkdm5lgn8w6dkhtxv8mdsmh7z8yuzfq9tptmz"
+      "pool": "kujira10y2sxew858txsfufrv366hkdm5lgn8w6dkhtxv8mdsmh7z8yuzfq9tptmz",
+      "margin": {
+        "address": "kujira1c3psvlqe5cxcd88esjjtqwnql5m7alv7u9ywd65cq5cve9ns7ums3t6286",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6",
+          "decimals": 18,
+          "symbol": "wMATIC.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wmatic-wei"
+          }
+        },
+        "oracleDenom": "MATIC",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1nt76mfz0jx9dzz6mgxd2hvxwzs9tjkn9sm335mrx66zc4xx7mh5qpr8v2v",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx": {
       "address": "kujira1ryul6unmsnjccsugtempgdtly3gsdtu8af44yt5sqf4zpkgg7vjqkpxjjx",
@@ -1102,7 +1262,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira174ayynr8cjea63r8a4xj84kqjxlfa0e0l4jnk27p3hyvdk8z34eqj6gn9g"
+      "pool": "kujira174ayynr8cjea63r8a4xj84kqjxlfa0e0l4jnk27p3hyvdk8z34eqj6gn9g",
+      "margin": {
+        "address": "kujira15zdlffldlarh9m8hehq3sugc4ah0svllgve9jmz8w8lp24a6rfrq82wcs4",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/B4DCACF7753C05040AF0A7BF2B583402C4B8C9B0A86FCECE32EF63CB7F0A46B3",
+          "decimals": 18,
+          "symbol": "PAXG.grv",
+          "trace": {
+            "path": "transfer/channel-50",
+            "base_denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+          }
+        },
+        "oracleDenom": "PAXG",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1rn99882aqqy6zcs6clua7zn6zsl74hamqchacg8d9gxh304hequsflxfjt",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1rwx6w02alc4kaz7xpyg3rlxpjl4g63x5jq292mkxgg65zqpn5llq202vh5": {
       "address": "kujira1rwx6w02alc4kaz7xpyg3rlxpjl4g63x5jq292mkxgg65zqpn5llq202vh5",
@@ -1573,7 +1766,40 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1ldsj2f7t7tw0g52f0gmfpm3jjm92nut30829jjypt3p7cegurzfq9frmt4",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira1e829h3ydue7pv58rf03uz3j35wq9t69prkkh8dxwpm5alxgdym2sku8w3s",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
+          "decimals": 6,
+          "symbol": "WHALE",
+          "trace": {
+            "path": "transfer/channel-58",
+            "base_denom": "uwhale"
+          }
+        },
+        "oracleDenom": "WHALE",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1h8rydq67kcjvuc53krsqektcdqkjqzqn8dcskl94400z0n2m423qc5cm4y",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1xcucyc9meurn53x6r3f0744che4qzrsu6mvxt48aesz8dur6f9dsxg82h3": {
       "address": "kujira1xcucyc9meurn53x6r3f0744che4qzrsu6mvxt48aesz8dur6f9dsxg82h3",
@@ -1652,7 +1878,40 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira17pfjnng0j8nzkn0kyt0xsfpwj2cfft4yqxv8dmkqzl2adsn9fh0sc4rddu",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira1mjgy9au45takn79z7rsmw7aan8knjqg3ue5g6qrt4ag3ur29twqqcf5cp5",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/0306D6B66EAA2EDBB7EAD23C0EC9DDFC69BB43E80B398035E90FBCFEF3FD1A87",
+          "decimals": 6,
+          "symbol": "stATOM",
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuatom"
+          }
+        },
+        "oracleDenom": "STATOM",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira144sn0hdpar2enufzme5wqgefeng6m6np6csadmwy7sk5ae3pv9wqw0hj75",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira18fwp2vx8r6lng67q8d3kqzm0sdzh5zrnma88e0qle5hn0wqp5maql760yd": {
       "address": "kujira18fwp2vx8r6lng67q8d3kqzm0sdzh5zrnma88e0qle5hn0wqp5maql760yd",
@@ -1948,7 +2207,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1atnrjnyjm4u2znshlt48nwyeqtfyzuqseyj59lylvkvd4dtevdgss6jn4a"
+      "pool": "kujira1atnrjnyjm4u2znshlt48nwyeqtfyzuqseyj59lylvkvd4dtevdgss6jn4a",
+      "margin": {
+        "address": "kujira14904spjxh5gygtcz4mqpp45dvnmwfudealw8uqpsse70rr29z0uqe6an5h",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2",
+          "decimals": 18,
+          "symbol": "wAVAX.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wavax-wei"
+          }
+        },
+        "oracleDenom": "AVAX",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1mxlgnfspc4de38nh85t2sz963fk0v40vzrlswkcmvhlpznjvtmqsq9pvj5",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de": {
       "address": "kujira1ff9pnz3ekflj6vkyk2taf4tvvjh4a8fp8hetw3dc59xu8ywl8tmstcf9de",
@@ -2052,7 +2344,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1qjw6s2l0j54esx8swmgnf2509ydxqur53wna72ajyqlu3hrdrxgsf4d6jx"
+      "pool": "kujira1qjw6s2l0j54esx8swmgnf2509ydxqur53wna72ajyqlu3hrdrxgsf4d6jx",
+      "margin": {
+        "address": "kujira10rrwyfejxxhav7h0vx3vz6hp3r6fcslrcysq69ys644k2tm8ezxsjnrt5a",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/FC59D6840A41252352263CEA2B832BB86D68D03CBA194263CB9F3C15946796FB",
+          "decimals": 18,
+          "symbol": "LINK.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "link-wei"
+          }
+        },
+        "oracleDenom": "LINK",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1m62uxu22xp5h2x8muln2ylfcs8cup6vktgztvzag4466araw6ffsfxv9jw",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira12zc52j25xac565t297rmd3huj8zh62usrecy66rzxnsf9mchaepqnwx3cg": {
       "address": "kujira12zc52j25xac565t297rmd3huj8zh62usrecy66rzxnsf9mchaepqnwx3cg",
@@ -2230,7 +2555,40 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1s4s460gac6g8us9v4rtea3fwye849kxmnwamjzf2rdscn8sylcgqfcqchm"
+      "pool": "kujira1s4s460gac6g8us9v4rtea3fwye849kxmnwamjzf2rdscn8sylcgqfcqchm",
+      "margin": {
+        "address": "kujira1mglpsr7t5sjh2slvut5g2uvcp0lnnd8c5ea37w9mdcullrdqn6qqyzekn0",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/F97BDCE220CCB52139C73066E36C45EC7EDCEEF1DAFF891A34F4FBA195A2E6E8",
+          "decimals": 6,
+          "symbol": "stOSMO",
+          "trace": {
+            "path": "transfer/channel-32",
+            "base_denom": "stuosmo"
+          }
+        },
+        "oracleDenom": "STOSMO",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1t0fhck94yauu8j22jjdevvqx33ljtfvfzs34t4nrgq8832ng3t5slmw7m6",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl": {
       "address": "kujira1te7w4e9w0gqakaxhakqs2k2gqmtnfgx36qh9zadh2yxl750c369qfu7uxl",
@@ -2510,7 +2868,40 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1rpqhczdrgaa6w0h9fukdcppme3074zcay8ge8lazwefdawp03vwsnpc7ya"
+      "pool": "kujira1nxfag552cng6lwf2q3duyepgvenr670ngj8uljpeydy0rvftgt9qkgd6sq",
+      "margin": {
+        "address": "kujira1zgaqg6aphqx77td2tengreqke5mqg09rl992txtpflw7v7xy7y3q24lvaq",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+          "decimals": 6,
+          "symbol": "AXL",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "uaxl"
+          }
+        },
+        "oracleDenom": "AXL",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1rju3fvv4ntfjw7v8dnxyphrlhv8x23v0trs6eswcvplx2ykhflvql6ll2a",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8": {
       "address": "kujira1ddeadmhum3umygv84frhc87gl2grzjmx9x8fuhjts7zqwuc39xuq53w3d8",
@@ -2535,7 +2926,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira12knqz6rnf7jujyhnq7lvreyeylnts0n0vjfax4gnuvhsu5a9dm7qf687jv"
+      "pool": "kujira12knqz6rnf7jujyhnq7lvreyeylnts0n0vjfax4gnuvhsu5a9dm7qf687jv",
+      "margin": {
+        "address": "kujira1525g06cat6q5lhjlt2qx5rf644s5v6cc8uru9sufs9xm2rf7pnysdkrrdy",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/5A3DCF59BC9EC5C0BB7AA0CA0279FC2BB126640CB8B8F704F7BC2DC42495041B",
+          "decimals": 18,
+          "symbol": "INJ",
+          "trace": {
+            "path": "transfer/channel-54",
+            "base_denom": "inj"
+          }
+        },
+        "oracleDenom": "INJ",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1pc2u05xe5h68qjuy6xe9t4frx6ndc5j50xgrs3qnjzyp3jt0wdtq6tpvut",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1dsmm4q4kgs0nfsryrmlv7wq2dxp6uzruzqalc5xp30ztlmplgm7qms2qsa": {
       "address": "kujira1dsmm4q4kgs0nfsryrmlv7wq2dxp6uzruzqalc5xp30ztlmplgm7qms2qsa",
@@ -2720,7 +3144,40 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1tusycaz084ugfr87spy9f5gu8cxr0jg4ew2g2396lk3ft6af4cnsxdwgrf"
+      "pool": "kujira1tusycaz084ugfr87spy9f5gu8cxr0jg4ew2g2396lk3ft6af4cnsxdwgrf",
+      "margin": {
+        "address": "kujira1t8wtmhju9xxn2kyxz5zyhhsmzda86fhmcfmc3t2stw0ccf84megstjzs62",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
+          "decimals": 6,
+          "symbol": "SOMM",
+          "trace": {
+            "path": "transfer/channel-69",
+            "base_denom": "usomm"
+          }
+        },
+        "oracleDenom": "SOMM",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1ksncqdtvejxrwwf6ng7lttqxe2parukqqd0eu5c2u9pqu26ru59sw3csem",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e": {
       "address": "kujira1w6gpsfn55ufh3g3pf6qjrdhfj6rp09zqmruvgvzupkl39mtlpcdqw2ys7e",
@@ -3800,7 +4257,40 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira15l8396c5cnvlu7qyzva9yvj4gm8dzlnk999ss4qknm74ytm3v7dsawt3sx"
+      "pool": "kujira15l8396c5cnvlu7qyzva9yvj4gm8dzlnk999ss4qknm74ytm3v7dsawt3sx",
+      "margin": {
+        "address": "kujira1fylpf8u8rk28ztdg02cdl7dup4tsqer0cal6u2cyvvssh2h2unxqwf2dfq",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2",
+          "decimals": 18,
+          "symbol": "wFTM.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wftm-wei"
+          }
+        },
+        "oracleDenom": "FTM",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1vcvs65esfukj8ltawmhzz6wk6vl49cjmejuq8szj60edheerte3qwj05k7",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp": {
       "address": "kujira1ky0v9x7rnuht2j327rlrhkcs37capvrag48qmgs5uxg0356h89kqgn55rp",
@@ -4667,7 +5157,40 @@
       "decimalDelta": 2,
       "multiswap": true,
       "pool": "kujira1g7597zvu8kte7jyg8e297sj363qwyp5mw4hr9cmv49r3dhv599jsdpx9qs",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu",
+      "margin": {
+        "address": "kujira192pl576z9qgj4awmpl3zpv5evct43acf4989gsrs7jf7duhy58hq82gtws",
+        "owner": "kujira1tsekaqv9vmem0zwskmf90gpf0twl6k57e8vdnq",
+        "stableDenom": {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        },
+        "stableDenomAdmin": "kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7",
+        "collateralDenom": {
+          "reference": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
+          "decimals": 8,
+          "symbol": "wBTC.axl",
+          "trace": {
+            "path": "transfer/channel-9",
+            "base_denom": "wbtc-satoshi"
+          }
+        },
+        "oracleDenom": "WBTC",
+        "maxRatio": 0.5,
+        "mintFee": 0.001,
+        "interestRate": 0,
+        "orcaAddress": "kujira1dut3mk28wr4ls8u2tfg7zerkrwlyrdtcktm84f2mstz3esz86csshp6p4k",
+        "maxDebt": {
+          "type": "BigNumber",
+          "hex": "0x174876e800"
+        },
+        "liquidationThreshold": {
+          "type": "BigNumber",
+          "hex": "0x3b9aca00"
+        },
+        "liquidationRatio": 0.1
+      }
     },
     "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl": {
       "address": "kujira1ullqzk95uh0derdqpp8e5f4ukdun00xdal486zmjeeqsfhefgd0qh0qndl",
@@ -5237,7 +5760,7 @@
       },
       "decimalDelta": 12,
       "multiswap": true,
-      "pool": "kujira1wjkcghnhc02407jhls2acu7kguaz5445vsp97ljsuh6yer7epwkqrdf2t8"
+      "pool": "kujira1a3vvzsjwh96zr2j0h844nqmev4h7p5m2fgl98mndn7r6nexcx5kqher94l"
     },
     "kujira19m0dg0ggvpv8js3gt0jx04r6rx7ru9x2ra5v0mwhmc8zlk6vngxsj9r4qd": {
       "address": "kujira19m0dg0ggvpv8js3gt0jx04r6rx7ru9x2ra5v0mwhmc8zlk6vngxsj9r4qd",
@@ -5262,7 +5785,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1xd8hqs8fxzgt45ghn040mj5pmqem94d92n6zw8yyslznq5xuc9qsvfkf76"
+      "pool": "kujira1xd8hqs8fxzgt45ghn040mj5pmqem94d92n6zw8yyslznq5xuc9qsvfkf76",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     }
   },
   "harpoon-4": {
@@ -5735,6 +6259,153 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1n4xh80058pdhlmq9ylka2uz9eawdwzcg283828vt9y23sj5fjeksndqp5v"
+    },
+    "kujira165pw3kaqxj4rhr7y8jjka2n3wllvf9hlc2u6555mt0neulfp8zeqrd8awc": {
+      "address": "kujira165pw3kaqxj4rhr7y8jjka2n3wllvf9hlc2u6555mt0neulfp8zeqrd8awc",
+      "denoms": [
+        {
+          "reference": "ukuji",
+          "decimals": 6,
+          "symbol": "KUJI"
+        },
+        {
+          "reference": "factory/kujira1ryx837fck4xytszw8jt5y3ja5qpx4pl2rzyzy3/uatom",
+          "decimals": 6,
+          "symbol": "ATOM"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1s9hywlvtl3smu4ladtq75lkgecq6v6u4vml8wmj6k6jt0zhwwe7q957rcl"
+    },
+    "kujira1la5758xh6etg4lnzy2lh66v44cz5ahf09cywqap2nqn660ctcsdqp270fj": {
+      "address": "kujira1la5758xh6etg4lnzy2lh66v44cz5ahf09cywqap2nqn660ctcsdqp270fj",
+      "denoms": [
+        {
+          "reference": "factory/kujira1ryx837fck4xytszw8jt5y3ja5qpx4pl2rzyzy3/uatom",
+          "decimals": 6,
+          "symbol": "ATOM"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira17fu4hlhpdtux77zxv6qaaw33dr0wa0gtzm5wtzpg89r32ef7wy8sy0ycv6"
+    },
+    "kujira1hans838n2jlptwur5euph6fge2s7medudhasdamev5nxq6042llsvjur8s": {
+      "address": "kujira1hans838n2jlptwur5euph6fge2s7medudhasdamev5nxq6042llsvjur8s",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/uhrqn",
+          "decimals": 6,
+          "symbol": "HRQN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1qqw5yy7m93mm5x7aypuljyn8kjqdwcx66lpsahkr8emkmn7qdqjqptjnnk"
+    },
+    "kujira1hqjp4630g3x04qraly69v74jlfhxv7c3ax0u4087qhzpzwzey3vqqr36q6": {
+      "address": "kujira1hqjp4630g3x04qraly69v74jlfhxv7c3ax0u4087qhzpzwzey3vqqr36q6",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/usend",
+          "decimals": 6,
+          "symbol": "SEND"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 7
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1xdlm7q97cprpn5j4c70hlxgkzjk90nvhh2leh0f0gdksjt93gxzqq6kega"
+    },
+    "kujira1wdj0t6wwx2nsfxwnmpm248y2pvwmnfvel5sjtc8ta3pv659tqz8qyxhngg": {
+      "address": "kujira1wdj0t6wwx2nsfxwnmpm248y2pvwmnfvel5sjtc8ta3pv659tqz8qyxhngg",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/uwenmoon",
+          "decimals": 6,
+          "symbol": "WENMOON"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 7
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1msf6hs8kgmg0ac9upnkac89ygexfy0c688ac6j82p20w224kgefq548kmm"
+    },
+    "kujira1lkl9x2v8xazymej4p0mvp9rkyvjqz7myme2jmd9nw8s6aj9hhf6qnzzmdp": {
+      "address": "kujira1lkl9x2v8xazymej4p0mvp9rkyvjqz7myme2jmd9nw8s6aj9hhf6qnzzmdp",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/uwagmi",
+          "decimals": 6,
+          "symbol": "WAGMI"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 7
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1lx7ctvyglshlh2gvc6pqd4a80mf044n0s68lctrkq50vn6wjrmyqchjsck"
+    },
+    "kujira1atpz6uzucseykc75e3fm8sfl7tzpfv76qru7dr863n6zmmgu4edselr92s": {
+      "address": "kujira1atpz6uzucseykc75e3fm8sfl7tzpfv76qru7dr863n6zmmgu4edselr92s",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/usend",
+          "decimals": 6,
+          "symbol": "SEND"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira16g9qysgrlhn8x0u09r3t7azpv8dap86a9cxr98tfl4rd9trthqxsh42ncy"
     }
   },
   "pond-1": {}
