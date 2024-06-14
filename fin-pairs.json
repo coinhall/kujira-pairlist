@@ -5979,12 +5979,34 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 4
+        "decimal_places": 6
       },
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1xd8hqs8fxzgt45ghn040mj5pmqem94d92n6zw8yyslznq5xuc9qsvfkf76",
       "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+    },
+    "kujira19n770r9q5haax7mfgy8acrgz7gsamgyjhcvqvxfgrq25983lc42qtszngq": {
+      "address": "kujira19n770r9q5haax7mfgy8acrgz7gsamgyjhcvqvxfgrq25983lc42qtszngq",
+      "denoms": [
+        {
+          "reference": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/ukart",
+          "decimals": 6,
+          "symbol": "KART"
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": null,
+      "precision": {
+        "decimal_places": 6
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1d43vclv2dqknf5d0a9mkfkynfh3xw48m8rrvagn9dm6969axtk6q9s8v0f"
     }
   },
   "harpoon-4": {
@@ -6655,13 +6677,13 @@
       "multiswap": true,
       "pool": "kujira1k9jm8s9wpnpee0khadwt3uxj3f82n5jl2y3jhxm694xju5mquz2qqyzwta"
     },
-    "kujira1c6y6m2w0krvk6vyde48zjn953uldxwtukzvzajagl74wggechcuscq64f3": {
-      "address": "kujira1c6y6m2w0krvk6vyde48zjn953uldxwtukzvzajagl74wggechcuscq64f3",
+    "kujira139gcly4l0vpkeay26x0cevj8et7tqlmsgpf2mjukvu8ts5y42yvsdqvcv2": {
+      "address": "kujira139gcly4l0vpkeay26x0cevj8et7tqlmsgpf2mjukvu8ts5y42yvsdqvcv2",
       "denoms": [
         {
-          "reference": "factory/kujira1mc8r0mcrye0tcwldn82fyyaa4zv6vve9j2me6h/uhans",
-          "decimals": 18,
-          "symbol": "HANS"
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ubsck",
+          "decimals": 6,
+          "symbol": "BSCK"
         },
         {
           "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
@@ -6669,15 +6691,35 @@
           "symbol": "USK"
         }
       ],
-      "oracles": [
-        "ETH",
-        "USDT"
-      ],
+      "oracles": null,
       "precision": {
-        "decimal_places": 2
+        "decimal_places": 6
       },
-      "decimalDelta": 12,
-      "multiswap": true
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira13rtm00dadmhjcyqkrj2g75vy0uf2yk7srwket5elpqwr35u6wyqsx3qc4p"
+    },
+    "kujira1ps4srjylkw22ldupwx9fgdwn7d894warcc0c8594pq8aeg4mzv2qtkz3w0": {
+      "address": "kujira1ps4srjylkw22ldupwx9fgdwn7d894warcc0c8594pq8aeg4mzv2qtkz3w0",
+      "denoms": [
+        {
+          "reference": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ukqrn",
+          "decimals": 6,
+          "symbol": "KQRN"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": null,
+      "precision": {
+        "decimal_places": 4
+      },
+      "decimalDelta": 0,
+      "multiswap": true,
+      "pool": "kujira1fkymspsmezw79fa76gvy35788pkyqvy7khwyk78vxns7wcmpaxzqj8a99w"
     }
   },
   "pond-1": {}
