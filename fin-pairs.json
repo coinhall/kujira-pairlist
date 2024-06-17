@@ -6007,6 +6007,35 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1d43vclv2dqknf5d0a9mkfkynfh3xw48m8rrvagn9dm6969axtk6q9s8v0f"
+    },
+    "kujira1u7c99cany6rsacvt4d3apaps36xt88pcxjxxjkyc8tphszs7qeyqfxqxwz": {
+      "address": "kujira1u7c99cany6rsacvt4d3apaps36xt88pcxjxxjkyc8tphszs7qeyqfxqxwz",
+      "denoms": [
+        {
+          "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+          "decimals": 18,
+          "symbol": "wETH.axl",
+          "trace": {
+            "base_denom": "weth-wei",
+            "path": "transfer/channel-9"
+          }
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": [
+        "WETH",
+        "USK"
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     }
   },
   "harpoon-4": {
