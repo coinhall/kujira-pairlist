@@ -6720,6 +6720,74 @@
       "decimalDelta": 0,
       "multiswap": true,
       "pool": "kujira1fkymspsmezw79fa76gvy35788pkyqvy7khwyk78vxns7wcmpaxzqj8a99w"
+    },
+    "kujira1ln0cy3r7ywrg9vu3gzyv9e5duvd0gkfet5xpjk7fazlpcurylksswfvtfr": {
+      "address": "kujira1ln0cy3r7ywrg9vu3gzyv9e5duvd0gkfet5xpjk7fazlpcurylksswfvtfr",
+      "denoms": [
+        {
+          "reference": "factory/kujira1mc8r0mcrye0tcwldn82fyyaa4zv6vve9j2me6h/uhans",
+          "decimals": 18,
+          "symbol": "HANS"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": null,
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira15zapl852s6xqplde59dccnymdjqpjku26u6j0jjq9tyw8d4w27jq0cyzyd"
+    },
+    "kujira1c8e3undr7rwpnjm5qhswgrrayggx5ch80gpjxqj6uesvyy58ehgsdktcts": {
+      "address": "kujira1c8e3undr7rwpnjm5qhswgrrayggx5ch80gpjxqj6uesvyy58ehgsdktcts",
+      "denoms": [
+        {
+          "reference": "factory/kujira1mc8r0mcrye0tcwldn82fyyaa4zv6vve9j2me6h/uhans",
+          "decimals": 18,
+          "symbol": "HANS"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": null,
+      "precision": {
+        "decimal_places": 5
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1ja378jcszhxc2c6xera4jadpnu6lx9923jt3qqfsfnm38hek04vsamg8vy"
+    },
+    "kujira1c6y6m2w0krvk6vyde48zjn953uldxwtukzvzajagl74wggechcuscq64f3": {
+      "address": "kujira1c6y6m2w0krvk6vyde48zjn953uldxwtukzvzajagl74wggechcuscq64f3",
+      "denoms": [
+        {
+          "reference": "factory/kujira1mc8r0mcrye0tcwldn82fyyaa4zv6vve9j2me6h/uhans",
+          "decimals": 18,
+          "symbol": "HANS"
+        },
+        {
+          "reference": "factory/kujira1r85reqy6h0lu02vyz0hnzhv5whsns55gdt4w0d7ft87utzk7u0wqr4ssll/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": [
+        "ETH",
+        "USDT"
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 12,
+      "multiswap": true
     }
   },
   "pond-1": {}
