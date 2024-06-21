@@ -7,7 +7,7 @@ settings:
 dependencies:
   kujira.js:
     specifier: github:Team-Kujira/kujira.js
-    version: github.com/Team-Kujira/kujira.js/709a7f42aba3dcd7987cbed74dc333e8b979726a
+    version: github.com/Team-Kujira/kujira.js/aca6ef1fa3d677ede2e8a26922856dd3c3f5af4f
   tsx:
     specifier: ^4.7.1
     version: 4.7.1
@@ -3059,10 +3059,10 @@ packages:
     requiresBuild: true
     dev: false
 
-  github.com/Team-Kujira/kujira.js/709a7f42aba3dcd7987cbed74dc333e8b979726a:
-    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/709a7f42aba3dcd7987cbed74dc333e8b979726a}
+  github.com/Team-Kujira/kujira.js/aca6ef1fa3d677ede2e8a26922856dd3c3f5af4f:
+    resolution: {tarball: https://codeload.github.com/Team-Kujira/kujira.js/tar.gz/aca6ef1fa3d677ede2e8a26922856dd3c3f5af4f}
     name: kujira.js
-    version: 1.0.55
+    version: 1.0.57
     dependencies:
       '@cosmjs/cosmwasm-stargate': 0.32.3
       '@cosmjs/proto-signing': 0.32.3
