@@ -626,7 +626,7 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 3
+        "decimal_places": 5
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -1386,7 +1386,7 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 3
+        "decimal_places": 5
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -1693,8 +1693,7 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1frkgelzh9zlxta5am49fvu9wsw4dgftkeqysa0fm95ywmfq2349sekc9cw",
-      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
+      "pool": "kujira1frkgelzh9zlxta5am49fvu9wsw4dgftkeqysa0fm95ywmfq2349sekc9cw"
     },
     "kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf": {
       "address": "kujira193dzcmy7lwuj4eda3zpwwt9ejal00xva0vawcvhgsyyp5cfh6jyq66wfrf",
@@ -1712,7 +1711,7 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 3
+        "decimal_places": 4
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -2505,7 +2504,8 @@
         "decimal_places": 4
       },
       "decimalDelta": 0,
-      "multiswap": true
+      "multiswap": true,
+      "pool": "kujira1j02zxg2aa4mv5p9uvsaudlj3zv04wzfw3fk8k468rh47km7e8r7spqyv3w"
     },
     "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm": {
       "address": "kujira12jdezs3kk6y04q3fnl7kq5567pcw0zfr7j0yfsxjqgggdkktut9s2gm7cm",
@@ -3242,7 +3242,7 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 3
+        "decimal_places": 5
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -4021,7 +4021,7 @@
       ],
       "oracles": null,
       "precision": {
-        "decimal_places": 6
+        "decimal_places": 8
       },
       "decimalDelta": 0,
       "multiswap": true,
@@ -6006,7 +6006,8 @@
       },
       "decimalDelta": 0,
       "multiswap": true,
-      "pool": "kujira1d43vclv2dqknf5d0a9mkfkynfh3xw48m8rrvagn9dm6969axtk6q9s8v0f"
+      "pool": "kujira1d43vclv2dqknf5d0a9mkfkynfh3xw48m8rrvagn9dm6969axtk6q9s8v0f",
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     },
     "kujira1pthddkfuml9zyax3t6c9avnnw95zz9k9u93lez0n4z33dma9ps5qdm0gtj": {
       "address": "kujira1pthddkfuml9zyax3t6c9avnnw95zz9k9u93lez0n4z33dma9ps5qdm0gtj",
@@ -6037,6 +6038,61 @@
       "decimalDelta": 12,
       "multiswap": true,
       "pool": "kujira1wj95sv6rny4ec2p6awef98jxk856l2nnrnusyu7nfldjhygpncgqluvnyy"
+    },
+    "kujira18dzwre82pl3yevrw8cl3lad7kpefwfx6fhpt7xn6v3w0u3mvwfuqsavh9s": {
+      "address": "kujira18dzwre82pl3yevrw8cl3lad7kpefwfx6fhpt7xn6v3w0u3mvwfuqsavh9s",
+      "denoms": [
+        {
+          "reference": "ibc/6A4CEDCEA40B587A4BCF7FDFB1D5A13D13F8A807A22A4E759EA702640CE086B0",
+          "decimals": 18,
+          "symbol": "DYDX",
+          "trace": {
+            "path": "transfer/channel-118",
+            "base_denom": "adydx"
+          }
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": null,
+      "precision": {
+        "decimal_places": 3
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "pool": "kujira1lctu7hy65466fxw3tcqf8w45zwrpwgd9chvjqpgyfgcr73k774nsv4ya6t"
+    },
+    "kujira1u7c99cany6rsacvt4d3apaps36xt88pcxjxxjkyc8tphszs7qeyqfxqxwz": {
+      "address": "kujira1u7c99cany6rsacvt4d3apaps36xt88pcxjxxjkyc8tphszs7qeyqfxqxwz",
+      "denoms": [
+        {
+          "reference": "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7",
+          "decimals": 18,
+          "symbol": "wETH.axl",
+          "trace": {
+            "base_denom": "weth-wei",
+            "path": "transfer/channel-9"
+          }
+        },
+        {
+          "reference": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+          "decimals": 6,
+          "symbol": "USK"
+        }
+      ],
+      "oracles": [
+        "WETH",
+        "USK"
+      ],
+      "precision": {
+        "decimal_places": 2
+      },
+      "decimalDelta": 12,
+      "multiswap": true,
+      "calc": "kujira1e6fjnq7q20sh9cca76wdkfg69esha5zn53jjewrtjgm4nktk824stzyysu"
     }
   },
   "harpoon-4": {
